@@ -1,0 +1,2355 @@
+{
+    "appName": {
+        "message": "WA Web Plus for WhatsApp™",
+        "description": ""
+    },
+    "appDesc": {
+        "message": "Daha fazla gizlilik ve güvenlik için WhatsApp Web için daha çok araç ve seçenek ekleyin.",
+        "description": ""
+    },
+    "privacy": {
+        "message": "Gizlilik",
+        "description": ""
+    },
+    "customization": {
+        "message": "Kişiselleştirme",
+        "description": ""
+    },
+    "automation": {
+        "message": "Otomasyon",
+        "description": ""
+    },
+    "export": {
+        "message": "Dışa Aktar",
+        "description": ""
+    },
+    "select": {
+        "message": "Seç",
+        "description": ""
+    },
+    "blur_recent_messages": {
+        "message": "Son mesajları bulanıklaştır",
+        "description": ""
+    },
+    "blur_contacts_names": {
+        "message": "Kişilerin isimlerini bulanıklaştır",
+        "description": ""
+    },
+    "blur_contacts_photos": {
+        "message": "Kişilerin fotoğraflarını bulanıklaştır",
+        "description": ""
+    },
+    "blur_conversation_messages": {
+        "message": "Sohbet mesajlarını bulanıklaştır",
+        "description": ""
+    },
+    "restore_deleted_messages": {
+        "message": "Silinmiş mesajları geri yükle",
+        "description": ""
+    },
+    "restore_deleted_messages_help": {
+        "message": "Silinmiş bir mesajı geri yüklemek için üzerine gelin, mesaj alındığında WhatsApp Web’in açık olması gerekir.",
+        "description": ""
+    },
+    "features": {
+        "message": "Özellikler",
+        "description": ""
+    },
+    "enable_like_button": {
+        "message": "Beğen butonunu etkinleştir",
+        "description": ""
+    },
+    "enable_like_button_help": {
+        "message": "Facebook Messenger’daki gibi beğeni butonu al",
+        "description": ""
+    },
+    "enable_contact_status": {
+        "message": "Kişi durumunu etkinleştir",
+        "description": ""
+    },
+    "enable_contact_status_help": {
+        "message": "Kişilerin isimleri yanında kişilerin durumlarını göster",
+        "description": ""
+    },
+    "keep_contact_info_open": {
+        "message": "Kişi bilgisini açık tut",
+        "description": ""
+    },
+    "keep_contact_info_open_help": {
+        "message": "Sohbet penceresindeki kenar çubuğuna kişiyi sabitle",
+        "description": ""
+    },
+    "enable_start_conversation_with_non_contacts": {
+        "message": "Ekli olmayan kişilerle sohbet başlatmayı etkinleştir",
+        "description": ""
+    },
+    "enable_start_conversation_with_non_contacts_help": {
+        "message": "Kişi listesinde olmayan kişilerle sohbet başlatmak için yeni bir buton",
+        "description": ""
+    },
+    "custom_background_image": {
+        "message": "Özel arkaplan resmi",
+        "description": ""
+    },
+    "custom_background_image_help": {
+        "message": "Arkaplan rengi kullanıyorsanız çalışmaz",
+        "description": ""
+    },
+    "background_image_url": {
+        "message": "Özel Arkaplan URL'si",
+        "description": ""
+    },
+    "enable_night_mode": {
+        "message": "Gece modunu etkinleştir",
+        "description": ""
+    },
+    "enable_night_mode_help": {
+        "message": "Vednoc @ 'onyx' project teşekkürler",
+        "description": ""
+    },
+    "night_mode_colors": {
+        "message": "Gece Modu Renkleri <small>(Daha fazla renk için aşağıya kaydır)</small>",
+        "description": ""
+    },
+    "SAVE": {
+        "message": "KAYDET",
+        "description": ""
+    },
+    "RESET": {
+        "message": "SIFIRLA",
+        "description": ""
+    },
+    "dark_color": {
+        "message": "Koyu Renk",
+        "description": ""
+    },
+    "darker_color": {
+        "message": "Daha Koyu Renk",
+        "description": ""
+    },
+    "light_color": {
+        "message": "Açık Renk",
+        "description": ""
+    },
+    "lighter_color": {
+        "message": "Daha Açık Renk",
+        "description": ""
+    },
+    "color_accent": {
+        "message": "Ara Renk",
+        "description": ""
+    },
+    "icons_color": {
+        "message": "Simge Renkleri",
+        "description": ""
+    },
+    "redish_color": {
+        "message": "Kırmızımsı Renkler",
+        "description": ""
+    },
+    "greenish_color": {
+        "message": "Yeşilimsi Renkler ",
+        "description": ""
+    },
+    "blueish_color": {
+        "message": "Mavimsi Renkler ",
+        "description": ""
+    },
+    "about": {
+        "message": "Hakkında",
+        "description": ""
+    },
+    "feedback": {
+        "message": "Geri Bildirim",
+        "description": ""
+    },
+    "premium": {
+        "message": "Premium",
+        "description": ""
+    },
+    "quick_links": {
+        "message": "Hızlı Bağlantılar",
+        "description": ""
+    },
+    "chrome_version": {
+        "message": "Chrome Sürümü",
+        "description": ""
+    },
+    "firefox_version": {
+        "message": "Firefox Sürümü",
+        "description": ""
+    },
+    "request_a_feature": {
+        "message": "Özellik Talep Edin",
+        "description": ""
+    },
+    "report_a_bug": {
+        "message": "Hata Bildirin",
+        "description": ""
+    },
+    "about_us": {
+        "message": "Hakkımızda",
+        "description": ""
+    },
+    "contact_us": {
+        "message": "Bizimle İletişime Geçin",
+        "description": ""
+    },
+    "export_contacts_list": {
+        "message": "Kişi listesini dışa aktar",
+        "description": ""
+    },
+    "only_people_with_a_conversation": {
+        "message": "Sadece sohbet ettiğiniz kişilerinki",
+        "description": ""
+    },
+    "export_all_contacts_list": {
+        "message": "Tüm kişi listesini dışa aktar",
+        "description": ""
+    },
+    "export_only_personal_accounts": {
+        "message": "Sadece kişisel hesapları dışa aktar",
+        "description": ""
+    },
+    "export_only_business_accounts": {
+        "message": "Sadece iş hesaplarını dışa aktar",
+        "description": ""
+    },
+    "export_only_phone_contacts": {
+        "message": "Sadece telefondaki kişileri dışa aktar",
+        "description": ""
+    },
+    "export_only_non_phone_contacts": {
+        "message": "Sadece telefonda olmayan kişileri dışa aktar",
+        "description": ""
+    },
+    "export_contacts_from_a_specific_group": {
+        "message": "Belirli bir gruptan kişileri dışa aktar",
+        "description": ""
+    },
+    "export_contacts_from_a_specific_country": {
+        "message": "Belirli bir ülkeden kişileri dışa aktar",
+        "description": ""
+    },
+    "check_this_link_to_know_more_about_this_feature": {
+        "message": "Bu özellikle ilgili daha fazla bilgi edinmek için bu bağlantıyu kontrol edin",
+        "description": ""
+    },
+    "battery": {
+        "message": "Pil: ",
+        "description": ""
+    },
+    "charging": {
+        "message": "(Şarj Oluyor)",
+        "description": ""
+    },
+    "thank_you_for_subscribing": {
+        "message": "Abone olduğunuz için teşekkürler, yeni özelliklerin tadını çıkartın!",
+        "description": ""
+    },
+    "something_went_wrong": {
+        "message": "Bir şey yanlış gitti",
+        "description": ""
+    },
+    "connection_lost__do_you_mind_refreshing_whatsapp": {
+        "message": "WhatsApp ile bağlantı koptu, WhatsApp Web penceresini yeniden yüklemek ister misiniz?",
+        "description": ""
+    },
+    "dont_refresh": {
+        "message": "Yeniden Yükleme",
+        "description": ""
+    },
+    "its_ok_refresh": {
+        "message": "Tamam, Yeniden Yükle",
+        "description": ""
+    },
+    "phone": {
+        "message": "Telefon",
+        "description": ""
+    },
+    "name": {
+        "message": "İsim",
+        "description": ""
+    },
+    "contacts": {
+        "message": "Kişiler",
+        "description": ""
+    },
+    "groups": {
+        "message": "Gruplar",
+        "description": ""
+    },
+    "cancel": {
+        "message": "İptal Et",
+        "description": ""
+    },
+    "canceled": {
+        "message": "İptal Edildi",
+        "description": ""
+    },
+    "aborted": {
+        "message": "İptal Edildi",
+        "description": ""
+    },
+    "you_have_not_selected_any_targets": {
+        "message": "Hiç bir hedef seçmediniz!",
+        "description": ""
+    },
+    "you_have_selected_more_than_100_targets": {
+        "message": "100’den fazla hedef seçtiniz!",
+        "description": ""
+    },
+    "OK": {
+        "message": "TAMAM",
+        "description": ""
+    },
+    "disclaimer": {
+        "message": "Uyarı",
+        "description": ""
+    },
+    "disclaimer_text": {
+        "message": "Bu özellikle kitlelere mesaj atılması veya kitlelerin spamlanması için geliştirilmemiştir. Bu özellik, aile, arkadaşlar ve tanıdık kişilere tebrik, kutlama ya da özel davet mesajları gönderilebilmesi için geliştirilmiştir. Lütfen sorumlu bir şekilde kullanın.<p>Eğer bu özelliği suiistimal etmeye karar verdiyseniz, WhatsApp hesabınızın kalıcı olarak engellenmesi riskine sokmuş olabilirsiniz</b>.</p>",
+        "description": ""
+    },
+    "i_understand_start": {
+        "message": "Anlıyorum, Başlat",
+        "description": ""
+    },
+    "exported_successfully": {
+        "message": "Başarıyla Dışa Aktarıldı.",
+        "description": ""
+    },
+    "select_group": {
+        "message": "Grup Seç",
+        "description": ""
+    },
+    "select_country": {
+        "message": "Ülke Seç",
+        "description": ""
+    },
+    "automated_messaging_premium": {
+        "message": "Otomatik Mesajlaşma (Premium)",
+        "description": ""
+    },
+    "automated_messaging_beta": {
+        "message": " Otomatik Mesajlaşma (Beta)",
+        "description": ""
+    },
+    "subscribe_now_9": {
+        "message": "Şimdi Abone Ol (&dollar;9.99/ay)",
+        "description": ""
+    },
+    "to_start_using_open_wa_first": {
+        "message": "Eklentiyi kullanabilmek için lütfen $1 penceresini açın.",
+        "description": ""
+    },
+    "welcome_to_wawp": {
+        "message": "WA Web Plus Hoşgeldiniz",
+        "description": ""
+    },
+    "text_message": {
+        "message": "Kısa Mesaj",
+        "description": ""
+    },
+    "dynamic_variables": {
+        "message": "Dinamik Değişkenler",
+        "description": ""
+    },
+    "use_c_to_print_contact_name_as_saved_on_your_phone": {
+        "message": "Kişinin ismini sizin telefonunuzdaki gibi göstermek için {C} kodunu kullanın.",
+        "description": ""
+    },
+    "use_u_to_print_contact_name_as_saved_on_wa_account": {
+        "message": "Kişinin ismini kendi WhatsApp'ında gözüktüğü gibi göstermek için {U} kodunu kullanın.",
+        "description": ""
+    },
+    "select_target_contacts": {
+        "message": "Hedef kişileri seç",
+        "description": ""
+    },
+    "maximum_100_at_a_time": {
+        "message": "Bir defada en fazla 100 adet",
+        "description": ""
+    },
+    "select_from_chats": {
+        "message": "Sohbetlerden Seç",
+        "description": ""
+    },
+    "upload_from_excel": {
+        "message": "Excel’den Yükle",
+        "description": ""
+    },
+    "random_separation_duration_between_messages_to_avoid_blocking": {
+        "message": "Mesajlar arasında rastgele işlem süresi ekleyin (Engellenmeyi önlemek için)",
+        "description": ""
+    },
+    "input_is_not_number": {
+        "message": "Girilen değer bir sayı olmalıdır!",
+        "description": ""
+    },
+    "send": {
+        "message": "GÖNDER",
+        "description": ""
+    },
+    "from": {
+        "message": "",
+        "description": ""
+    },
+    "to": {
+        "message": "ila",
+        "description": ""
+    },
+    "seconds": {
+        "message": "saniye",
+        "description": ""
+    },
+    "select_target": {
+        "message": "Hedef Seç",
+        "description": ""
+    },
+    "automated_messaging_description_1": {
+        "message": "Otomatik mesaj <b>sizin</b> kişilerinize sınırsız sayıda mesaj göndermek için geliştirilmiştir. WA Web Plus elle seçtiğiniz ya da Excel dosyasından yüklediğiniz kişilere otomatik olarak mesaj gönderecektir.",
+        "description": ""
+    },
+    "automated_messaging_description_2": {
+        "message": " Bunun gibi daha birçok harika özelliği açmak için WA Web Plus Premium’a abone olun. Bu özelliği aktif hâlde görmek için <a href='https://wawplus.com' target='_blank'>bu adresi</a> kontrol edin.",
+        "description": ""
+    },
+    "did_you_like_the_app": {
+        "message": "Uygulamayı sevdiniz mi?",
+        "description": ""
+    },
+    "if_you_like_leave_review_and_share": {
+        "message": "Eğer yeni özellikleri beğendiyseniz, lütfen uzantı sayfasına iyi görüşlerinizi yazarak diğerlerinin de bilmesini sağlayın.",
+        "description": ""
+    },
+    "i_didnt_like_it": {
+        "message": "Beğenmedim",
+        "description": ""
+    },
+    "i_love_it": {
+        "message": "Beğendim",
+        "description": ""
+    },
+    "please_enter_phone_with_country_code": {
+        "message": "Lütfen telefon numarası girin (ülke kodu ile):",
+        "description": ""
+    },
+    "start_conversation_with_new_contact": {
+        "message": "Yeni bir kişi ile sohbet başlat",
+        "description": ""
+    },
+    "stop_automated_messaging": {
+        "message": "Otomatik Mesaj Göndermeyi Durdur",
+        "description": ""
+    },
+    "are_you_sure_stop_automated_messaging": {
+        "message": "Otomatik mesajlaşma sürecini durdurmak istediğine emin misin?",
+        "description": ""
+    },
+    "this_message_was_deleted": {
+        "message": "Bu mesaj silindi",
+        "description": ""
+    },
+    "automated_messaging_aborted_refresh_wa": {
+        "message": "Otomatik mesaj gönderme süreci bilinmeyen bir sebepten dolayı iptal edildi, lütfen Whats App Web penceresini yeniden yükleyin ve yeniden deneyin.",
+        "description": ""
+    },
+    "automated_messaging_done": {
+        "message": "Otomatik mesaj süreci tamamlandı.",
+        "description": ""
+    },
+    "new_version_installed": {
+        "message": "Yeni özelliklerin olduğu yeni sürüm yüklendi!",
+        "description": ""
+      },
+      "no": {
+        "message": "Hayır",
+        "description": ""
+      },
+      "yes_stop": {
+        "message": "Evet, Dur",
+        "description": ""
+      },
+      "stop": {
+        "message": "Stop",
+        "description": ""
+      },
+      "automation_in_progress": {
+        "message": "Otomatik mesaj süreci devam ediyor",
+        "description": ""
+      },
+      "completed": {
+        "message": "tamamlandı",
+        "description": ""
+      },
+      "warning": {
+        "message": "Uyarı",
+        "description": ""
+      },
+      "highlight_online_contacts": {
+        "message": "Aktif kullanıcıları vurgula",
+        "description": ""
+      },
+      "highlight_online_contacts_help": {
+        "message": "Aktif kullanıcıların çevresinde yeşil bir çember göstser",
+        "description": ""
+      },
+      "minimum": {
+        "message": "En az",
+        "description": ""
+      },
+  "all": {
+    "message": "Tümü", 
+    "description":""
+  },
+  "select_label": {
+    "message": "Etiket Seçin", 
+    "description":""
+  },
+  "all_labels": {
+    "message": "Tüm Etiketler", 
+    "description":""
+  },
+  "export_contacts_with_a_specific_label": {
+    "message": "Kişileri belirli bir etiket kullanarak dışa aktar", 
+    "description":""
+  },
+  "whats_new_in_version": {
+    "message": "Sürüm $1'de neler yeni?", 
+    "description":""
+  },
+  "fix_code_bugs_and_improve_stability": {
+    "message": "Kodlama hataları ve stabilizasyon düzeltildi", 
+    "description":""
+  },
+  "updated_night_mode_to_latest_version": {
+    "message": "Gece Modu son sürüme yükseltildi", 
+    "description":""
+  },"support": {
+    "message": "Destek", 
+    "description":""
+  },
+  "stats": {
+    "message": "İstatistikler", 
+    "description":""
+  },
+  "share_with_friends": {
+    "message": "Arkadaşlarınla Paylaş", 
+    "description":""
+  },
+  "labels": {
+    "message": "Etiketler", 
+    "description":""
+  },
+  "countries": {
+    "message": "Ülkeler", 
+    "description":""
+  },
+  "no_files_attached": {
+    "message": "Dosya eklenmedi", 
+    "description":""
+  },
+  "pick_labels": {
+    "message": "Etiket Seç", 
+    "description":""
+  },
+  "pick_countries": {
+    "message": "Ülke Seç", 
+    "description":""
+  },
+  "phone_contacts": {
+    "message": "Telefon Kişileri", 
+    "description":""
+  },
+  "all_chats": {
+    "message": "Tüm Konuşmalar", 
+    "description":""
+  },
+  "personal_chats": {
+    "message": "Kişisel Konuşmalar", 
+    "description":""
+  },
+  "group_chats": {
+    "message": "Grup Konuşmaları", 
+    "description":""
+  },
+  "device": {
+    "message": "Cihaz", 
+    "description":""
+  },
+  "os": {
+    "message": "İS", 
+    "description":""
+  },
+  "unavailable": {
+    "message": "Geçersiz", 
+    "description":""
+  },
+  "attach_file": {
+    "message": "Dosya Ekle", 
+    "description":""
+  },
+  "remove_file": {
+    "message": "Dosyayı Kaldır", 
+    "description":""
+  },
+  "add_template": {
+    "message": "Taslak Ekle", 
+    "description":""
+  },
+  "save_template": {
+    "message": "Taslak Olarak Kaydet", 
+    "description":""
+  },
+  "delete_template": {
+    "message": "Taslağı Sil", 
+    "description":""
+  },
+  "default_template": {
+    "message": "Varsayılan Taslak", 
+    "description":""
+  },
+  "hi_there_iam_using_waw": {
+    "message": "Merhaba! Ben WA Web Plus kullanıyorum.", 
+    "description":""
+  },
+  "what_template_name_you_want_to_use": {
+    "message": "Kullanmak istediğiniz taslağın adı nedir?", 
+    "description":""
+  },
+  "new_message_template": {
+    "message": "Yeni Mesaj Taslağı", 
+    "description":""
+  },
+  "you_cannot_delete_the_default_template": {
+    "message": "Varsayılan taslağı silemezsiniz.", 
+    "description":""
+  },
+  "are_you_sure_you_want_to_delete_the_selected_template": {
+    "message": "Seçtiğiniz taslağı silmek istediğinize emin misiniz?", 
+    "description":""
+  },
+  "template_saved": {
+    "message": "Taslak Kaydedildi.", 
+    "description":""
+  },
+  "template_deleted": {
+    "message": "Taslak Silindi.", 
+    "description":""
+  },
+  "have_discount_coupon": {
+    "message": "Bir indirim kuponunuz mu var?", 
+    "description":""
+  },
+  "enter_discount_coupon_code": {
+    "message": "Kupon kodunuzu girin:", 
+    "description":""
+  },
+  "sorry_discount_invalid": {
+    "message": "Üzgünüm, girdiğiniz kupon geçersiz!", 
+    "description":""
+  },
+  "subscribe_now_8": {
+    "message": "Şimdi Abone Ol (&dollar;8.99/ay)", 
+    "description":""
+  },
+
+
+
+
+  "or": {
+    "message": "ya da", 
+    "description":""
+  },
+  "import_from_list": {
+    "message": "Listeden İçeri Aktarın", 
+    "description":""
+  },
+  "paste_the_list_of_targets": {
+    "message": "Hedeflerin listesini yapıştırın:", 
+    "description":""
+  },
+  "paste_targets_text": {
+    "message": "Hedef kişileri şu şekilde yapıştırın: <code>İsim:Numara</code>, kişilerin her biri yeni bir satırda olmalıdır. Numaraların başlarında sıfırlar, parantezler ve taksim işaretleri kullanmaktan kaçının. Ayrıca eğer isterseniz Excel'deki 2 sütunu da kopyalayabilirsiniz.", 
+    "description":""
+  },
+  "valid": {
+    "message": "geçerli", 
+    "description":""
+  },
+  "invalid_and_removed": {
+    "message": "geçersiz ve silinmiş", 
+    "description":""
+  },
+  "use_uf_to_print_contact_first_name_only_as_saved_on_wa_account": {
+    "message": "Kişilerin WhatsApp hesaplarındaki isimlerini kullanmak için {UF} kullanın.", 
+    "description":""
+  },
+  "use_cf_to_print_contact_first_name_only_as_saved_on_your_phone": {
+    "message": "Kişilerin rehberinizdeki isimlerini kullanmak için ise {CF} kullanın.", 
+    "description":""
+  },
+
+
+
+
+  "enhancements": {
+    "message": "Geliştirmeler", 
+    "description":""
+  },
+  "bulk_messaging": {
+    "message": "Toplu Mesajlaşma", 
+    "description":""
+  },
+  "type_the_message": {
+    "message": "Mesajı girin", 
+    "description":""
+  },
+  "select_target_groups": {
+    "message": "Hedef grupları seçin", 
+    "description":""
+  },
+  "select_target_labels": {
+    "message": "Hedef etiketleri seçin", 
+    "description":""
+  },
+  "select_target_countries": {
+    "message": "Hedef ülkeleri seçin", 
+    "description":""
+  },
+  "start_messaging": {
+    "message": "Mesajlaşmaya Başla", 
+    "description":""
+  },
+  "notify_online_contacts": {
+    "message": "Çevrimiçi kullanıcıları bilgilendir", 
+    "description":""
+  },
+  "donate": {
+    "message": "Bağış Yap", 
+    "description":""
+  },
+  "contact": {
+    "message": "İletişim", 
+    "description":""
+  },
+  "automated_replies": {
+    "message": "Otomatik Yanıtlar", 
+    "description":""
+  },
+  "status_message": {
+    "message": "Durum mesajı", 
+    "description":""
+  },
+  "status_image": {
+    "message": "Durum resmi", 
+    "description":""
+  },
+  "phone_number": {
+    "message": "Telefon numarası", 
+    "description":""
+  },
+  "contact_name": {
+    "message": "Kişi ismi", 
+    "description":""
+  },
+  "exclude_saved_contacts": {
+    "message": "Kayıtlı kişileri çıkart", 
+    "description":""
+  },
+  "file_format": {
+    "message": "Dosya türü", 
+    "description":""
+  },
+  "group_name": {
+    "message": "Grup ismi", 
+    "description":""
+  },
+  "admin_status": {
+    "message": "Yetkili durumu", 
+    "description":""
+  },
+  "label_name": {
+    "message": "Etiket ismi", 
+    "description":""
+  },
+  "export_now": {
+    "message": "Şimdi dışarı aktar", 
+    "description":""
+  },
+  "export_all_chats_contacts_list": {
+    "message": "Tüm konuşma kişilerini dışa aktar", 
+    "description":""
+  },
+  "export_contacts_from_specific_groups": {
+    "message": "Belirli gruplardan kişileri dışa aktar", 
+    "description":""
+  },
+  "export_contacts_from_specific_labels": {
+    "message": "Belirli etiketteki kişileri dışa aktar", 
+    "description":""
+  },
+  "export_contacts_from_specific_countries": {
+    "message": "Belirli ülkelerden kişileri dışa aktar", 
+    "description":""
+  },
+  "add_reply": {
+    "message": "Yanıt ekle", 
+    "description":""
+  },
+  "statistics": {
+    "message": "İstatistikler", 
+    "description":""
+  },
+  "loading": {
+    "message": "Yükleniyor", 
+    "description":""
+  },
+  "deleted_messages": {
+    "message": "Mesajlar silindi", 
+    "description":""
+  },
+  "automated_messaging_description_3": {
+    "message": "Otomatik yanıtlama özelliği belli kelimelere veya sorulara otomatik olarak karşılık verecek yanıtlar ayarlamanıza yarar.", 
+    "description":""
+  },
+  "automated_messaging_description_4": {
+    "message": "Güvenli ödemeler Google Pay üzerinden gerçekleştirilmektedir, aboneliğinizi dilediğiniz zaman <a href='https://pay.google.com' target='_blank'>pay.google.com</a> adresinden iptal edebilirsiniz.",
+    "description":""
+  },
+  "automated_messaging_description_5": {
+    "message": "Bu özellik konuşmalarınızdan, telefonunuzdan, gruplarınızdan, etiketlerinizden, belirli ülkedeki insanlardan ve diğer bir çok seçenek ile telefon numaralarını Excel veya bir yazı dosyasına aktarmanızı sağlar.",
+    "description":""
+  },
+  "reply_title": {
+    "message": "Yanıt başlığı", 
+    "description":""
+  },
+  "new_reply_template": {
+    "message": "Yeni yanıt şablonu", 
+    "description":""
+  },
+  "expected_keywords": {
+    "message": "Beklenen anahtar kelimeler", 
+    "description":""
+  },
+  "comma_separated": {
+    "message": "virgülle ayrılmış", 
+    "description":""
+  },
+  "reply_to_send": {
+    "message": "Göndermek için yanıtlayın", 
+    "description":""
+  },
+  "save_reply": {
+    "message": "Yanıtı kaydet", 
+    "description":""
+  },
+  "the_reply_to_be_sent_automatically_to_users": {
+    "message": "Yanıt otomatik olarak kullanıcılara gönderildi", 
+    "description":""
+  },
+  "all_fields_are_required": {
+    "message": "Tüm alanların doldurulması gereklidir", 
+    "description":""
+  },
+  "import": {
+    "message": "İçe Aktar", 
+    "description":""
+  },
+  "leave_a_review": {
+    "message": "İnceleme yazın", 
+    "description":""
+  },
+  "deleted_messages_limit_reached": {
+    "message": "Silinen mesaj limitine ulaşıldı.", 
+    "description":""
+  },
+  "do_you_want_more": {
+    "message": "Daha fazlasını ister misiniz?", 
+    "description":""
+  },
+  "all_contacts": {
+    "message": "Tüm kişiler", 
+    "description":""
+  },
+  "selected_contacts": {
+    "message": "Seçilen kişiler", 
+    "description":""
+  },
+  "all_groups": {
+    "message": "Tüm gruplar", 
+    "description":""
+  },
+  "selected_groups": {
+    "message": "Seçilen gruplar", 
+    "description":""
+  },
+  "all_labels": {
+    "message": "Tüm etiketler", 
+    "description":""
+  },
+  "selected_labels": {
+    "message": "Seçilen etiketler", 
+    "description":""
+  },
+  "status_posted": {
+    "message": "Durum paylaşıldı", 
+    "description":""
+  },
+  "maximum_auto_replies_reached": {
+    "message": "Otomatik yanıt sınırına ulaşıldı", 
+    "description":""
+  },
+  "you_cannot_delete_the_default_reply": {
+    "message": "Varsayılan yanıtı silemezsiniz", 
+    "description":""
+  },
+  "are_you_sure_you_want_to_delete_the_selected_reply_template": {
+    "message": "Seçili yanıt şablonunu silmek istediğinize emin misiniz?", 
+    "description":""
+  },
+  "reply_template_deleted": {
+    "message": "Yanıt şablonu silindi", 
+    "description":""
+  },
+  "reply_added": {
+    "message": "Yanıt eklendi", 
+    "description":""
+  },
+  "deleted_messages_restored": {
+    "message": "Silinen mesajlar kurtarıldı", 
+    "description":""
+  },
+  "is_now_online": {
+    "message": "şimdi çevrimiçi!", 
+    "description":""
+  },
+  "you_already_restored_maximum_messages": {
+    "message": "Silinen mesajları geri döndürme sınırına ulaşmışsınız. Daha fazla sınır için lütfen abone olun, sınırsız sayıda mesaj kurtarmak sadece #1.", 
+    "description":""
+  },
+  "your_order_id": {
+    "message": "Sipariş Kimliğiniz", 
+    "description":""
+  },
+  "default_reply": {
+    "message": "Varsayılan Cevap", 
+    "description":""
+  },
+  "use_g_to_print_group_name": {
+    "message": "Grubun ismini göstermek için {G} kodunu kullanın.", 
+    "description":""
+  },
+
+
+  "all_broadcasts": {
+    "message": "Tüm Toplu Mesajlar", 
+    "description":""
+  },
+  "selected_broadcasts": {
+    "message": "Seçili Toplu Mesajlar", 
+    "description":""
+  },
+  "broadcasts": {
+    "message": "Toplu Mesajlar", 
+    "description":""
+  },
+  "select_target_broadcasts": {
+    "message": "Hedef Toplu Mesajları Seç", 
+    "description":""
+  },
+  "allow_to_auto_reply_in_groups": {
+    "message": "Gruplarda otomatik yanıtlamaya izin ver", 
+    "description":""
+  },
+  "message_must_match_the_whole_keyword": {
+    "message": "Mesajın tamamı anahtar kelimeye uymalı", 
+    "description":""
+  },
+  "quote_the_senders_message_with_the_reply": {
+    "message": "Gönderenin mesajını yanıtlarken alıntıla", 
+    "description":""
+  },
+  "choose_messages_you_want_to_send": {
+    "message": "Göndermek istediğiniz mesajları seçin", 
+    "description":""
+  },
+  "settings": {
+    "message": "Ayarlar", 
+    "description":""
+  }
+
+
+
+,
+  "reply_delay": {
+    "message": "Yanıt gecikmesi", 
+    "description":""
+  },
+  "immediately": {
+    "message": "Hemen", 
+    "description":""
+  },
+  "enable_message_reactions": {
+    "message": "Mesaj tepkilerini etkinleştir", 
+    "description":""
+  },
+  "freeze_chats_list_on_message_submission": {
+    "message": "Yeni mesaj geldiğinde yukarıya kaydırma", 
+    "description":""
+  },
+  "click_to_save_private_notes": {
+    "message": "Özel notları kaydetmek için tıklayın", 
+    "description":""
+  },
+  "new": {
+    "message": "Yeni", 
+    "description":""
+  },
+  "disabled": {
+    "message": "Engelli", 
+    "description":""
+  },
+  "automation_disabled_message": {
+    "message": "Değerli kullanıcılar, Otomasyon Araçları'nın bakımda olduğunu üzülerek bildirmek isteriz, yakın zamanda araçlar tekrar aktif edilecektir, lütfen sabırlı olun!", 
+    "description":""
+  },
+  "play_audio_messages_without_informing_the_sender": {
+    "message": "Sesli mesajları göndereni bilgilendirmeden oynat", 
+    "description":""
+  },
+  "beta": {
+    "message": "Beta", 
+    "description":""
+  },
+
+
+"message_templates": {
+    "message": "Mesaj Taslakları",
+    "description":""
+  },
+  "template_title": {
+    "message": "Taslak Başlığı",
+    "description":""
+  },
+  "template_message": {
+    "message": "Taslak Mesajı",
+    "description":""
+  },
+  "sorry_payment_failed": {
+    "message": "Üzgünüz, ödeme seçtiğiniz ödeme yöntemi veya Google hesabınızdan kaynaklanan bir sorundan dolayı yapılamadı. Şu çözümleri deneyebilirsiniz",
+    "description":""
+  },
+  "try_to_fix_the_problem": {
+    "message": "Sorunu kendiniz çözmeye çalışın",
+    "description":""
+  },
+  "contact_google_to_fix_it": {
+    "message": "Google ile iletişime geçin",
+    "description":""
+  },
+  "accepted_payment_methods": {
+    "message": "Kabul edilen ödeme yöntemleri",
+    "description":""
+  },
+  "maximum_message_templates_reached": {
+    "message": "Oluşturabileceğiniz en fazla taslak sayısına ulaştınız",
+    "description":""
+  },
+  "business_tools": {
+    "message": "İş Araçları",
+    "description":""
+  },
+  "broadcasting": {
+    "message": "Yayınlama",
+    "description":""
+  },
+  "smart_replies": {
+    "message": "Akıllı Yanıtlar",
+    "description":""
+  },
+  "share": {
+    "message": "Paylaş",
+    "description":""
+  },
+  "automatic_replies_list": {
+    "message": "Otomatik Yanıtlar Listesi",
+    "description":""
+  },
+  "enable_lock_screen": {
+    "message": "Ekran kilitlemeyi etkinleştir",
+    "description":""
+  },
+  "checkout_this_extension": {
+    "message": "Bu WhatsApp Web eklentisine de göz atın",
+    "description":""
+  },
+  "your_new_password": {
+    "message": "Yeni Şifreniz",
+    "description":""
+  },
+  "set_lock_password": {
+    "message": "Kilit Şifresi Ayarla",
+    "description":""
+  },
+  "change": {
+    "message": "Değiştir",
+    "description":""
+  },
+  "send_typing_status_before_replying": {
+    "message": "Yanıtlamadan önce yazıyor bilgisini gönder",
+    "description":""
+  },
+  "you_didnt_set_a_password_yet": {
+    "message": "Henüz bir şifre ayarlamamışsınız!",
+    "description":""
+  },
+  "template_type": {
+    "message": "Taslak Türü",
+    "description":""
+  },
+  "reply_type": {
+    "message": "Yanıt Türü",
+    "description":""
+  },
+  "scheduled_messaging": {
+    "message": "Zamanlanmış Mesajlar",
+    "description":""
+  },
+  "crm_integration": {
+    "message": "CRM Entegrasyonu",
+    "description":""
+  },
+  "coming_soon": {
+    "message": "Yakında",
+    "description":""
+  },
+  "if_you_have_any_suggestions_please_send_it_to": {
+    "message": "Eğer herhangi bir öneriniz varsa, şuraya gönderin",
+    "description":""
+  },
+  "contacts_activity_tracker": {
+    "message": "Kişi Aktiviteleri Takibi",
+    "description":""
+  },
+  "status": {
+    "message": "Durum",
+    "description":""
+  },
+  "date_time": {
+    "message": "Tarih/Zaman",
+    "description":""
+  },
+  "status_media": {
+    "message": "Durum medyası",
+    "description":""
+  },
+  "chat": {
+    "message": "Sohbet",
+    "description":""
+  },
+  "dont_know_the_code": {
+    "message": "Kodu bilmiyor musunuz?",
+    "description":""
+  },
+  "chats_statistics": {
+    "message": "Sohbet İstatistikleri",
+    "description":""
+  },
+  "groups_tools": {
+    "message": "Grup Araçları", 
+    "description":""
+  },
+  "nart_1": {
+    "message": "Takımımıza yeni katılan bebeği kutluyoruz!", 
+    "description":""
+  },
+  "nart_2": {
+    "message": "Bunun dolayısıyla, yeni müşterilerimize kullandıklarında %10 indirim alabileceği bir kupon kodu hediye ediyoruz! Bu fırsattan yararlanmak için yukarıdaki kodu kullanabilirsiniz.", 
+    "description":""
+  },
+  "set_password": {
+    "message": "Şifre Ayarla", 
+    "description":""
+  },
+  "contact_name": {
+    "message": "Adı", 
+    "description":""
+  },
+  "text": {
+    "message": "Yazı", 
+    "description":""
+  },
+  "link_video": {
+    "message": "Link/Video", 
+    "description":""
+  },
+  "edit_reply": {
+    "message": "Yanıtı Düzenle", 
+    "description":""
+  },
+  "edit_template": {
+    "message": "Taslağı Düzenle", 
+    "description":""
+  },
+  "delete_reply": {
+    "message": "Yanıtı Sil", 
+    "description":""
+  },
+  "delete_template": {
+    "message": "Taslağı Sil", 
+    "description":""
+  },
+  "start_conversation_with_new_contact": {
+    "message": "Yeni kişi ile konuşma başlat", 
+    "description":""
+  },
+  "lock_whatsapp_web": {
+    "message": "WhatsApp Web'i Kilitle", 
+    "description":""
+  }
+
+
+
+
+,
+  "need_more_users": {
+    "message": "Daha fazla kullanıcıya mı ihtiyacınız var?", 
+    "description":""
+  },
+  "compare_packages": {
+    "message": "Paketleri Karşılaştır", 
+    "description":""
+  },
+  "user": {
+    "message": "Kullanıcı", 
+    "description":""
+  },
+  "users": {
+    "message": "Kullanıcılar", 
+    "description":""
+  },
+  "maximum_allowed_users_reached": {
+    "message": "İzin verilen maksimum kullanıcı sayısına ulaşıldı, <a href='https://wawplus.com#packages' target='_blank'>buraya</a> tıklayarak işletme paketlerimiz hakkında daha fazla bilgi alabilirsiniz.", 
+    "description":""
+  },
+  "automated_messaging_description_6": {
+    "message": "Grup Araçları: Grupları kolayca yönetebilmek için gelişmiş araçlar.", 
+    "description":""
+  },
+  "automated_messaging_description_7": {
+    "message": "CRM Entegrasyonu: WhatsApp'ınızı en sevdiğiniz CRM yazılımı ile senkronize edin.", 
+    "description":""
+  },
+  "automated_messaging_description_1": {
+    "message": "Yayınlama: Rehberinizdeki veya bir excel dokümanındaki müşterilerinize sınırsız mesaj gönderin.", 
+    "description":""
+  },
+  "automated_messaging_description_3": {
+    "message": "Akıllı Yanıtlar: Etiketler veya ön görülen soru şemaları ekleyin ve sistemin bunlara otomatik olarak cevaplamasını sağlayın.", 
+    "description":""
+  },
+  "export_contacts_from_specific_broadcasts": {
+    "message": "Belirli toplu mesajlar dan kişileri dışa aktar", 
+    "description":""
+  },
+  "broadcast_name": {
+    "message": "Toplu mesaj ismi", 
+    "description":""
+  }
+
+
+
+,
+  "action_scheduled_successfully": {
+    "message": "İşlem başarıyla zamanlandı!", 
+    "description":""
+  },
+  "schedule_messaging_action": {
+    "message": "Mesaj İşlemi Zamanla", 
+    "description":""
+  },
+  "set": {
+    "message": "Ayarla", 
+    "description":""
+  },
+  "action_name": {
+    "message": "İşlem İsmi", 
+    "description":""
+  },
+  "scheduled_messages_list": {
+    "message": "Zamanlanmış Mesaj Listesi", 
+    "description":""
+  },
+  "new_scheduled_action": {
+    "message": "Yeni Zamanlanmış İşlem", 
+    "description":""
+  },
+  "add_scheduled_action": {
+    "message": "Zamanlanmış İşlem Ekle", 
+    "description":""
+  },
+  "run_action": {
+    "message": "İşlemi Çalıştır", 
+    "description":""
+  },
+  "delete_action": {
+    "message": "İşlemi Sil", 
+    "description":""
+  },
+  "are_you_sure_you_want_to_delete_the_selected_scheduled_action": {
+    "message": "Seçili zamanlanmış işlemi silmek istediğinize emin misiniz?", 
+    "description":""
+  },
+  "are_you_sure_you_want_to_run_the_selected_scheduled_action": {
+    "message": "Seçili zamanlanmış işlemi çalıştırmak istediğinize emin misiniz?", 
+    "description":""
+  },
+  "scheduled_action_deleted": {
+    "message": "Zamanlanmış İşlem silindi", 
+    "description":""
+  },
+  "please_choose_future_date": {
+    "message": "Lütfen gelecek bir tarih seçin!", 
+    "description":""
+  },
+  "schedule_for_later": {
+    "message": "Sonrası İçin Zamanla", 
+    "description":""
+  },
+  "important_notes": {
+    "message": "Önemli Notlar", 
+    "description":""
+  },
+  "scheduled_messages_note1": {
+    "message": "Zamanlanmış mesajlar henüz dosya eklerini desteklememektedir.", 
+    "description":""
+  },
+  "scheduled_messages_note2": {
+    "message": "WhatsApp Web sekmesini kapatmayın.", 
+    "description":""
+  },
+  "scheduled_messages_note3": {
+    "message": "Telefonunuzu bilgisayarınıza ve internete bağlı tutun.", 
+    "description":""
+  },
+  "automated_messaging_aborted_did_you_delete_template": {
+    "message": "İşlem iptal edildi! Nasıl yani?! Çalışır durumdayken bir mesaj şablonunu mu sildin?!", 
+    "description":""
+  },
+  "clone_group": {
+    "message": "Grubu Klonla", 
+    "description":""
+  },
+  "destroy_group": {
+    "message": "Grubu Yok Et", 
+    "description":""
+  },
+  "are_you_sure_destroy_group": {
+    "message": "Seçili grubu yok etmek istediğinize emin misiniz? Tüm grup üyeleri atılacaktır.", 
+    "description":""
+  },
+  "this_option_will_remove_all_participants": {
+    "message": "Bu seçenek gruptaki herkesi gruptan atacaktır.", 
+    "description":""
+  },
+  "this_option_will_make_another_copy_of_group": {
+    "message": "Bu seçenek başka bir grubun yenisini, içindeki üyelerle birlikte kopyalayacaktır.", 
+    "description":""
+  },
+  "enter_new_group_name": {
+    "message": "Yeni grup ismini girin", 
+    "description":""
+  },
+  "new_group_name": {
+    "message": "Yeni Grup İsmi", 
+    "description":""
+  },
+  "clone": {
+    "message": "Klonla", 
+    "description":""
+  },
+  "group_cloned_successfully": {
+    "message": "Grup başarıyla klonlandı!", 
+    "description":""
+  },
+  "group_destroyed_successfully": {
+    "message": "Grup başarıyla yok edildi!", 
+    "description":""
+  },
+  "our_packages": {
+    "message": "Paketlerimiz", 
+    "description":""
+  },
+  "feature_requires_upgrading": {
+    "message": "Bu Özellik Yükseltme Gerektiriyor", 
+    "description":""
+  },
+  "feature_not_available_consider_upgrading": {
+    "message": "Aboneliğiniz bu özelliği desteklemiyor. Bu özelliği kullanabilmek için aboneliğinizi yükseltmelisiniz.", 
+    "description":""
+  },
+  "read_the_tips": {
+    "message": "İpuçlarını Oku", 
+    "description":""
+  },
+  "please_help_stopping_corona": {
+    "message": "Koromavirüsün dünyaya yayılmasını önleyin, evlerinizde kalın!", 
+    "description":""
+  },
+  "stay_home": {
+    "message": "Evde Kal", 
+    "description":""
+  },
+  "hide_typing_status": {
+    "message": "Yazıyor bilgisini gizle", 
+    "description":""
+  },
+  "pin_unlimited_chats_web_only": {
+    "message": "Sınırsız sohbet sabitleme (Sadece Web)", 
+    "description":""
+  },
+  "select_target_chats": {
+    "message": "Heder sohbetleri seçin", 
+    "description":""
+  }
+
+
+  ,
+  "STARTER": {
+    "message": "BAŞLANGIÇ", 
+    "description":""
+  },
+  "PROFESSIONAL": {
+    "message": "PROFESYONEL", 
+    "description":""
+  },
+  "EXPERT": {
+    "message": "UZMAN", 
+    "description":""
+  },
+  "subscribe": {
+    "message": "ABONE OL", 
+    "description":""
+  },
+  "secure_payments_are_processed_through_paddle": {
+    "message": "Ödemeler Paddle üzerinden güvenli bir şekilde gerçekleştirilir", 
+    "description":""
+  },
+  "subscribe_to_unlock_these_features_click_here_to_see_a_demo": {
+    "message": "Özellikleri açmak için abone olabilirsiniz, demoları görmek için <a href='https://wawplus.com' target='_blank'>tıklayın</a>.", 
+    "description":""
+  },
+  "exporting_tools": {
+    "message": "Dışa Aktarma Araçları", 
+    "description":""
+  },
+  "automated_messaging_description_8": {
+    "message": "Lisans başına kullanımına izin verilen WhatsApp hesap sayısı.", 
+    "description":""
+  },
+  "automated_messaging_description_9": {
+    "message": "Zamanlanmış Mesajlaşma: Otomatik mesajlaşma etkinliklerini belirli bir tarih ve saate planlayın.", 
+    "description":""
+  },
+  "affiliates": {
+    "message": "Satış Ortaklığı", 
+    "description":""
+  },
+  "error_please_refresh_the_page": {
+    "message": "HATA, LÜTFEN SAYFAYI YENİLEYİN", 
+    "description":""
+  },
+  "last_message_date": {
+    "message": "Son mesaj tarihi", 
+    "description":""
+  },
+  "country": {
+    "message": "Ülke", 
+    "description":""
+  }
+
+  ,
+  "select_contact_card": {
+    "message": "Kişiyi seç", 
+    "description":""
+  },
+  "hide_online_status_invisible_mode": {
+    "message": "Çevrimiçi durumunu gizle (Görünmez Modu)", 
+    "description":""
+  },
+  "automatic_labeling": {
+    "message": "Otomatik Etiketlendirme", 
+    "description":""
+  }
+
+
+
+  ,
+  "export_import_note": {
+    "message": "Not: Yeni öğelerin içe aktarılması, mevcut öğelerin silinmesine neden olur.", 
+    "description":""
+  },
+  "message_templates_data": {
+    "message": "Mesaj Şablonları Verileri", 
+    "description":""
+  },
+  "smart_replies_data": {
+    "message": "Akıllı Yanıt Verileri", 
+    "description":""
+  },
+  "items_imported_successfully": {
+    "message": "Öğeler başarıyla içe aktarıldı", 
+    "description":""
+  },
+  "items_exported_successfully": {
+    "message": "Öğeler başarıyla dışa aktarıldı", 
+    "description":""
+  },
+  "import_export": {
+    "message": "İçeri Aktar/Dışa Aktar", 
+    "description":""
+  },
+  "view_statuses_without_informing_the_poster": {
+    "message": "Durumları gizli modda görüntüle", 
+    "description":""
+  },
+  "disable_read_receipts_blue_ticks": {
+    "message": "Okundu bilgisini devre dışı bırak (Mavi Tik)", 
+    "description":""
+  },
+  "export_all_groups_list": {
+    "message": "Tüm grup listelerini dışa aktar", 
+    "description":""
+  },
+  "group_name": {
+    "message": "Grup ismi", 
+    "description":""
+  },
+  "group_description": {
+    "message": "Grup açıklaması", 
+    "description":""
+  },
+  "invite_link": {
+    "message": "Davet bağlantısı", 
+    "description":""
+  },
+  "owner": {
+    "message": "Yönetici", 
+    "description":""
+  },
+  "webhooks": {
+    "message": "Webhooks", 
+    "description":""
+  },
+  "import_from_crm": {
+    "message": "CRM'den içe aktar", 
+    "description":""
+  },
+  "contacts_synchronizing": {
+    "message": "Kişiler Senkronizasyonu", 
+    "description":""
+  },
+  "crm_integrations_list": {
+    "message": "CRM Entegrasyonları Listesi", 
+    "description":""
+  },
+  "integrate_new_crm": {
+    "message": "Yeni CRM Entegre Edin", 
+    "description":""
+  },
+  "crm_software": {
+    "message": "CRM Yazılımı", 
+    "description":""
+  },
+  "api_key": {
+    "message": "API Anahtarı", 
+    "description":""
+  },
+  "how_to_get_key": {
+    "message": "Anahtar nasıl alınır?", 
+    "description":""
+  },
+  "edit": {
+    "message": "Düzenle", 
+    "description":""
+  },
+  "delete": {
+    "message": "Sil", 
+    "description":""
+  },
+  "are_you_sure_you_want_to_delete_the_selected_crm_integration": {
+    "message": "Seçilen CRM entegrasyonunu silmek istediğinizden emin misiniz?", 
+    "description":""
+  },
+  "crm_integration_deleted": {
+    "message": "CRM entegrasyonu silindi", 
+    "description":""
+  },
+  "select": {
+    "message": "Seç", 
+    "description":""
+  },
+  "select_target_lists": {
+    "message": "Hedef Listelerini Seçin", 
+    "description":""
+  },
+  "contacts_list": {
+    "message": "Kişi Listesi", 
+    "description":""
+  },
+  "could_not_import_crm_lists": {
+    "message": "CRM listeleri içe aktarılamadı!", 
+    "description":""
+  },
+  "your_api_key": {
+    "message": "API Anahtarınız", 
+    "description":""
+  },
+  "send_to_my_phone": {
+    "message": "Telefonuma gönder", 
+    "description":""
+  },
+  "api_key_message": {
+    "message": "Bu özellik yeni kişileri doğrudan WhatsApp Web'den telefon rehberinize kaydetmenizi sağlar. \"WA Web Plus Mobil İş Ortağı\"'nı telefonunuza indirmek için QR kodunu tarayın veya <a href='https://wawplus.com/manual/contacts-synchronizing' target='_blank'> buraya tıklayarak</a> doğrudan web sitemizden indirin.",
+    "description":""
+  },
+  "add_custom_actions_when_people_join_or_leave_your_group": {
+    "message": "Kullanıcılar grubunuza katıldığında veya grubunuzdan ayrıldığında özel eylemler ekleyin", 
+    "description":""
+  },
+  "new_group_action": {
+    "message": "Yeni Grup Eylemi", 
+    "description":""
+  },
+  "action_type": {
+    "message": "Eylem Türü", 
+    "description":""
+  },
+  "reaction_type": {
+    "message": "Reaksiyon Türü", 
+    "description":""
+  },
+  "group_joining": {
+    "message": "Gruba Katılınıyor", 
+    "description":""
+  },
+  "group_leaving": {
+    "message": "Gruptan Ayrılınıyor", 
+    "description":""
+  },
+  "leaving": {
+    "message": "Ayrılınıyor", 
+    "description":""
+  },
+  "joining": {
+    "message": "Katılınıyor", 
+    "description":""
+  },
+  "send_message_to_group": {
+    "message": "Gruba mesaj gönder", 
+    "description":""
+  },
+  "send_message_to_user_privately": {
+    "message": "Kullanıcıya özel mesaj gönder", 
+    "description":""
+  },
+  "the_message_to_be_sent_automatically": {
+    "message": "Otomatik olarak gönderilecek mesaj", 
+    "description":""
+  },
+  "groups_actions_list": {
+    "message": "Grup Eylemleri Listesi", 
+    "description":""
+  },
+  "you_have_no_groups_actions_set": {
+    "message": "Ayarlanmış grup eylemleriniz yok.", 
+    "description":""
+  },
+  "are_you_sure_you_want_to_delete_the_selected_group_action": {
+    "message": "Seçilen grup eylemini silmek istediğinizden emin misiniz?", 
+    "description":""
+  },
+  "group_action_deleted": {
+    "message": "Grup eylemi silindi", 
+    "description":""
+  },
+  "save_contact": {
+    "message": "Kişiyi Kaydet", 
+    "description":""
+  },
+  "save_contact_to_phone": {
+    "message": "Kişiyi Telefona Kaydet", 
+    "description":""
+  },
+  "save_request_sent_open_mobile_app": {
+    "message": "Kaydetme isteği gönderildi, senkronize etmek için WA Web Plus mobil uygulamasını açın.", 
+    "description":""
+  },
+  "you_cant_export_wawp_groups": {
+    "message": "WA Web Plus gruplarını dışa aktaramazsınız!", 
+    "description":""
+  },
+  "bulk_join_groups": {
+    "message": "Gruplara Toplu Katıl", 
+    "description":""
+  },
+  "my_own_contact_card": {
+    "message": "Kendi kişi kartım", 
+    "description":""
+  },
+  "my_card": {
+    "message": "Benim Kartım", 
+    "description":""
+  },
+  "other_contacts_cards": {
+    "message": "Diğer kişi kartları", 
+    "description":""
+  },
+  "paste_the_list_of_groups_links": {
+    "message": "Grup linkleri listesini yapıştırın:", 
+    "description":""
+  },
+  "paste_groups_links_text_1": {
+    "message": "Katılmak istediğiniz grupların bağlantılarını kopyalayıp yapıştırın, her satıra bir bağlantı yapıştırın.", 
+    "description":""
+  },
+  "paste_groups_links_text_2": {
+    "message": "Katılma işlemleri arasında rastgele işlem süresi ekleyin (Engellenmeyi önlemek için.):", 
+    "description":""
+  },
+  "join": {
+    "message": "Katıl", 
+    "description":""
+  },
+  "stop_bulk_joining": {
+    "message": "Toplu Katılmayı Durdur", 
+    "description":""
+  },
+  "successfully_joined_groups": {
+    "message": "Gruplara başarıyla katıldı", 
+    "description":""
+  },
+  "failed_to_join_groups": {
+    "message": "Gruplara katılma başarısız oldu", 
+    "description":""
+  },
+  "automatically_join_a_list_of_groups_in_bulk": {
+    "message": "Toplu olarak bir grup listesine otomatik olarak katıl", 
+    "description":""
+  },
+  "close": {
+    "message": "KAPAT", 
+    "description":""
+  },
+  "failed_to_connect_to_whatsapp_title": {
+    "message": "WhatsApp Web'e bağlanılamadı", 
+    "description":""
+  },
+  "failed_to_connect_to_whatsapp_text": {
+    "message": "Ah! WA Web Plus'ın bu sefer WhatsApp Web ile doğru iletişim kuramadığı anlaşılıyor. Tekrar denemek için sayfayı yeniden yükleyin. Sorun devam ederse, lütfen <a href='mailto:contact@elbruz.net' target='_blank'>geliştiriciyle iletişim kurun </a>.", 
+    "description":""
+  },
+  "reload": {
+    "message": "Tekrar Yükle", 
+    "description":""
+  },
+  "click_to_check_subscription_status": {
+    "message": "Abonelik durumunu kontrol etmek için tıklayın", 
+    "description":""
+  },
+  "subscriptions_list": {
+    "message": "Abonelik Listesi", 
+    "description":""
+  },
+  "manage": {
+    "message": "Yönet", 
+    "description":""
+  },
+  "you_have_no_available_subscriptions": {
+    "message": "Kullanılabilir aboneliğiniz yok.", 
+    "description":""
+  },
+  "package": {
+    "message": "Paket", 
+    "description":""
+  },
+  "order_id": {
+    "message": "Sipariş ID'si", 
+    "description":""
+  },
+  "please_contact_us_to_remove_limitation": {
+    "message": "Bu sınırlamayı kaldırmak için lütfen bizimle iletişime geçin.", 
+    "description":""
+  },
+  "i_have_a_license_key": {
+    "message": "Bir lisans anahtarım var.", 
+    "description":""
+  },
+  "enter_license_key_text": {
+    "message": "Lütfen lisans anahtarınızı aşağıya girin, lisans anahtarları Google sipariş numaralarından farklıdır.", 
+    "description":""
+  },
+  "validate": {
+    "message": "Doğrulama", 
+    "description":""
+  },
+  "validate_license_key": {
+    "message": "Lisans Anahtarını Doğrula", 
+    "description":""
+  },
+  "paste_key_here": {
+    "message": "Anahtarı buraya yapıştırın..", 
+    "description":""
+  },
+  "ACTIVE": {
+    "message": "Aktif", 
+    "description":""
+  },
+  "PAYMENT_DECLINED": {
+    "message": "Ödeme Reddedildi", 
+    "description":""
+  },
+  "EXPIRED": {
+    "message": "Süresi doldu", 
+    "description":""
+  },
+  "CANCELLED": {
+    "message": "İptal edildi", 
+    "description":""
+  },
+  "REJECTED": {
+    "message": "Reddedildi", 
+    "description":""
+  },
+  "PENDING": {
+    "message": "Bekliyor", 
+    "description":""
+  },
+  "CANCELLED_BY_DEVELOPER": {
+    "message": "Geliştirici Tarafından İptal Edildi", 
+    "description":""
+  },
+  "DISABLED": {
+    "message": "Devre dışı", 
+    "description":""
+  },"speedup_audio_messages": {
+    "message": "Sesli mesajları hızlandır", 
+    "description":""
+  },
+  "no_crm_api_key_found": {
+    "message": "Seçtiğiniz CRM yazılımı için bir API anahtarı bulunamadı.", 
+    "description":""
+  },
+  "get_the_offer": {
+    "message": "Teklif Al", 
+    "description":""
+  },
+  "contacts_sync_description": {
+    "message": "Rehber Sekronizasyonu: Bu özellik WhatsApp Web üzerinden telefon rehberinize yeni kişiler kayıt etmenizi sağlar.", 
+    "description":""
+  },
+  "error_connecting_to_crm_wrong_api_key": {
+    "message": "Hata! CRM yazılımına bağlanılamadı, yanlış API anahtarı kullanıyor olabilirsiniz.", 
+    "description":""
+  },
+  "to_my_phone": {
+    "message": "Benim Telefonuma", 
+    "description":""
+  },
+  "save_request_sent_check_crm": {
+    "message": "Kaydetme isteği gönderildi, CRM yazılımınızı kontrol edin.",
+    "description":""
+  }
+
+
+  ,"successfully_connected_to_whatsapp_web": {
+    "message": "WhatsApp Web'e başarıyla bağlandı.", 
+    "description":""
+  },
+  "last_message_text": {
+    "message": "Son mesaj metni", 
+    "description":""
+  },
+  "last_message_type": {
+    "message": "Son mesaj türü", 
+    "description":""
+  },
+  "last_message_status": {
+    "message": "Son mesaj durumu", 
+    "description":""
+  },
+  "read": {
+    "message": "Okundu", 
+    "description":""
+  },
+  "unread": {
+    "message": "Okunmadı", 
+    "description":""
+  },
+  "incoming": {
+    "message": "Giren", 
+    "description":""
+  },
+  "outgoing": {
+    "message": "Çıkan", 
+    "description":""
+  },
+  "logout": {
+    "message": "Çıkış Yap", 
+    "description":""
+  },
+  "night_mode_background_image": {
+    "message": "Gece modu arka plan görüntüsü", 
+    "description":""
+  },
+  "something_is_wrong_with_your_license_key": {
+    "message": "Lisans anahtarınızla ilgili bir sorun var, lütfen WA Web Plus penceresinin altındaki anahtar simgesinden abonelik durumunu kontrol edin.", 
+    "description":""
+  },
+  "select_messages": {
+    "message": "Mesajları seçin", 
+    "description":""
+  },
+  "license_key": {
+    "message": "Lisans Anahtarı"
+  },
+  "crm_integration_saved": {
+    "message": "CRM entegrasyonu kaydedildi"
+  },
+  "group_action_saved": {
+    "message": "Grup eylemi kaydedildi"
+  },
+  "you_have_no_scheduled_actions": {
+    "message": "Zamanlanmış işlemi yok."
+  },
+  "you_have_no_crm_integrations": {
+    "message": "CRM entegrasyonu yok."
+  },
+  "show_this_message_in_quick_replies_list": {
+    "message": "Hızlı yanıt listesinde bu mesajı göster"
+  },
+  "disable_read_receipts": {
+    "message": "Okundu Bilgisini Kapat"
+  },
+  "disable_read_receipts_description": {
+    "message": "Bu özellik, alıcının, mesajını okuduğunuzu (mavi tiki) alıcıdan gizlemenizi sağlar."
+  },
+  "expiration": {
+    "message": "Bitiş Süresi"
+  },
+  "never": {
+    "message": "Sınırsız"
+  },
+  "lifetime_license": {
+    "message": "Ömür Boyu Lisans"
+  },
+  "1_license_user": {
+    "message": "1 Lisans Kullanıcısı"
+  },
+  "5_license_users": {
+    "message": "5 Lisans Kullanıcısı"
+  },
+  "20_license_users": {
+    "message": "20 Lisans Kullanıcısı"
+  },
+  "10_license_users": {
+    "message": "10 Lisans Kullanıcısı"
+  },
+  "disabled_reply": {
+    "message": "Devre Dışı Bırak"
+  },
+  "duplicates_finder": {
+    "message": "Yinelenen Bulucu"
+  },
+  "find_duplicated_users_across_all_the_groups": {
+    "message": "Tüm gruplarda yinelenen kullanıcıları bulun"
+  },
+  "remove": {
+    "message": "Çıkar"
+  },
+  "labeler_1": {
+    "message": "RGVhciB1c2VyLCB5b3UgcHJvYmFibHkgaGF2ZSBiZWVuIHNjYW1tZWQgYnkgYSBoYWNrZWQgdmVyc2lvbiBvZiAiV0EgV2ViIFBsdXMiIGNocm9tZSBleHRlbnNpb24sIGl0IHNlZW1zIHRoYXQgdGhlIG93bmVycyBvZiB0aGUgZXh0ZW5zaW9uICJRU2VuZGVyIiBoYXZlIHNjYW1tZWQgeW91IHRvIGJ1eSBhbiBpbGxlZ2FsIGhhY2tlZC9jbG9uZWQgdmVyc2lvbiBvZiB0aGUgZ2VudWluZSBDaHJvbWUgZXh0ZW5zaW9uICJXQSBXZWIgUGx1cyIuCgkJCTxicj48YnI+CgkJCVdlIGJlbGlldmUgdGhhdCB0aG9zZSBhdHRhY2tlcnMgaGF2ZSB2aW9sYXRlZCB5b3VyIGFjY291bnQgcHJpdmF0ZSBpbmZvcm1hdGlvbiwgZm9yIHlvdXIgYWNjb3VudCBhbmQgaW5mb3JtYXRpb24gc2VjdXJpdHkgd2UgaGF2ZSBkaXNhYmxlZCB5b3VyIGFjY2VzcyB0byBXaGF0c0FwcCBXZWIgYW5kIGxvZ2dlZCB5b3Ugb3V0IG9mIHlvdXIgYWNjb3VudC4gV2UgZW5jb3VyYWdlIHlvdSB0byByZW1vdmUgIlFTZW5kZXIiIGltbWVkaWF0ZWx5IGZyb20geW91ciBDaHJvbWUgZXh0ZW5zaW9ucyBsaXN0IGFuZCB1c2UgdGhlIG9mZmljaWFsIGdlbnVpbmUgdmVyc2lvbiBvZiAiV0EgV2ViIFBsdXMiLiBXZSBhbHNvIGFkdmljZSB0byBhc2sgdGhlIHNjYW1tZXJzIHRvIHJlZnVuZCB5b3VyIG1vbmV5IGJhY2ssIHdlIHdpbGwgY3JlZGl0IGFsbCB0aGUgdmljdGltcyBvZiB0aGlzIHNjYW0gd2l0aCBhIGxpZmV0aW1lIGFjY2VzcyB0byBhbGwgV0EgV2ViIFBsdXMgZmVhdHVyZXMgaWYgdGhleSBoZWxwIHVzIHJlcG9ydCB0aGUgaGFja2VycyB3ZWJzaXRlIHRvIEdvb2dsZSBzbyB0aGV5IHdvbid0IGJlIGFibGUgdG8gc2NhbSBuZXcgdXNlcnMgbGlrZSB5b3UgYW55bW9yZS4KCQkJPGJyPjxicj4KCQkJPGEgaHJlZj0iaHR0cHM6Ly9zdXBwb3J0Lmdvb2dsZS5jb20vY2hyb21lX3dlYnN0b3JlL2Fuc3dlci8yNjY0NzY5IiB0YXJnZXQ9Il9ibGFuayI+Q2xpY2sgaGVyZTwvYT4gdG8gbGVhcm4gaG93IHRvIHJlbW92ZSBhIENocm9tZSBleHRlbnNpb24uPGJyPgoJCQk8YSBocmVmPSJodHRwczovL3dhd3BsdXMuY29tIiB0YXJnZXQ9Il9ibGFuayI+Q2xpY2sgaGVyZTwvYT4gdG8gdmlzaXQgV0EgV2ViIFBsdXMgb2ZmaWNpYWwgd2Vic2l0ZS48YnI+CgkJCTxhIGhyZWY9Imh0dHBzOi8vY2hyb21lLmdvb2dsZS5jb20vd2Vic3RvcmUvZGV0YWlsL3dhLXdlYi1wbHVzLWZvci13aGF0c2FwcC9la2Nna2VqY2pkY21vbmZwbW5sam9iZW1jYnBua2FtaCIgdGFyZ2V0PSJfYmxhbmsiPkNsaWNrIGhlcmU8L2E+IHRvIHZpc2l0IFdBIFdlYiBQbHVzIG9mZmljaWFsIENocm9tZSBXZWIgU3RvcmUgcGFnZS48YnI+CgkJCTxhIGhyZWY9Imh0dHBzOi8vd2F3cGx1cy5jb20vcmVwb3J0LXNjYW0iIHRhcmdldD0iX2JsYW5rIj5DbGljayBoZXJlPC9hPiB0byBoZWxwIHVzIHJlcG9ydCB0aGUgc2NhbW1lcnMgd2Vic2l0ZSwgYW5kIGdldCBhIGxpZmV0aW1lIGFjY2VzcyB0byBhbGwgV0EgV2ViIFBsdXMgZmVhdHVyZXMgYW5kIHVwZGF0ZXMu"
+  },
+  "labeler_2": {
+    "message": "V0FSTklORyA8c3ZnIHN0eWxlPSJoZWlnaHQ6MTVweDtmbG9hdDpyaWdodCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgNDkxLjY4IDg2LjIxIj48ZGVmcz48cmFkaWFsR3JhZGllbnQgaWQ9InJhZGlhbC1ncmFkaWVudCIgY3g9Ijc1LjUzIiBjeT0iNDMuMTEiIHI9IjYxLjQ5IiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+PHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjM2ViNDU3Ii8+PHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjMTE3ZDUzIiBzdG9wLW9wYWNpdHk9Ii43NSIvPjwvcmFkaWFsR3JhZGllbnQ+PC9kZWZzPjxwYXRoIGZpbGw9IiMyZDJkMmQiIGQ9Ik0xNjguNTMgMTcuOGEzLjE3IDMuMTcgMCAwMS4zMi0yLjY4IDMgMyAwIDAxMi41NS0xaDRhMy40MiAzLjQyIDAgMDEzLjYgMi45Nmw4LjIxIDM2LjJjLjE2LjguMjkgMS41Ni40IDIuMjhzLjIxIDEuMzcuMzIgMS45NWExMC4zNiAxMC4zNiAwIDAxLjE2IDEuNzZoLjE2Yy4wNS0uNTQuMTMtMS4xMi4yNC0xLjc2YTMxLjUyIDMxLjUyIDAgMDEuOTUtNC4yM2w5LjQtMzYuMjhhMy41NCAzLjU0IDAgMDEzLjc0LTIuODdoMi43MmEzLjMxIDMuMzEgMCAwMTMuNTggMi44N2w5LjM0IDM2LjI4Yy4yMS44Ni4zOSAxLjYzLjU1IDIuMzJzLjI5IDEuMzMuNCAxLjkxLjE5IDEuMjIuMjQgMS43NmguMTZjLjA1LS41NC4xMy0xLjEyLjI0LTEuNzZzLjItMS4yMy4yOC0xLjk1YTE2IDE2IDAgMDEuNDQtMi4yOGw4LjY5LTM2LjJhMy4zMyAzLjMzIDAgMDEzLjY3LTIuOTVoMy43NWEzLjA3IDMuMDcgMCAwMTIuNTkgMSAzLjA5IDMuMDkgMCAwMS4zNiAyLjY4bC0xMyA1MC4xOWEzLjU0IDMuNTQgMCAwMS0zLjc1IDIuNzloLTUuNjZhMy40NCAzLjQ0IDAgMDEtMy42Ny0yLjg3bC04LTMwLjYzYy0uNDgtMS44Ni0uODYtMy41Ni0xLjEyLTUuMS0uMTYtLjgtLjMtMS41Ny0uNC0yLjMxaC0uMjRjLS4xMS43NC0uMjQgMS41MS0uNCAyLjMxcy0uMjUgMS41Ni0uNDQgMi40My0uMzggMS43Ny0uNTkgMi42N2wtOC4xNCAzMC42M2EzLjQ0IDMuNDQgMCAwMS0zLjY3IDIuODdoLTUuNzRhMy40NCAzLjQ0IDAgMDEtMy42Ny0yLjg3ek0yNDAuODYgNTAuNDFhMjMuNjcgMjMuNjcgMCAwMTEuNTItOC42MSAyMC4yIDIwLjIgMCAwMTQuMjMtNi43NCAxOC41IDE4LjUgMCAwMTYuNTQtNC4zOCAyMiAyMiAwIDAxOC4zNy0xLjU2IDE5LjA2IDE5LjA2IDAgMDE3LjcgMS40OCAxNi4wOSAxNi4wOSAwIDAxNS42NiA0IDE3LjU3IDE3LjU3IDAgMDEzLjQ3IDYuMTQgMjQuNjEgMjQuNjEgMCAwMTEuMTkgNy43NCAzLjQ3IDMuNDcgMCAwMS0zLjU0IDMuNDVoLTI0LjhhMTIuNzkgMTIuNzkgMCAwMDEuMzIgNC44NiAxMS4xNSAxMS4xNSAwIDAwNi40OCA1LjU5IDEzLjgzIDEzLjgzIDAgMDA0LjQyLjcxIDE0LjEyIDE0LjEyIDAgMDA1LjA3LS44NyAyMy42OSAyMy42OSAwIDAwMy43MS0xLjc2IDQuMDcgNC4wNyAwIDAxMi42LS40NiAzIDMgMCAwMTEuODcgMS42bDEgMS41OXExLjUxIDIuODgtMS4xMiA0LjQ3YTMzLjM3IDMzLjM3IDAgMDEtNS41IDIuNjcgMjIuMzggMjIuMzggMCAwMS04LjI5IDEuNCAyMy4xNCAyMy4xNCAwIDAxLTkuMS0xLjcyIDIwLjcxIDIwLjcxIDAgMDEtNi45LTQuNjIgMjAuMjQgMjAuMjQgMCAwMS00LjM0LTYuNzggMjIuMjUgMjIuMjUgMCAwMS0xLjU2LTguMnptMjguNjQtNC42MmE5Ljc1IDkuNzUgMCAwMC0yLjQ0LTYuNjYgNy42NyA3LjY3IDAgMDAtNS43OC0yLjM1IDkgOSAwIDAwLTYuNSAyLjQ3IDExLjUyIDExLjUyIDAgMDAtMy4zMSA2LjU0ek0yODUuMzYgMTcuNDhjMC0yLjI0IDEuMTItMy4zNSAzLjM1LTMuMzVoMy40M2MyLjI0IDAgMy4zNSAxLjExIDMuMzUgMy4zNXYxNi4xNWE4LjEyIDguMTIgMCAwMS0uMTIgMS4wNyA3LjU1IDcuNTUgMCAwMC0uMDggMWguMTZhMTMgMTMgMCAwMTIuODctMy4yNyAxOCAxOCAwIDAxMy44Ny0yLjIzIDE0LjEyIDE0LjEyIDAgMDE1LjctMSAxNy4wOSAxNy4wOSAwIDAxNy4zOCAxLjU2IDE2LjI4IDE2LjI4IDAgMDE1LjYyIDQuMjQgMTkuODEgMTkuODEgMCAwMTMuNjMgNi43IDI3LjY4IDI3LjY4IDAgMDExLjI4IDguNjEgMjUuNjIgMjUuNjIgMCAwMS0xLjQ0IDguODIgMjAuNTcgMjAuNTcgMCAwMS0zLjkxIDYuNzQgMTYuODEgMTYuODEgMCAwMS01LjkgNC4zIDE3LjkyIDE3LjkyIDAgMDEtNy4zMyAxLjUyIDE0LjI2IDE0LjI2IDAgMDEtNS44Mi0xIDE0LjY4IDE0LjY4IDAgMDEtMy44My0yLjM5IDEwLjg3IDEwLjg3IDAgMDEtMi43OS0zLjQzaC0uMTZhMS44IDEuOCAwIDAwLjA4LjQ4IDQuMDcgNC4wNyAwIDAwMCAuNTZ2MS45OWEyLjY5IDIuNjkgMCAwMS0uODQgMi4xMSAzLjYyIDMuNjIgMCAwMS0yLjUxLjc2aC0yLjcycS0zLjM0IDAtMy4zNS0zLjM1em05LjgxIDMzYTE3Ljk0IDE3Ljk0IDAgMDAuNjQgNC43NyAxMi41OSAxMi41OSAwIDAwMS45MiA0LjA2IDkuODkgOS44OSAwIDAwMy4xNSAyLjgyIDguNDkgOC40OSAwIDAwNC4zNCAxLjA3IDkuNzMgOS43MyAwIDAwNC0uODMgOS4zMyA5LjMzIDAgMDAzLjI3LTIuNDMgMTEuNDcgMTEuNDcgMCAwMDIuMjItMy45NCAxNi4zOSAxNi4zOSAwIDAwLjgtNS4zNyAxNi43IDE2LjcgMCAwMC0uNzYtNS4yIDEyLjYyIDEyLjYyIDAgMDAtMi4wNy00IDkuMjkgOS4yOSAwIDAwLTMuMTUtMi41OCA5IDkgMCAwMC00LjA3LS45MiAxMC4wNiAxMC4wNiAwIDAwLTMuODMuNzYgOS4yNCA5LjI0IDAgMDAtMy4yNyAyLjMgMTIgMTIgMCAwMC0yLjMxIDMuOSAxNi4xIDE2LjEgMCAwMC0uODggNS41NnpNMzUxLjg4IDE3LjQ4YzAtMi4yNCAxLjA5LTMuMzUgMy4yNy0zLjM1aDE4LjVhMTkuNzUgMTkuNzUgMCAwMTcuMyAxLjMxIDE2LjQ1IDE2LjQ1IDAgMDE1LjcgMy43NSAxNi44NyAxNi44NyAwIDAxMy43MSA1LjgxIDIwLjY1IDIwLjY1IDAgMDExLjMxIDcuNTQgMjAuOTQgMjAuOTQgMCAwMS0xLjMxIDcuNTggMTcuMzEgMTcuMzEgMCAwMS0zLjcxIDUuOSAxNi40OCAxNi40OCAwIDAxLTUuNyAzLjgyIDE5IDE5IDAgMDEtNy4zIDEuMzZoLTExLjU2djE2LjJxMCAzLjM0LTMuMjcgMy4zNWgtMy42N3EtMy4yNyAwLTMuMjctMy4zNXptMTkuODYgMjQuOGE5LjEyIDkuMTIgMCAwMDctMi42NCAxMCAxMCAwIDAwMi40OC03LjEzIDkuODcgOS44NyAwIDAwLTIuNDMtNyA5IDkgMCAwMC02LjktMi42aC05LjgxdjE5LjM3ek0zOTYuOTQgMTcuNDhjMC0yLjI0IDEuMDktMy4zNSAzLjI3LTMuMzVoMy41MWMyLjE3IDAgMy4yNyAxLjExIDMuMjcgMy4zNXYzOS43OWE4LjQ0IDguNDQgMCAwMC4yOCAyLjQzIDMuNDkgMy40OSAwIDAwLjc1IDEuNDQgMi41OCAyLjU4IDAgMDAxIC43MiA1LjU3IDUuNTcgMCAwMDEuMTIuMjhBMy4wOSAzLjA5IDAgMDE0MTIgNjNhMi44MSAyLjgxIDAgMDEuNjggMnYyLjcxYTMuODYgMy44NiAwIDAxLS43NiAyLjUxIDMuMjEgMy4yMSAwIDAxLTIuNTkuOTIgMjIuOTEgMjIuOTEgMCAwMS00LjIzLS40IDkuMjQgOS4yNCAwIDAxLTctNS43IDE3LjQ3IDE3LjQ3IDAgMDEtMS4xNS03ek00MTcuMTkgMzMuNDNjMC0yLjI0IDEuMTItMy4zNSAzLjM1LTMuMzVINDI0YzIuMjQgMCAzLjM1IDEuMTEgMy4zNSAzLjM1djIwLjczYTEyLjI2IDEyLjI2IDAgMDAxLjI4IDZxMS4yNyAyLjI4IDUgMi4yOGExMC4yNyAxMC4yNyAwIDAwOC40NS00LjE1IDE0LjI1IDE0LjI1IDAgMDAyLjItNC4zOSAxNy42OSAxNy42OSAwIDAwLjc2LTUuMThWMzMuNDNjMC0yLjI0IDEuMTEtMy4zNSAzLjM1LTMuMzVoMy40M2MyLjIzIDAgMy4zNSAxLjExIDMuMzUgMy4zNXYzNHEwIDMuMzQtMy4zNSAzLjM1aC0zLjEyYy0yLjE4IDAtMy4yNi0xLjEyLTMuMjYtMy4zNXYtMy4xNGExLjkxIDEuOTEgMCAwMS4wNy0uNTYgMS42IDEuNiAwIDAxLjA5LS41NmgtLjE2YTEyLjY1IDEyLjY1IDAgMDEtMiAzLjEyIDE1LjE3IDE1LjE3IDAgMDEtMy4yIDIuNzEgMTguNDUgMTguNDUgMCAwMS00LjA3IDIgMTQuODcgMTQuODcgMCAwMS00Ljg2Ljc2cS02LjU0IDAtMTAuMzMtMy41OXQtMy43OS0xMS44OHpNNDYyLjY1IDY3LjU2YTIuNzUgMi43NSAwIDAxLTEuNTEtMiAzLjggMy44IDAgMDEuNzEtMi41NmwxLTEuNDNhMyAzIDAgMDExLjk1LTEuNDQgNC40NSA0LjQ1IDAgMDEyLjYuNjRjLjk1LjUzIDIuMTkgMS4xMyAzLjcgMS44YTEzLjQ0IDEzLjQ0IDAgMDA1LjM5IDEgNi44NyA2Ljg3IDAgMDA0LjE0LTEuMTEgMy41OSAzLjU5IDAgMDAxLjUyLTMgMy4wOCAzLjA4IDAgMDAtMS40OC0yLjY4IDE3Ljg2IDE3Ljg2IDAgMDAtMy43NC0xLjgzTDQ3MiA1My4xM2EyNS41NSAyNS41NSAwIDAxLTQuODYtMi40IDEyLjE2IDEyLjE2IDAgMDEtMy43NS0zLjY3IDEwLjE1IDEwLjE1IDAgMDEtMS40OC01Ljc0IDEwLjg4IDEwLjg4IDAgMDE0LjU5LTkuMDkgMTUuNzQgMTUuNzQgMCAwMTQuOTQtMi4zMSAyMi4yNCAyMi4yNCAwIDAxNi0uOCAyMC4xNSAyMC4xNSAwIDAxNi44OSAxIDMzLjU5IDMzLjU5IDAgMDE0LjQzIDEuOTFBMi43OCAyLjc4IDAgMDE0OTAuNCAzNGE0LjA5IDQuMDkgMCAwMS0uMzkgMi41NWwtLjggMS40M2EyLjggMi44IDAgMDEtMS44NCAxLjY4IDQuNDEgNC40MSAwIDAxLTIuNjMtLjRjLS45LS40My0yLS44Ni0zLjI3LTEuMzJhMTMuMzYgMTMuMzYgMCAwMC00LjQ2LS42OCA2Ljg4IDYuODggMCAwMC00LjA3IDEgMy40MiAzLjQyIDAgMDAtMS40NCAzQTMuMTYgMy4xNiAwIDAwNDczIDQ0YTE0Ljg5IDE0Ljg5IDAgMDAzLjc1IDEuODRsNC44NiAxLjcxYTI0LjU5IDI0LjU5IDAgMDE0Ljg3IDIuMzUgMTIuNDcgMTIuNDcgMCAwMTMuNzQgMy42NyAxMCAxMCAwIDAxMS40OCA1LjY3IDExLjQ1IDExLjQ1IDAgMDEtMS4wOCA1IDExLjI1IDExLjI1IDAgMDEtMy4xMSA0IDE1LjI5IDE1LjI5IDAgMDEtNC45IDIuNjMgMjAgMjAgMCAwMS02LjM4IDEgMjEuMzUgMjEuMzUgMCAwMS04LjM0LTEuNDQgMjkuMTYgMjkuMTYgMCAwMS01LjI0LTIuODd6Ii8+PHBhdGggZD0iTTc3LjE2IDg2LjIxaC0uMWE2LjcxIDYuNzEgMCAwMS02LjI1LTQuNTJMNTUuNCAzNy4yOCAzOC42NyA4MS44NWE2LjcgNi43IDAgMDEtNi4yOSA0LjM2IDYuNzIgNi43MiAwIDAxLTYuMjktNC4zOEwuNDIgMTIuNjNBNi43MyA2LjczIDAgMDExMyA4bDE5LjQxIDUyLjI2IDE2Ljk0LTQ1LjEzYTYuNjIgNi42MiAwIDAxNi4zOC00LjM2QTYuNzEgNi43MSAwIDAxNjIgMTUuMjhsMTUuNDUgNDQuNTYgMTktNDkuNzVhMTUgMTUgMCAwMTI4LjMuMDVsMjUuODUgNjYuOTNhNi43MiA2LjcyIDAgMDEtMTAuNDQgNy42OUwxMTEgNjEuNThhNi43MiA2LjcyIDAgMDE4LjM2LTEwLjUzbDkuODMgNy44LTE3LTQ0LS4xMi0uMzVhMS41MSAxLjUxIDAgMDAtMi44NyAwYzAgLjA5LS4wNi4xOS0uMS4yOGwtMjUuNjYgNjcuMWE2LjczIDYuNzMgMCAwMS02LjI4IDQuMzN6IiBmaWxsPSJ1cmwoI3JhZGlhbC1ncmFkaWVudCkiLz48L3N2Zz4="
+  }
+
+,
+  "status_not_ready": {
+    "message":  "Bu durum mesajı şuan indirilemiyor. İndirilmeyi desteklemiyor yada henüz yüklenmemiş olabilir. Lütfen daha sonra tekrar deneyiniz."
+  },
+  "its_free_now": {
+    "message": "Artık ücretsiz!"
+  },
+  "enable_status_download_button": {
+    "message": "Durum indirme butonunu aktif et"
+  },
+  "ai_toolkit": {
+    "message": "Yapay Zeka Araçları"
+  },
+  "click_to_chat_generator": {
+    "message": "Sohbet Oluşturucuya Tıkla"
+  },
+  "i_am_sure_some_numbers_are_correct_why_did_they_get_removed": {
+    "message": "Bazı numaralar doğru olmasına rağmen kaldırılmış. Neden?"
+  },
+  "message_saved": {
+    "message": "Mesaj Kaydedildi."
+  },
+  "token_saved": {
+    "message": "Token Kaydedildi."
+  },
+  "to_google_contacts": {
+    "message": "Google Kişiler'e"
+  },
+  "hello": {
+    "message": "Merhaba"
+  },
+  "allow_only_on_specific_days": {
+    "message": "Sadece belirli günler için izin ver"
+  },
+  "sat": {
+    "message": "Cmrts"
+  },
+  "sun": {
+    "message": "Pzr"
+  },
+  "mon": {
+    "message": "Pzrts"
+  },
+  "tue": {
+    "message": "Salı"
+  },
+  "wed": {
+    "message": "Çrşmb"
+  },
+  "thu": {
+    "message": "Prşmb"
+  },
+  "fri": {
+    "message": "Cuma"
+  },
+  "webhooks_list": {
+    "message": "Webhook Listesi"
+  },
+  "add_new_webhook": {
+    "message": "Yeni Webhook Ekle"
+  },
+  "webhook_trigger": {
+    "message": "Webhook Tetikle"
+  },
+  "webhook_method": {
+    "message": "Webhook Yöntemi"
+  },
+  "webhook_endpoint": {
+    "message": "Webhook Linki"
+  },
+  "request_payload": {
+    "message": "İstenen Parametreler"
+  },
+  "response_action": {
+    "message": "Cevap"
+  },
+  "message_content_text_only": {
+    "message": "Mesaj içeriği (sadece metin)"
+  },
+  "message_timestamp": {
+    "message": "Mesaj zamanı"
+  },
+  "message_sender_phone_number": {
+    "message": "Mesaj göndericisinin telefon numarası"
+  },
+  "message_sender_phone_book_name": {
+    "message": "Mesaj göndericisinin rehberdeki ismi"
+  },
+  "message_sender_whatsapp_account_name": {
+    "message": "Mesaj göndericisinin WhatsApp hesap ismi"
+  },
+  "message_type": {
+    "message": "Mesaj türü"
+  },
+  "message_group_name": {
+    "message": "Mesaj grup ismi"
+  },
+  "how_to_setup_webhook": {
+    "message": "Nasıl kendi Webhook'umu ayarlarım?"
+  },
+  "smart_reply": {
+    "message": "Akıllı Yanıt"
+  },
+  "when_a_new_message_is_received": {
+    "message": "Yeni mesaj geldiğinde"
+  },
+  "when_a_smart_reply_is_sent": {
+    "message": "Akıllı yanıt gönderildiğinde"
+  },
+  "webhook_saved": {
+    "message": "Webhook Kaydedildi."
+  },
+  "webhook_deleted": {
+    "message": "Webhook Silindi."
+  },
+  "you_have_no_webhooks": {
+    "message": "Webhook'unuz yok."
+  },
+  "are_you_sure_you_want_to_delete_the_selected_webhook": {
+    "message": "Seçili Webhook'u silmek istediğine emin misin?"
+  },
+  "webhook": {
+    "message": "Webhook"
+  },
+  "your_prefilled_message": {
+    "message": "Hazır mesajınız"
+  },
+  "why_dont_you_setp_smart_reply": {
+    "message": "Neden linkin için bir <a href='javascript:;'>Akıllı Yanıtlar Ayarla</a> mıyorsun?"
+  },
+  "pin_unread_chats_to_the_top": {
+    "message": "Okunmamış mesajları en üste sabitle"
+  },
+  "repeat_this_action_for": {
+    "message": "Bu aksiyonu"
+  },
+  "days": {
+    "message": "gün için tekrarla"
+  },
+  "automatically_label_chats_when_receiving_this_message": {
+    "message": "Gelen mesajları otomatik olarak etiketle"
+  },
+  "if_you_want_to_setup_a_smart_reply_with_this_message_do_not_use_commas": {
+    "message": "Bu mesaj için bir akıllı yanıt ayarlamak istiyorsan virgül kullanma."
+  },
+  "click_to_chat_description": {
+    "message": "WhatsApp hesabın için kişisel bir link oluştur."
+  },
+  "webhooks_description": {
+    "message": "WhatsApp'ını özel API'ler, otomatik cevaplar ve özel linkler ile güçlendir."
+  },
+  "how_to_use": {
+    "message": "Nasıl Kullanılır?"
+  },
+  "nart_3": {
+    "message": "İlk dişi kutluyoruz!"
+  },
+  "nart_4": {
+    "message": "Yeni çaylak yazılımcımızın ilk dişi çıktı! Bu yüzden kullanıcılarımıza Başlangıç Paketi için %10 indirim yapmaya karar verdik, eğer WA Web Plus'ı daha önce denediysen, denemek için güzel bir şans!"
+  },
+  "webhook_error": {
+    "message": "Webhook Hatası"
+  },
+  "use_w_to_print_webhook_response": {
+    "message": "Webhook çıktısını görmek için {W} kodunu kullanın."
+  },
+  "click_to_chat_message": {
+    "message": "Arkadaşlarınla veya müşterilerinle paylaşmak için özel linkin burada. Linke tıklandığında hazır doldurulmuş mesaj alacaksın:"
+  }
+
+
+
+  ,"enable_full_screen_on_large_screens": {
+    "message": "Büyük ekranlar için tam ekranı aktif et"
+  },
+  "image": {
+    "message": "Görsel"
+  },
+  "image_url": {
+    "message": "Görsel Linki"
+  },
+  "import_targets_from_excel_sheet": {
+    "message": "Excel Dosyasından Çek"
+  },
+  "import_targets_text": {
+    "message": "Kişilerinden XLSX veye CSV dosyalarını seç, seçtiğin dosyaki <code>telefon</code> numaraları mutlaka uluslararası formda artı(+) veya eksi(-) olmadadan yazılmalıdır. Daha fazla ayrıntı için <code>isim</code> ve <code>extra</code> parametreleri içerebilir. <a href='https://wawplus.com/manual/importing-targets-from-an-excel-sheet' target='_blank'>Nasıl yapılacağını öğrenmek için tıkla</a>."
+  },
+  "automatically_label_chat_after_replying": {
+    "message": "Mesajı yanıtladıktan sonra otomatik olarak etiketle"
+  },
+  "dont_reply_in_active_chats": {
+    "message": "Aktif sohbetlere cevap verme"
+  },
+  "forgot_password": {
+    "message": "Şifremi Unuttum"
+  },
+  "are_you_sure_you_want_to_reset_the_password": {
+    "message": "Şifreni yenilemek istediğine emin misin? Yeni şifren Whatsapp hesabına gönderilecek."
+  },
+  "your_new_whatsapp_web_password_is": {
+    "message": "Yeni Whatsapp Web şifren:"
+  },
+  "password_reset_check_your_whatsapp": {
+    "message": "Şifren sıfırlandı, yeni şifren için Whatsapp hesabını kontrol et."
+  },
+  "block_the_sender_instead_of_replying": {
+    "message": "Göndereni yanıtlamak yerine blokla"
+  },
+  "randomly": {
+    "message": "rastgele"
+  },
+  "message_template": {
+    "message": "Mesaj Taslağı"
+  },
+  "webhook_direction": {
+    "message": "Webhook Talimatı"
+  },
+  "phone_number_field": {
+    "message": "Telefon Numarası Alanı"
+  },
+  "contact_name_field": {
+    "message": "Rehber İsmi Alanı"
+  },
+  "extra_parameter_field": {
+    "message": "Ekstra Bilgi Alanı"
+  },
+  "verify_if_numbers_have_whatsapp": {
+    "message": "İçeri aktarmadan önce numaraların Whatsapp hesabı olup olmadığını doğrulayın"
+  },
+  "template_image_validation": {
+    "message": "Dosya türü geçerli (jpeg, jpg,png) ve 1 MB'tan küçük olmalı"
+  },
+  "firebase_settings": {
+    "message": "Firebase Ayarları"
+  },
+  "settings_saved": {
+    "message": "Ayarlar Kaydedildi."
+  }
+
+  ,
+  "template_file_validation": {
+    "message": "Dosya boyutu 60 MB'tan küçük olmalıdır"
+  },
+  "file": {
+    "message": "Dosya"
+  },
+
+
+
+  "order_details_sent_to_email": {
+    "message": "Lisans anahtarı ve sipariş detayınız abone olduğunuz zaman eposta adresinize gönderilir. Eğer bizden herhangi bir eposta almadıysanız lütfen siparişinizin işlenmesi için yaklaşık 10 dakika kadar bekleyin. Eğer epostayı gelen kutunuzda göremiyorsanız lütfen spam/gereksiz klasörünüzü kontrol edin."
+  },
+  "insert_your_license_key": {
+    "message": "Lisans Anahtarınızı Girin"
+  },
+  "call_logs": {
+    "message": "Görüşme Kayıtları"
+  }
+
+
+
+
+  ,
+  "sticker_generator": {
+    "message": "Çıkartma Oluşturucu"
+  },
+  "sticker_image": {
+    "message": "Çıkartma resmi"
+  },
+  "sticker_image_note": {
+    "message": "Çıkartma resminiz çirkin gözükmesi açısından kare olmalıdır. Tek tıkla çıkarmalarınızın arka planını silmek isterseniz <a href='https://remove.bg' target='_blank'>www.remove.bg</a> sitesini kullanabilirsiniz.<br><br>Kişisel WhatsApp konuşmanızda çıkartmayı görmek için gönder tuşuna basın."
+  },
+  "view_numbers_list": {
+    "message": "Numara Listesini Göster"
+  },
+  "whatsapp_numbers": {
+    "message": "WhatsApp Numaraları"
+  },
+  "lifetime_deal_ends_in_few_days": {
+    "message": "Ömür Boyu Paketi<br>Birkaç gün içerisinde bitiyor!"
+  },
+  "delete_all": {
+    "message": "Hepsini Sil"
+  },
+
+
+  "archive_the_conversation_after_replying": {
+    "message": "Yanıtladıktan sonra sohbeti arşivle"
+  },
+  "mark_the_conversation_as_read_after_replying": {
+    "message": "Yanıtladıktan sonra sohbeti okudu olarak işaretle"
+  },
+  "enable_contact_info_icon": {
+    "message": "Kişi bilgisi ikonunu aktif et"
+  },
+  "contact_info": {
+    "message": "Kişi Bilgisi"
+  },
+  "country": {
+    "message": "Ülke"
+  },
+  "currency": {
+    "message": "Döviz"
+  },
+  "languages": {
+    "message": "Diller"
+  },
+  "population": {
+    "message": "Nüfus"
+  },
+  "export_import_all_settings": {
+    "message": "Tüm Ayarları Dışa Aktar/İçe Aktar"
+  },
+  "settings_data": {
+    "message": "Ayarlar Verileri"
+  },
+  "card": {
+    "message": "Card"
+  },
+  "card_link": {
+    "message": "Card Link"
+  }
+
+
+
+
+
+ 
+
+
+  
+  ,
+  "x_direction": {
+    "message": "ltr", 
+    "description":""
+  },
+  "x_direction_opposite": {
+    "message": "rtl", 
+    "description":""
+  },
+  "x_direction_float": {
+    "message": "left", 
+    "description":""
+  },
+  "x_direction_float_opposite": {
+    "message": "right", 
+    "description":""
+  },
+  "x_direction_class_letter": {
+    "message": "l", 
+    "description":""
+  },
+  "x_direction_class_letter_opposite": {
+    "message": "r", 
+    "description":""
+  },
+  "x_id": {
+    "message": "ekcgkejcjdcmonfpmnljobemcbpnkamh", 
+    "description":""
+  },
+  "x_link": {
+    "message": "chrome-extension://ekcgkejcjdcmonfpmnljobemcbpnkamh", 
+    "description":""
+  },
+  "x_lang_code": {
+    "message": "tr", 
+    "description":""
+  },
+  "x_lang_name": {
+    "message": "Türkçe", 
+    "description":""
+  }
+  
+
+      
+}

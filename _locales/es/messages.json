@@ -1,0 +1,2315 @@
+{
+  "appName": {
+    "message": "WA Web Plus for WhatsApp™",
+    "description":""
+  },
+  "appDesc": {
+    "message": "Agrega más herramientas y opciones para WhatsApp Web para obtener más privacidad y confiabilidad.", 
+    "description":""
+  },
+  "privacy": {
+    "message": "Privacidad", 
+    "description":""
+  },
+  "customization": {
+    "message": "Personalizar", 
+    "description":""
+  },
+  "automation": {
+    "message": "Automatización", 
+    "description":""
+  },
+  "export": {
+    "message": "Exportar", 
+    "description":""
+  },
+  "blur_recent_messages": {
+    "message": "Desenfocar mensajes recientes", 
+    "description":""
+  },
+  "blur_contacts_names": {
+    "message": "Desenfocar nombres de los contactos", 
+    "description":""
+  },
+  "blur_contacts_photos": {
+    "message": "Desenfocar fotos de los contactos", 
+    "description":""
+  },
+  "blur_conversation_messages": {
+    "message": "Desenfoque de los mensajes de conversación", 
+    "description":""
+  },
+  "restore_deleted_messages": {
+    "message": "Restaurar mensajes eliminados", 
+    "description":""
+  },
+  "restore_deleted_messages_help": {
+    "message": "Pase el cursor sobre un mensaje eliminado para restaurarlo, WhatsApp Web deberá estar abierto cuando se reciba el mensaje.", 
+    "description":""
+  },
+  "features": {
+    "message": "Características", 
+    "description":""
+  },
+  "enable_like_button": {
+    "message": "Habilitar botón de pulgar arriba", 
+    "description":""
+  },
+  "enable_like_button_help": {
+    "message": "Obtener un botón de pulgar arriba como Facebook Messenger", 
+    "description":""
+  },
+  "enable_contact_status": {
+    "message": "Habilitar el estado del contacto", 
+    "description":""
+  },
+  "enable_contact_status_help": {
+    "message": "Mostrar el estado del contacto al lado de su nombre", 
+    "description":""
+  },
+  "keep_contact_info_open": {
+    "message": "Mantener abierta la información de contacto", 
+    "description":""
+  },
+  "keep_contact_info_open_help": {
+    "message": "Haz que la barra lateral de contacto esté siempre en la ventana del chat", 
+    "description":""
+  },
+  "enable_start_conversation_with_non_contacts": {
+    "message": "Habilitar conversación con contacto no guardado", 
+    "description":""
+  },
+  "enable_start_conversation_with_non_contacts_help": {
+    "message": "Habilita nuevo botón para iniciar conversaciones con personas que no están en su lista de contactos", 
+    "description":""
+  },
+  "custom_background_image": {
+    "message": "Fondo de pantalla de chat personalizado", 
+    "description":""
+  },
+  "custom_background_image_help": {
+    "message": "No funcionará si tienes un color de fondo habilitado", 
+    "description":""
+  },
+  "background_image_url": {
+    "message": "URL de la imagen del fondo de pantalla", 
+    "description":""
+  },
+  "enable_night_mode": {
+    "message": "Activar el modo oscuro", 
+    "description":""
+  },
+  "enable_night_mode_help": {
+    "message": "Gracias al proyecto Vednoc @ 'onyx'", 
+    "description":""
+  },
+  "night_mode_colors": {
+    "message": "Colores del modo nocturno <small>(baja para más)</small>", 
+    "description":""
+  },
+  "SAVE": {
+    "message": "GUARDAR", 
+    "description":""
+  },
+  "RESET": {
+    "message": "REINICIAR", 
+    "description":""
+  },
+  "dark_color": {
+    "message": "Color oscuro", 
+    "description":""
+  },
+  "darker_color": {
+    "message": "Color muy oscuro", 
+    "description":""
+  },
+  "light_color": {
+    "message": "Color claro", 
+    "description":""
+  },
+  "lighter_color": {
+    "message": "Color muy claro", 
+    "description":""
+  },
+  "color_accent": {
+    "message": "Color acentuado", 
+    "description":""
+  },
+  "icons_color": {
+    "message": "Color de los iconos", 
+    "description":""
+  },
+  "redish_color": {
+    "message": "Color rojizo", 
+    "description":""
+  },
+  "greenish_color": {
+    "message": "Color verdoso", 
+    "description":""
+  },
+  "blueish_color": {
+    "message": "Color azulado", 
+    "description":""
+  },
+  "battery": {
+    "message": "Batería", 
+    "description":""
+  },
+  "about": {
+    "message": "Acerca de", 
+    "description":""
+  },
+  "feedback": {
+    "message": "Tienda de Chrome", 
+    "description":""
+  },
+  "premium": {
+    "message": "Premium", 
+    "description":""
+  },
+  "quick_links": {
+    "message": "Enlaces rápidos", 
+    "description":""
+  },
+  "chrome_version": {
+    "message": "Versión de Chrome", 
+    "description":""
+  },
+  "firefox_version": {
+    "message": "Versión de Firefox", 
+    "description":""
+  },
+  "request_a_feature": {
+    "message": "Sugerir un cambio", 
+    "description":""
+  },
+  "report_a_bug": {
+    "message": "Reportar un error", 
+    "description":""
+  },
+  "about_us": {
+    "message": "Sobre nosotros", 
+    "description":""
+  },
+  "contact_us": {
+    "message": "Contáctenos", 
+    "description":""
+  },
+  "export_contacts_list": {
+    "message": "Exportar la lista de contactos", 
+    "description":""
+  },
+  "only_people_with_a_conversation": {
+    "message": "Sólo las personas con las que has chateado", 
+    "description":""
+  },
+  "export_all_contacts_list": {
+    "message": "Exportar todas las listas de contactos", 
+    "description":""
+  },
+  "export_only_personal_accounts": {
+    "message": "Exportar solo cuentas personales", 
+    "description":""
+  },
+  "export_only_business_accounts": {
+    "message": "Exportar solo cuentas de negocio", 
+    "description":""
+  },
+  "export_only_phone_contacts": {
+    "message": "Exportar solo los teléfonos de los contactos", 
+    "description":""
+  },
+  "export_only_non_phone_contacts": {
+    "message": "Exportar solo los teléfonos de los nuevos contactos", 
+    "description":""
+  },
+  "export_contacts_from_a_specific_group": {
+    "message": "Exportar los contactos de un grupo en especifico", 
+    "description":""
+  },
+  "export_contacts_from_a_specific_country": {
+    "message": "Exportar los contactos de un país en especifico", 
+    "description":""
+  },
+  "check_this_link_to_know_more_about_this_feature": {
+    "message": "Entra en este enlace para saber más sobre estas características", 
+    "description":""
+  },
+  "battery": {
+    "message": "Batería: ", 
+    "description":""
+  },
+  "charging": {
+    "message": "(Cargando)", 
+    "description":""
+  },
+  "thank_you_for_subscribing": {
+    "message": "Gracias por suscribirte, disfruta las nuevas características!", 
+    "description":""
+  },
+  "something_went_wrong": {
+    "message": "Algo salió mal :(", 
+    "description":""
+  },
+  "connection_lost__do_you_mind_refreshing_whatsapp": {
+    "message": "La conexión con WhatsApp se ha perdido, ¿te importaría actualizar la pestaña de WhatsApp Web?", 
+    "description":""
+  },
+  "dont_refresh": {
+    "message": "No actualices", 
+    "description":""
+  },
+  "its_ok_refresh": {
+    "message": "Esta bien, actualiza", 
+    "description":""
+  },
+  "phone": {
+    "message": "Teléfono", 
+    "description":""
+  },
+  "name": {
+    "message": "Nombre", 
+    "description":""
+  },
+  "contacts": {
+    "message": "Contactos", 
+    "description":""
+  },
+  "groups": {
+    "message": "Grupos", 
+    "description":""
+  },
+  "cancel": {
+    "message": "Cancelar", 
+    "description":""
+  },
+  "select": {
+    "message": "Seleccionar", 
+    "description":""
+  },
+  "canceled": {
+    "message": "Cancelado", 
+    "description":""
+  },
+  "aborted": {
+    "message": "Abortado", 
+    "description":""
+  },
+  "you_have_not_selected_any_targets": {
+    "message": "No tienes seleccionado ningún objetivo!", 
+    "description":""
+  },
+  "you_have_selected_more_than_100_targets": {
+    "message": "Tienes más de 100 objetivos seleccionados!", 
+    "description":""
+  },
+  "OK": {
+    "message": "Ok", 
+    "description":""
+  },
+  "disclaimer": {
+    "message": "Renunciar", 
+    "description":""
+  },
+  "disclaimer_text": {
+    "message": "Esta función no está destinada a enviar mensajes en masa a personas ni a enviar mensajes de correo no deseado, sino a enviar felicitaciones, saludos y mensajes de invitación especiales a familiares, amigos y personas que conozca, por favor, use de manera responsable. <p>Si decide utilizar mal esta función, podría poner su cuenta de WhatsApp en riesgo de <b>ser bloqueado permanentemente</b>.</p>", 
+    "description":""
+  },
+  "i_understand_start": {
+    "message": "Lo entiendo, comencemos", 
+    "description":""
+  },
+  "exported_successfully": {
+    "message": "Exportado con éxito.", 
+    "description":""
+  },
+  "select_group": {
+    "message": "Seleccionar grupo", 
+    "description":""
+  },
+  "select_country": {
+    "message": "Seleccionar país", 
+    "description":""
+  },
+  "automated_messaging_premium": {
+    "message": "Mensajería Automatizada (Premium)", 
+    "description":""
+  },
+  "automated_messaging_beta": {
+    "message": "Mensajería Automatizada (Beta)", 
+    "description":""
+  },
+  "subscribe_now_9": {
+    "message": "Suscribete ahora (&dollar;9.99/m)", 
+    "description":""
+  },
+  "to_start_using_open_wa_first": {
+    "message": "Para empezar a usar la app, por favor primero abre $1 .", 
+    "description":""
+  },
+  "welcome_to_wawp": {
+    "message": "Bienvenido a WA Web Plus", 
+    "description":""
+  },
+  "text_message": {
+    "message": "Mensaje de texto", 
+    "description":""
+  },
+  "dynamic_variables": {
+    "message": "Variables dinámicas", 
+    "description":""
+  },
+  "use_c_to_print_contact_name_as_saved_on_your_phone": {
+    "message": "Usa {C} para imprimir el nombre del contacto como está guardado en tu teléfono.", 
+    "description":""
+  },
+  "use_u_to_print_contact_name_as_saved_on_wa_account": {
+    "message": "Usa {U} para imprimir el nombre del contacto como está guardado en tu cuenta de WhatsApp.", 
+    "description":""
+  },
+  "select_target_contacts": {
+    "message": "Seleccionar contactos objetivos", 
+    "description":""
+  },
+  "maximum_100_at_a_time": {
+    "message": "máximo 100 a la vez", 
+    "description":""
+  },
+  "select_from_chats": {
+    "message": "Selección desde los chats", 
+    "description":""
+  },
+  "upload_from_excel": {
+    "message": "Subir desde Excel", 
+    "description":""
+  },
+  "random_separation_duration_between_messages_to_avoid_blocking": {
+    "message": "Duración de separación aleatoria entre mensajes (para evitar el bloqueo)", 
+    "description":""
+  },
+  "input_is_not_number": {
+    "message": "La entrada no es un número!", 
+    "description":""
+  },
+  "send": {
+    "message": "Enviar", 
+    "description":""
+  },
+  "from": {
+    "message": "Desde", 
+    "description":""
+  },
+  "to": {
+    "message": "Hasta",
+    "description":""
+  },
+  "seconds": {
+    "message": "Segundos", 
+    "description":""
+  },
+  "select_target": {
+    "message": "Seleccionar Objetivo", 
+    "description":""
+  },
+  "automated_messaging_description_1": {
+    "message": "La mensajería automatizada es una función para enviar una cantidad ilimitada de mensajes a <b>sus</b> contactos, WA Web Plus enviará automáticamente los mensajes a los contactos que elija manualmente o que cargue desde un archivo de Excel.", 
+    "description":""
+  },
+  "automated_messaging_description_2": {
+    "message": "Suscríbase a WA Web Plus Premium para desbloquear esta función y otras funciones asombrosas, <a href='https://wawplus.com' target='_blank'>revise este enlace</a> para ver esta función en acción.", 
+    "description":""
+  },
+  "did_you_like_the_app": {
+    "message": "¿Te gustó la aplicación??", 
+    "description":""
+  },
+  "if_you_like_leave_review_and_share": {
+    "message": "Si le gustan las nuevas funciones, hágaselo saber a los demás dejando una buena reseña en la página de extensión.", 
+    "description":""
+  },
+  "i_didnt_like_it": {
+    "message": "No me gusto", 
+    "description":""
+  },
+  "i_love_it": {
+    "message": "Me encanto", 
+    "description":""
+  },
+  "please_enter_phone_with_country_code": {
+    "message": "Por favor ingrese el número de teléfono (con código de país)", 
+    "description":""
+  },
+  "start_conversation_with_new_contact": {
+    "message": "Iniciar conversación con un nuevo contacto.", 
+    "description":""
+  },
+  "stop_automated_messaging": {
+    "message": "Detener la mensajería automatizada", 
+    "description":""
+  },
+  "are_you_sure_stop_automated_messaging": {
+    "message": "¿Está seguro de que desea detener el proceso de mensajería automatizada?", 
+    "description":""
+  },
+  "this_message_was_deleted": {
+    "message": "Este mensaje fue borrado", 
+    "description":""
+  },
+  "automated_messaging_aborted_refresh_wa": {
+    "message": "El proceso de mensajería automatizado se anuló debido a un error desconocido, actualice la pestaña de WhatsApp Web y vuelva a intentarlo.", 
+    "description":""
+  },
+  "automated_messaging_done": {
+    "message": "El proceso de mensajería automatizada se realizo correctamente.", 
+    "description":""
+  },
+  "new_version_installed": {
+    "message": "Se ha instalado una nueva versión con nuevas funcionalidades.!", 
+    "description":""
+  },
+  "no": {
+    "message": "No", 
+    "description":""
+  },
+  "yes_stop": {
+    "message": "Si, parar", 
+    "description":""
+  },
+  "stop": {
+    "message": "Parar", 
+    "description":""
+  },
+  "automation_in_progress": {
+    "message": "Automatización en curso", 
+    "description":""
+  },
+  "completed": {
+    "message": "Completado", 
+    "description":""
+  },
+  "warning": {
+    "message": "Advertencia", 
+    "description":""
+  },
+  "highlight_online_contacts": {
+    "message": "Resaltar contactos en línea", 
+    "description":""
+  },
+  "highlight_online_contacts_help": {
+    "message": "Círculo de contactos en línea en color verde", 
+    "description":""
+  },
+  "minimum": {
+    "message": "Mínimo", 
+    "description":""
+  },
+  "all": {
+    "message": "Todos", 
+    "description":""
+  },
+  "select_label": {
+    "message": "Seleccionar Etiqueta", 
+    "description":""
+  },
+  "all_labels": {
+    "message": "Todas Las Etiquetas", 
+    "description":""
+  },
+  "export_contacts_with_a_specific_label": {
+    "message": "Exportar contactos con una etiqueta específica", 
+    "description":""
+  },
+  "whats_new_in_version": {
+    "message": "¿Qué cambios hay en la versión $1?", 
+    "description":""
+  },
+  "fix_code_bugs_and_improve_stability": {
+    "message": "Errores de código corregidos y estabilidad mejorada", 
+    "description":""
+  },
+  "updated_night_mode_to_latest_version": {
+    "message": "Actualiza el Modo Nocturno a la última versión", 
+    "description":""
+  },
+  "support": {
+    "message": "Soporte", 
+    "description":""
+  },
+  "stats": {
+    "message": "Estadísticas", 
+    "description":""
+  },
+  "share_with_friends": {
+    "message": "Compartir con amigos", 
+    "description":""
+  },
+  "labels": {
+    "message": "Etiquetas", 
+    "description":""
+  },
+  "countries": {
+    "message": "Países", 
+    "description":""
+  },
+  "no_files_attached": {
+    "message": "Sin archivos adjuntos", 
+    "description":""
+  },
+  "pick_labels": {
+    "message": "Seleccionar etiqueta", 
+    "description":""
+  },
+  "pick_countries": {
+    "message": "Seleccionar país", 
+    "description":""
+  },
+  "phone_contacts": {
+    "message": "Contactos de teléfono", 
+    "description":""
+  },
+  "all_chats": {
+    "message": "Todas las conversaciones", 
+    "description":""
+  },
+  "personal_chats": {
+    "message": "Conversaciones personales", 
+    "description":""
+  },
+  "group_chats": {
+    "message": "Conversaciones de grupo", 
+    "description":""
+  },
+  "device": {
+    "message": "Dispositivo", 
+    "description":""
+  },
+  "os": {
+    "message": "SO", 
+    "description":""
+  },
+  "unavailable": {
+    "message": "No disponible", 
+    "description":""
+  },
+  "attach_file": {
+    "message": "Adjuntar archivo", 
+    "description":""
+  },
+  "remove_file": {
+    "message": "Quitar archivo", 
+    "description":""
+  },
+  "add_template": {
+    "message": "Agregar plantilla", 
+    "description":""
+  },
+  "save_template": {
+    "message": "Guardar plantilla", 
+    "description":""
+  },
+  "delete_template": {
+    "message": "Borrar plantilla", 
+    "description":""
+  },
+  "default_template": {
+    "message": "Plantilla por defecto", 
+    "description":""
+  },
+  "hi_there_iam_using_waw": {
+    "message": "¡Hola! Estoy usando WA Web Plus.", 
+    "description":""
+  },
+  "what_template_name_you_want_to_use": {
+    "message": "¿Que nombre de plantilla desea usar?", 
+    "description":""
+  },
+  "new_message_template": {
+    "message": "Nuevo mensaje de plantilla", 
+    "description":""
+  },
+  "you_cannot_delete_the_default_template": {
+    "message": "No puede borrar la plantilla por defecto.", 
+    "description":""
+  },
+  "are_you_sure_you_want_to_delete_the_selected_template": {
+    "message": "¿Esta seguro que desea borrar la plantilla seleccionada?", 
+    "description":""
+  },
+  "template_saved": {
+    "message": "Plantilla guardada.", 
+    "description":""
+  },
+  "template_deleted": {
+    "message": "Plantilla borrada.", 
+    "description":""
+  },
+  "have_discount_coupon": {
+    "message": "¿Tienes un cupón de descuento?", 
+    "description":""
+  },
+  "enter_discount_coupon_code": {
+    "message": "Ingresa el código de tu cupón de descuento:", 
+    "description":""
+  },
+  "sorry_discount_invalid": {
+    "message": "¡Lo siento, el código del cupón ingresado es inválido!", 
+    "description":""
+  },
+  "subscribe_now_8": {
+    "message": "Suscribete ahora (&dollar;8.99/m)", 
+    "description":""
+  },
+
+
+
+  "or": {
+    "message": "o", 
+    "description":""
+  },
+  "import_from_list": {
+    "message": "Importar desde una lista", 
+    "description":""
+  },
+  "paste_the_list_of_targets": {
+    "message": "Pega la lista del público:", 
+    "description":""
+  },
+  "paste_targets_text": {
+    "message": "Pega los contactos del público con el siguiente formato: <code>Nombre:Número</code>, cada destino debe estar en una línea nueva. Omita los ceros, corchetes o guiones iniciales al agregar el número de teléfono en formato internacional. También puede copiar las 2 columnas desde Excel.", 
+    "description":""
+  },
+  "valid": {
+    "message": "válido", 
+    "description":""
+  },
+  "invalid_and_removed": {
+    "message": "inválido y removido", 
+    "description":""
+  },
+  "use_uf_to_print_contact_first_name_only_as_saved_on_wa_account": {
+    "message": "Usar {UF} para imprimir solo el primer nombre del contacto como está guardado en tu cuenta de WhatsApp.", 
+    "description":""
+  },
+  "use_cf_to_print_contact_first_name_only_as_saved_on_your_phone": {
+    "message": "Usar {CF} para imprimir sólo el primer nombre del contacto como está guardado en tu teléfono.", 
+    "description":""
+  }
+
+
+
+
+  ,"enhancements": {
+    "message": "Mejoras", 
+    "description":""
+  },
+
+  "bulk_messaging": {
+    "message": "Mensajes masivos", 
+    "description":""
+  },
+
+  "type_the_message": {
+    "message": "Escribe el mensaje", 
+    "description":""
+  },
+
+  "select_target_groups": {
+    "message": "Seleccionar grupos objetivos", 
+    "description":""
+  },
+
+  "select_target_labels": {
+    "message": "Seleccionar grupos objetivo", 
+    "description":""
+  },
+
+  "select_target_countries": {
+    "message": "Seleccionar países objetivo", 
+    "description":""
+  },
+
+  "start_messaging": {
+    "message": "Comience a enviar mensajes", 
+    "description":""
+  },
+
+  "notify_online_contacts": {
+    "message": "Notificar sobre contactos en línea", 
+    "description":""
+  },
+  
+  "donate": {
+    "message": "Donar", 
+    "description":""
+  },
+  
+  "contact": {
+    "message": "Contacto", 
+    "description":""
+  },
+  
+  "automated_replies": {
+    "message": "Respuestas automatizadas", 
+    "description":""
+  },
+
+  "status_message": {
+    "message": "Estado de Mensaje", 
+    "description":""
+  },
+
+  "status_image": {
+    "message": "Imagen de Estado", 
+    "description":""
+  },
+
+  "phone_number": {
+    "message": "Número de teléfono", 
+    "description":""
+  },
+  
+  "contact_name": {
+    "message": "Nombre de contacto", 
+    "description":""
+  },
+  
+  "exclude_saved_contacts": {
+    "message": "Excluir contactos guardados", 
+    "description":""
+  },
+  
+  "file_format": {
+    "message": "Formato de archivo", 
+    "description":""
+  },
+
+  "group_name": {
+    "message": "Nombre del grupo", 
+    "description":""
+  },
+  
+  "admin_status": {
+    "message": "Estado del administrador", 
+    "description":""
+  },
+  
+  "label_name": {
+    "message": "Nombre de etiqueta", 
+    "description":""
+  },
+
+  "export_now": {
+    "message": "Exportar ahora", 
+    "description":""
+  },
+  
+  "export_all_chats_contacts_list": {
+    "message": "Exportar todas las listas de contactos de chats", 
+    "description":""
+  },
+
+  "export_contacts_from_specific_groups": {
+    "message": "Exportar contactos de grupos específicos", 
+    "description":""
+  },
+  
+  "export_contacts_from_specific_labels": {
+    "message": "Exportar contactos desde etiquetas específicas", 
+    "description":""
+  },
+  
+  "export_contacts_from_specific_countries": {
+    "message": "Contactos de exportación de países específicos", 
+    "description":""
+  },
+
+  "add_reply": {
+    "message": "Añadir respuesta", 
+    "description":""
+  },
+  
+  "statistics": {
+    "message": "Estadística", 
+    "description":""
+  },
+  
+  "loading": {
+    "message": "Cargando", 
+    "description":""
+  },
+
+  "deleted_messages": {
+    "message": "Mensajes eliminados", 
+    "description":""
+  },
+
+  "automated_messaging_description_3": {
+    "message": "La función de respuestas automáticas le permite asignar palabras clave o preguntas predichas que se responden automáticamente.", 
+    "description":""
+  },
+
+  "automated_messaging_description_4": {
+    "message": "La compra segura se procesa a través de Google Pay, puede cancelar su suscripción en cualquier momento desde <a href='https://pay.google.com' target='_blank'>pay.google.com</a>.", 
+    "description":""
+  },
+  "automated_messaging_description_5": {
+    "message": "Esta función le permite exportar números de teléfono de sus chats o teléfonos por grupos, etiquetas, países u otros, a un archivo Excel o de texto.", 
+    "description":""
+  },
+  "reply_title": {
+    "message": "Título de respuesta", 
+    "description":""
+  },
+
+  "new_reply_template": {
+    "message": "Nueva plantilla de respuesta", 
+    "description":""
+  },
+
+  "expected_keywords": {
+    "message": "Palabras clave esperadas", 
+    "description":""
+  },
+  
+  "comma_separated": {
+    "message": "separado por comas", 
+    "description":""
+  },
+  
+  "reply_to_send": {
+    "message": "Responder para enviar", 
+    "description":""
+  },
+  
+  "save_reply": {
+    "message": "Guardar respuesta", 
+    "description":""
+  },
+  
+  "the_reply_to_be_sent_automatically_to_users": {
+    "message": "La respuesta se enviará automáticamente a los usuarios.", 
+    "description":""
+  },
+  
+  "all_fields_are_required": {
+    "message": "Todos los campos son obligatorios", 
+    "description":""
+  },
+  
+  "import": {
+    "message": "Importar", 
+    "description":""
+  },
+
+  "leave_a_review": {
+    "message": "Deja un comentario", 
+    "description":""
+  },
+  
+  "deleted_messages_limit_reached": {
+    "message": "Límite de mensajes eliminados alcanzado.", 
+    "description":""
+  },
+  
+  "do_you_want_more": {
+    "message": "¿Quieres mas?", 
+    "description":""
+  },
+  
+  "all_contacts": {
+    "message": "Todos los contactos", 
+    "description":""
+  },
+  
+  "selected_contacts": {
+    "message": "Selecciona Contactos", 
+    "description":""
+  },
+  
+  "all_groups": {
+    "message": "Todos los grupos", 
+    "description":""
+  },
+  
+  "selected_groups": {
+    "message": "Grupos seleccionados", 
+    "description":""
+  },
+  
+  "all_labels": {
+    "message": "Todas las etiquetas", 
+    "description":""
+  },
+  
+  "selected_labels": {
+    "message": "Etiquetas seleccionadas", 
+    "description":""
+  },
+  
+  "status_posted": {
+    "message": "Estado publicado", 
+    "description":""
+  },
+  
+  "maximum_auto_replies_reached": {
+    "message": "Máximo de respuestas automáticas alcanzadas", 
+    "description":""
+  },
+  
+  "you_cannot_delete_the_default_reply": {
+    "message": "No puedes eliminar la respuesta predeterminada", 
+    "description":""
+  },
+  
+  "are_you_sure_you_want_to_delete_the_selected_reply_template": {
+    "message": "¿Está seguro de que desea eliminar la plantilla de respuesta seleccionada?", 
+    "description":""
+  },
+  
+  "reply_template_deleted": {
+    "message": "Plantilla de respuesta eliminada", 
+    "description":""
+  },
+  
+  "reply_added": {
+    "message": "Respuesta agregada", 
+    "description":""
+  },
+
+  "deleted_messages_restored": {
+    "message": "Mensajes eliminados restaurados", 
+    "description":""
+  },
+
+  "is_now_online": {
+    "message": "ya esta en linea!", 
+    "description":""
+  },
+
+  "you_already_restored_maximum_messages": {
+    "message": "Ya restauró el límite máximo de mensajes eliminados. Para restaurar más, considere suscribirse, es solo el número #1 para recuperaciones ilimitadas de mensajes eliminados.", 
+    "description":""
+  },
+  "your_order_id": {
+    "message": "Su ID de pedido", 
+    "description":""
+  },
+  "default_reply": {
+    "message": "Respuesta Predeterminada", 
+    "description":""
+  },
+  "use_g_to_print_group_name": {
+    "message": "Use {G} para poner el nombre del grupo.", 
+    "description":""
+  },
+
+
+  "all_broadcasts": {
+    "message": "Todas las listas de difusión", 
+    "description":""
+  },
+  "selected_broadcasts": {
+    "message": "Listas de difusiónes seleccionadas", 
+    "description":""
+  },
+  "broadcasts": {
+    "message": "Listas de difusión", 
+    "description":""
+  },
+  "select_target_broadcasts": {
+    "message": "Seleccione la lista de difusión", 
+    "description":""
+  },
+  "allow_to_auto_reply_in_groups": {
+    "message": "Permitir responder automáticamente en grupos", 
+    "description":""
+  },
+  "message_must_match_the_whole_keyword": {
+    "message": "El mensaje debe coincidir con la palabra clave completa", 
+    "description":""
+  },
+  "quote_the_senders_message_with_the_reply": {
+    "message": "Cita el mensaje del remitente con la respuesta", 
+    "description":""
+  },
+  "choose_messages_you_want_to_send": {
+    "message": "Elige las mensajes que deseas enviar", 
+    "description":""
+  },
+  "settings": {
+    "message": "Ajustes", 
+    "description":""
+  }
+
+
+
+  ,
+  "reply_delay": {
+    "message": "Demora de respuesta", 
+    "description":""
+  },
+  "immediately": {
+    "message": "Inmediatamente", 
+    "description":""
+  },
+  "enable_message_reactions": {
+    "message": "Habilitar mensajes de reacciones", 
+    "description":""
+  },
+  "freeze_chats_list_on_message_submission": {
+    "message": "Congelar la lista de chats en el envío de mensajes", 
+    "description":""
+  },
+  "click_to_save_private_notes": {
+    "message": "Haga clic para guardar notas privadas", 
+    "description":""
+  },
+  "new": {
+    "message": "Nuevo", 
+    "description":""
+  },
+  "disabled": {
+    "message": "Discapacitado", 
+    "description":""
+  },
+  "automation_disabled_message": {
+    "message": "Estimados usuarios, pedimos disculpas ya que nuestras herramientas de automatización actualmente se encuentren en mantenimiento. En breves tendremos disponible todas las funciones. Esperaros. Muchas gracias.", 
+    "description":""
+  },
+  "play_audio_messages_without_informing_the_sender": {
+    "message": "Reproducir mensajes de audio sin informar al remitente", 
+    "description":""
+  },
+  "beta": {
+    "message": "Beta", 
+    "description":""
+  }
+
+
+
+  ,
+  "message_templates": {
+    "message": "Plantillas de mensajes", 
+    "description":""
+  },
+  "template_title": {
+    "message": "Título de la plantilla", 
+    "description":""
+  },
+  "template_message": {
+    "message": "Mensaje de plantilla", 
+    "description":""
+  },
+  "sorry_payment_failed": {
+    "message": "Lo sentimos, el pago ha fallado debido a un problema con tu método de pago o cuenta de Google. Compruebe las siguientes soluciones", 
+    "description":""
+  },
+  "try_to_fix_the_problem": {
+    "message": "Trate de solucionar el problema", 
+    "description":""
+  },
+  "contact_google_to_fix_it": {
+    "message": "Póngase en contacto con Google para solucionarlo", 
+    "description":""
+  },
+  "accepted_payment_methods": {
+    "message": "Métodos de pago aceptados", 
+    "description":""
+  },
+  "maximum_message_templates_reached": {
+    "message": "Máximo de plantillas de mensajes alcanzadas", 
+    "description":""
+  },
+  "business_tools": {
+    "message": "Herramientas de Negocio", 
+    "description":""
+  },
+  "broadcasting": {
+    "message": "Difusión", 
+    "description":""
+  },
+  "smart_replies": {
+    "message": "Respuestas Inteligentes", 
+    "description":""
+  },
+  "share": {
+    "message": "Compartir", 
+    "description":""
+  },
+  "automatic_replies_list": {
+    "message": "Lista de respuestas automáticas", 
+    "description":""
+  },
+  "enable_lock_screen": {
+    "message": "Habilitar la pantalla de bloqueo", 
+    "description":""
+  },
+  "checkout_this_extension": {
+    "message": "Echa un vistazo a esta genial extensión web de WhatsApp", 
+    "description":""
+  },
+  "your_new_password": {
+    "message": "Su nueva contraseña", 
+    "description":""
+  },
+  "set_lock_password": {
+    "message": "Establecer contraseña de bloqueo", 
+    "description":""
+  },
+  "change": {
+    "message": "Cambiar", 
+    "description":""
+  },
+  "send_typing_status_before_replying": {
+    "message": "Enviar el estado de escritura antes de responder", 
+    "description":""
+  },
+  "you_didnt_set_a_password_yet": {
+    "message": "Aún no has establecido una contraseña!", 
+    "description":""
+  },
+  "template_type": {
+    "message": "Tipo de plantilla", 
+    "description":""
+  },
+  "reply_type": {
+    "message": "Tipo de respuesta", 
+    "description":""
+  },
+  "scheduled_messaging": {
+    "message": "Mensajería Programada", 
+    "description":""
+  },
+  "crm_integration": {
+    "message": "Integración CRM", 
+    "description":""
+  },
+  "coming_soon": {
+    "message": "Próximamente", 
+    "description":""
+  },
+  "if_you_have_any_suggestions_please_send_it_to": {
+    "message": "Si tiene alguna sugerencia, por favor envíela a", 
+    "description":""
+  },
+  "contacts_activity_tracker": {
+    "message": "Rastreador de actividad de contactos", 
+    "description":""
+  },
+  "status": {
+    "message": "Estado", 
+    "description":""
+  },
+  "date_time": {
+    "message": "Fecha/Hora", 
+    "description":""
+  },
+  "status_media": {
+    "message": "Multimedia de estado", 
+    "description":""
+  },
+  "chat": {
+    "message": "Chat", 
+    "description":""
+  },
+  "dont_know_the_code": {
+    "message": "No reconozco el código?", 
+    "description":""
+  },
+  "chats_statistics": {
+    "message": "Estadísticas de Chats", 
+    "description":""
+  },
+  "groups_tools": {
+    "message": "Herramientas de Grupos", 
+    "description":""
+  },
+  "nart_1": {
+    "message": "Estamos celebrando un nuevo de bebé en nuestro equipo!", 
+    "description":""
+  },
+  "nart_2": {
+    "message": "Para ello, decidimos dedicar a nuestros nuevos clientes un cupón de descuento del 10%! Copie y use este código cuando se suscriba.", 
+    "description":""
+  },
+  "set_password": {
+    "message": "Establecer contraseña", 
+    "description":""
+  },
+  "contact_name": {
+    "message": "Nombre", 
+    "description":""
+  },
+  "text": {
+    "message": "Texto", 
+    "description":""
+  },
+  "link_video": {
+    "message": "Enlace/Vídeo", 
+    "description":""
+  },
+  "edit_reply": {
+    "message": "Editar respuesta", 
+    "description":""
+  },
+  "edit_template": {
+    "message": "Editar plantilla", 
+    "description":""
+  },
+  "delete_reply": {
+    "message": "Eliminar respuesta", 
+    "description":""
+  },
+  "delete_template": {
+    "message": "Eliminar plantilla", 
+    "description":""
+  },
+  "start_conversation_with_new_contact": {
+    "message": "Comience la conversación con un nuevo contacto", 
+    "description":""
+  },
+  "lock_whatsapp_web": {
+    "message": "Bloquear WhatsApp Web", 
+    "description":""
+  }
+
+  ,
+  "need_more_users": {
+    "message": "¿Necesitas más usuarios?", 
+    "description":""
+  },
+  "compare_packages": {
+    "message": "Comparar Paquetes", 
+    "description":""
+  },
+  "user": {
+    "message": "Usuario", 
+    "description":""
+  },
+  "users": {
+    "message": "Usuarios", 
+    "description":""
+  },
+  "maximum_allowed_users_reached": {
+    "message": "Máximo número de usuarios permitidos alcanzado, <a href='https://wawplus.com#packages' target='_blank'>haga clic aquí</a> para obtener más información sobre nuestros paquetes de negocios.", 
+    "description":""
+  },
+  "automated_messaging_description_6": {
+    "message": "Herramientas de Grupo: operaciones masivas para administrar sus grupos fácilmente.", 
+    "description":""
+  },
+  "automated_messaging_description_7": {
+    "message": "Integración CRM: Vincula y sincroniza tu WhatsApp con tu software CRM favorito.", 
+    "description":""
+  },
+  "automated_messaging_description_1": {
+    "message": "Difusión: Envíe mensajes ilimitados a sus clientes desde su lista de contactos o hoja de Excel.", 
+    "description":""
+  },
+  "automated_messaging_description_3": {
+    "message": "inteligentes: asigne palabras clave o preguntas programadas que se respondan automáticamente.", 
+    "description":""
+  },
+  "export_contacts_from_specific_broadcasts": {
+    "message": "Exportar contactos de listas de difusión específicos", 
+    "description":""
+  },
+  "broadcast_name": {
+    "message": "Nombre de difusión", 
+    "description":""
+  }
+
+
+  ,
+  "action_scheduled_successfully": {
+    "message": "¡Acción programada con éxito!", 
+    "description":""
+  },
+  "schedule_messaging_action": {
+    "message": "Programar acción de mensajería", 
+    "description":""
+  },
+  "set": {
+    "message": "Establecer", 
+    "description":""
+  },
+  "action_name": {
+    "message": "Nombre de la acción", 
+    "description":""
+  },
+  "scheduled_messages_list": {
+    "message": "Lista de mensajes programados", 
+    "description":""
+  },
+  "new_scheduled_action": {
+    "message": "Nueva acción programada", 
+    "description":""
+  },
+  "add_scheduled_action": {
+    "message": "Añadir acción programada", 
+    "description":""
+  },
+  "run_action": {
+    "message": "Ejecutar acción", 
+    "description":""
+  },
+  "delete_action": {
+    "message": "Eliminar acción", 
+    "description":""
+  },
+  "are_you_sure_you_want_to_delete_the_selected_scheduled_action": {
+    "message": "¿Está seguro de que desea eliminar la acción programada seleccionada?", 
+    "description":""
+  },
+  "are_you_sure_you_want_to_run_the_selected_scheduled_action": {
+    "message": "¿Está seguro de que desea ejecutar la acción programada seleccionada?", 
+    "description":""
+  },
+  "scheduled_action_deleted": {
+    "message": "Acción programada eliminada", 
+    "description":""
+  },
+  "please_choose_future_date": {
+    "message": "Por favor, elija una fecha futura!", 
+    "description":""
+  },
+  "schedule_for_later": {
+    "message": "Agende más tarde", 
+    "description":""
+  },
+  "important_notes": {
+    "message": "Notas importantes",
+    "description":""
+  },
+  "scheduled_messages_note1": {
+    "message": "Los mensajes programados actualmente no admiten archivos adjuntos.", 
+    "description":""
+  },
+  "scheduled_messages_note2": {
+    "message": "No cierre la pestaña WhatsApp Web.", 
+    "description":""
+  },
+  "scheduled_messages_note3": {
+    "message": "Mantenga el teléfono y la computadora conectados al Internet y a la fuente de poder.", 
+    "description":""
+  },
+  "automated_messaging_aborted_did_you_delete_template": {
+    "message": "¡Mensajería automatizada abortada! ¡¿Realmente?! ¿Eliminó una plantilla de mensaje mientras la radiodifusión está funcionando?!", 
+    "description":""
+  },
+  "clone_group": {
+    "message": "Clonar Grupo", 
+    "description":""
+  },
+  "destroy_group": {
+    "message": "Destruir Gropo", 
+    "description":""
+  },
+  "are_you_sure_destroy_group": {
+    "message": "¿Está seguro de que desea borrar el grupo seleccionado? Se eliminarán todos los miembros.", 
+    "description":""
+  },
+  "this_option_will_remove_all_participants": {
+    "message": "Esta opción eliminará a todos los participantes del grupo seleccionados.", 
+    "description":""
+  },
+  "this_option_will_make_another_copy_of_group": {
+    "message": "Esta opción hará otra copia del grupo con los mismos participantes.", 
+    "description":""
+  },
+  "enter_new_group_name": {
+    "message": "Introduzca el nuevo nombre de grupo", 
+    "description":""
+  },
+  "new_group_name": {
+    "message": "Nuevo nombre de grupo", 
+    "description":""
+  },
+  "clone": {
+    "message": "Clonar", 
+    "description":""
+  },
+  "group_cloned_successfully": {
+    "message": "Grupo clonado con éxito!", 
+    "description":""
+  },
+  "group_destroyed_successfully": {
+    "message": "Grupo eliminado con éxito!", 
+    "description":""
+  },
+  "our_packages": {
+    "message": "Nuestros paquetes", 
+    "description":""
+  },
+  "feature_requires_upgrading": {
+    "message": "Característica requiere actualización", 
+    "description":""
+  },
+  "feature_not_available_consider_upgrading": {
+    "message": "Esta función no está disponible para su suscripción, considere la posibilidad de actualizar.", 
+    "description":""
+  },
+  "read_the_tips": {
+    "message": "Lea los consejos", 
+    "description":""
+  },
+  "please_help_stopping_corona": {
+    "message": "Por favor, ayuda a detener el brote de coronavirus en todo el mundo, ¡quédate en casa!", 
+    "description":""
+  },
+  "stay_home": {
+    "message": "Quédate en Casa", 
+    "description":""
+  },
+  "hide_typing_status": {
+    "message": "Ocultar estado de escritura", 
+    "description":""
+  },
+  "pin_unlimited_chats_web_only": {
+    "message": "Fijar chats ilimitados (solo Web)", 
+    "description":""
+  },
+  "select_target_chats": {
+    "message": "Seleccionar chats de destino", 
+    "description":""
+  }
+  
+
+
+  ,
+  "STARTER": {
+    "message": "PRINCIPIANTE", 
+    "description":""
+  },
+  "PROFESSIONAL": {
+    "message": "PROFESIONAL", 
+    "description":""
+  },
+  "EXPERT": {
+    "message": "EXPERTO", 
+    "description":""
+  },
+  "subscribe": {
+    "message": "Suscríbete", 
+    "description":""
+  },
+  "secure_payments_are_processed_through_paddle": {
+    "message": "Los pagos seguros se procesan a través de Paddle", 
+    "description":""
+  },
+  "subscribe_to_unlock_these_features_click_here_to_see_a_demo": {
+    "message": "Suscríbete para desbloquear estas funciones, <a href='https://wawplus.com' target='_blank'>haga clic aquí</a> para ver una demostración.", 
+    "description":""
+  },
+  "exporting_tools": {
+    "message": "Herramientas de Exportación", 
+    "description":""
+  },
+  "automated_messaging_description_8": {
+    "message": "Número de cuentas de WhatsApp autorizadas para usar la herramienta por cada licencia.", 
+    "description":""
+  },
+  "automated_messaging_description_9": {
+    "message": "Mensajería programada: programe eventos de mensajería automática en una fecha y hora específicas.", 
+    "description":""
+  },
+  "affiliates": {
+    "message": "Afiliados", 
+    "description":""
+  },
+  "error_please_refresh_the_page": {
+    "message": "ERROR, ACTUALICE LA PÁGINA", 
+    "description":""
+  },
+  "last_message_date": {
+    "message": "Fecha del último mensaje", 
+    "description":""
+  },
+  "country": {
+    "message": "País", 
+    "description":""
+  }
+
+
+  ,
+  "select_contact_card": {
+    "message": "Selecciona contacto", 
+    "descripción":""
+  },
+  "hide_online_status_invisible_mode": {
+    "message": "Ocultar estado en línea (modo invisible)", 
+    "descripción":""
+  },
+  "automatic_labeling": {
+    "message": "Etiquetas Automáticas", 
+    "descripción":""
+  },
+
+
+
+
+  "export_import_note":{
+    "message":"Nota: la importación de nuevos elementos borrará los existentes."
+  },
+  "message_templates_data":{
+    "message":"Datos de plantillas de mensaje"
+  },
+  "smart_replies_data":{
+    "message":"Datos de respuestas Inteligentes"
+  },
+  "items_imported_successfully":{
+    "message":"Artículos importados con éxito"
+  },
+  "items_exported_successfully":{
+    "message":"Artículos exportados con éxito"
+  },
+  "import_export":{
+    "message":"Importación y exportación"
+  },
+  "view_statuses_without_informing_the_poster":{
+    "message":"Ver el estado sin informar al remitente"
+  },
+  "disable_read_receipts_blue_ticks":{
+    "message":"Desactivar confirmaciones de lectura (marcas azules)"
+  },
+  "export_all_groups_list":{
+    "message":"Exportar lista de todos los grupos"
+  },
+  "group_name":{
+    "message":"Nombre del grupo"
+  },
+  "group_description":{
+    "message":"Descripción del grupo"
+  },
+  "invite_link":{
+    "message":"Link de invitación"
+  },
+  "owner":{
+    "message":"Dueño"
+  },
+  "webhooks":{
+    "message":"Webhooks"
+  },
+  "import_from_crm":{
+    "message":"Importar desde un CRM"
+  },
+  "contacts_synchronizing":{
+    "message":"Sincronización de Contactos"
+  },
+  "crm_integrations_list":{
+    "message":"Lista de ingraciones del CRM"
+  },
+  "integrate_new_crm":{
+    "message":"Integrar nuevo CRM"
+  },
+  "crm_software":{
+    "message":"CRM Software"
+  },
+  "api_key":{
+    "message":"Llave API"
+  },
+  "how_to_get_key":{
+    "message":"¿Cómo conseguir una llave?"
+  },
+  "edit":{
+    "message":"Editar"
+  },
+  "delete":{
+    "message":"Eliminar"
+  },
+  "are_you_sure_you_want_to_delete_the_selected_crm_integration":{
+    "message":"¿Estás seguro que deseas eliminar la integración selecionada?"
+  },
+  "crm_integration_deleted":{
+    "message":"Integración de CRM eliminada"
+  },
+  "select":{
+    "message":"Seleccionar"
+  },
+  "select_target_lists":{
+    "message":"Seleccionar listas de objetivos"
+  },
+  "contacts_list":{
+    "message":"Lista de contactos"
+  },
+  "could_not_import_crm_lists":{
+    "message":"No se pudo importar la listas de CRM"
+  },
+  "your_api_key":{
+    "message":"Tu llave API"
+  },
+  "send_to_my_phone":{
+    "message":"Enviar a mi teléfono"
+  },
+  "api_key_message":{
+    "message":"Esta función le permite guardar nuevos contactos directamente desde WhatsApp Web en su teléfono. Escanee el código QR para descargar 'WA Web Plus Mobile Partner' en su teléfono o <a href='https://wawplus.com/manual/contacts-synchronizing' target='_blank'>haz clic aquí</a> para descargarlo directamente desde nuestro sitio web."
+  },
+  "add_custom_actions_when_people_join_or_leave_your_group":{
+    "message":"Agregue acciones personalizadas cuando las personas se unan o abandonen su grupo"
+  },
+  "new_group_action":{
+    "message":"Nueva acción de grupo"
+  },
+  "action_type":{
+    "message":"Tipo de acción"
+  },
+  "reaction_type":{
+    "message":"Tipo de reacción"
+  },
+  "group_joining":{
+    "message":"Unirse al grupo"
+  },
+  "group_leaving":{
+    "message":"Salir del grupo"
+  },
+  "leaving":{
+    "message":"Saliendo"
+  },
+  "joining":{
+    "message":"Uniendose"
+  },
+  "send_message_to_group":{
+    "message":"Enviar mensaje al grupo"
+  },
+  "send_message_to_user_privately":{
+    "message":"Enviar mensaje al usuario en privado"
+  },
+  "the_message_to_be_sent_automatically":{
+    "message":"El mensaje que se enviará automáticamente"
+  },
+  "groups_actions_list":{
+    "message":"Lista de acciones del grupo"
+  },
+  "you_have_no_groups_actions_set":{
+    "message":"No tienes acciones de grupos establecidas"
+  },
+  "are_you_sure_you_want_to_delete_the_selected_group_action":{
+    "message":"¿Estás seguro que deseas eliminar la acción de grupo seleccionada?"
+  },
+  "group_action_deleted":{
+    "message":"Acción de grupo eliminada"
+  },
+  "save_contact":{
+    "message":"Guardar contacto"
+  },
+  "save_request_sent_open_mobile_app":{
+    "message":"Guardar solicitud enviada, abrir la aplicación móvil WA Web Plus para sincronizar"
+  },
+  "you_cant_export_wawp_groups":{
+    "message":"¡No puedes exportar los grupos de WA Web Plus!"
+  },
+  "bulk_join_groups":{
+    "message":"Unirse a grupos de forma masiva"
+  },
+  "my_own_contact_card":{
+    "message":"Mi tarjeta de contacto"
+  },
+  "my_card":{
+    "message":"Mi Tarjeta"
+  },
+  "other_contacts_cards":{
+    "message":"Otras tarjetas de contactos"
+  },
+  "paste_the_list_of_groups_links":{
+    "message":"Pegue la lista de enlaces de grupos:"
+  },
+  "paste_groups_links_text_1":{
+    "message":"Copie y pega abajo los enlaces de los grupos a los que deseas unirte, pegue un enlace en cada línea"
+  },
+  "paste_groups_links_text_2":{
+    "message":"Duración de separación aleatoria entre procesos de unión para evitar el bloqueo:"
+  },
+  "join":{
+    "message":"Unirse"
+  },
+  "stop_bulk_joining":{
+    "message":"Detener ingreso masivo"
+  },
+  "successfully_joined_groups":{
+    "message":"Ingreso a grupos con éxito"
+  },
+  "failed_to_join_groups":{
+    "message":"Ingreso a grupos fallido"
+  },
+  "automatically_join_a_list_of_groups_in_bulk":{
+    "message":"Unirse automáticamente a una lista de grupos en masa"
+  },
+  "close":{
+    "message":"Cerrar"
+  },
+  "failed_to_connect_to_whatsapp_title":{
+    "message":"Alerta WA Web Plus"
+  },
+  "failed_to_connect_to_whatsapp_text":{
+    "message":"¡Oh! Parece que WA Web Plus no pudo comunicarse correctamente esta vez con WhatsApp Web y algunas características podrían no funcionar correctamente. Haga clic en Actualizar para actualizar la página e intente nuevamente, o en Cancelar para usar WhatsApp Web sin WA Web Plus. Si el problema persiste, por favor, <a href='mailto:contact@elbruz.net?subject=WA Web Plus no puede comunicarse con WhatsApp Web' target='_blank'>informar a los desarrolladores</a> para solucionarlo."
+  },
+  "reload":{
+      "message":"Recargar"
+   },
+   "click_to_check_subscription_status":{
+      "message":"Haga clic para verificar el estado de la suscripción"
+   },
+   "subscriptions_list":{
+      "message":"Lista de suscripciones"
+   },
+   "manage":{
+      "message":"Gestionar"
+   },
+   "you_have_no_available_subscriptions":{
+      "message":"No tienes suscripciones disponibles."
+   },
+   "package":{
+      "message":"Paquete"
+   },
+   "order_id":{
+      "message":"ID de Pedido"
+   },
+   "please_contact_us_to_remove_limitation":{
+      "message":"Póngase en contacto con nosotros para eliminar esta limitación."
+   },
+   "i_have_a_license_key":{
+      "message":"Tengo una clave de licencia."
+   },
+   "enter_license_key_text":{
+      "message":"Ingrese su clave de licencia a continuación, las claves de licencia son diferentes de los números de pedido de Google."
+   }
+
+
+  ,"validate":{
+      "message":"Validar"
+   },
+   "validate_license_key":{
+      "message":"Validar la clave de Licencia"
+   },
+   "paste_key_here":{
+      "message":"Pega la clave aquí.."
+   },
+   "ACTIVE":{
+      "message":"Activo"
+   },
+   "PAYMENT_DECLINED":{
+      "message":"Pago Declinado"
+   },
+   "EXPIRED":{
+      "message":"Expirado"
+   },
+   "CANCELLED":{
+      "message":"Cancelado"
+   },
+   "REJECTED":{
+      "message":"Rechazado"
+   },
+   "PENDING":{
+      "message":"Pendiente"
+   },
+   "CANCELLED_BY_DEVELOPER":{
+      "message":"Cancelada por el Desarrollador"
+   },
+   "DISABLED":{
+      "message":"Desactivada"
+   },
+   "speedup_audio_messages":{
+      "message":"Acelerar los mensajes de audio"
+   },
+   "no_crm_api_key_found":{
+      "message":"No se encontró clave API para el software CRM seleccionado"
+   },
+   "get_the_offer":{
+      "message":"Obtenga la oferta"
+   },
+   "contacts_sync_description":{
+      "message":"Sincronización de Contactos: esta función le permite guardar nuevos contactos directamente desde WhatsApp Web en su teléfono."
+   },
+   "error_connecting_to_crm_wrong_api_key":{
+      "message":"Error al conectarse al software CRM, es posible que esté utilizando una clave API incorrecta"
+   },
+   "to_my_phone":{
+      "message":"A mi Teléfono"
+   },
+   "save_request_sent_check_crm":{
+      "message":"Guardar solicitud enviada, verifique su software CRM."
+   },
+   "successfully_connected_to_whatsapp_web":{
+    "message":"Conectado exitosamente a WhatsApp Web"
+  },
+  "last_message_text":{
+    "message":"Texto del último mensaje"
+  },
+  "last_message_type":{
+    "message":"Último tipo de mensaje"
+  },
+  "last_message_status":{
+    "message":"Estado del último mensaje"
+  },
+  "read":{
+    "message":"Leído"
+  },
+  "unread":{
+    "message":"Sin leer"
+  },
+  "incoming":{
+    "message":"Entrante"
+  },
+  "outgoing":{
+    "message":"Saliente"
+  },
+  "logout": {
+    "message": "Cerrar Sesión", 
+    "description":""
+  },
+  "night_mode_background_image": {
+    "message": "Imagen de fondo del modo nocturno", 
+    "description":""
+  },
+  "something_is_wrong_with_your_license_key": {
+    "message": "Algo está mal con su clave de licencia, verifique el estado de la suscripción desde el icono de la llave en la parte inferior de la ventana WA Web Plus.", 
+    "description":""
+  },
+  "select_messages": {
+    "message": "Seleccionar mensajes"
+  },
+  "license_key": {
+    "message": "Clave de Licencia"
+  },
+  "crm_integration_saved": {
+    "message": "Integración de CRM guardada"
+  },
+  "group_action_saved": {
+    "message": "Acción de grupo guardada"
+  },
+  "you_have_no_scheduled_actions": {
+    "message": "No tienes acciones programadas."
+  },
+  "you_have_no_crm_integrations": {
+    "message": "No tienes integraciones de CRM."
+  },
+  "show_this_message_in_quick_replies_list": {
+    "message": "Mostrar este mensaje en la lista de respuestas rápidas"
+  },
+  "disable_read_receipts": {
+    "message": "Desactivar Recibos de Lectura"
+  },
+  "disable_read_receipts_description": {
+    "message": "Esta función le permite desactivar las confirmaciones de lectura (marcas azules) que informan al remitente sobre la lectura de sus mensajes."
+  },
+  "expiration": {
+    "message": "Fecha de Expiración"
+  },
+  "never": {
+    "message": "Nunca"
+  },
+  "lifetime_license": {
+    "message": "Licencia de por vida"
+  },
+  "1_license_user": {
+    "message": "Licencia para 1 Usuario"
+  },
+  "5_license_users": {
+    "message": "Licencias para 5 Usuarios"
+  },
+  "20_license_users": {
+    "message": "Licencias para 20 Usuarios"
+  },
+  "10_license_users": {
+    "message": "Licencias para 10 Usuarios"
+  },
+  "disabled_reply": {
+    "message": "Deshabilitado"
+  },
+  "duplicates_finder": {
+    "message": "Buscador de Duplicados"
+  },
+  "find_duplicated_users_across_all_the_groups": {
+    "message": "Encuentra usuarios duplicados en todos los grupos"
+  },
+  "remove": {
+    "message": "Eliminar"
+  },
+  "labeler_1": {
+    "message": "RXN0aW1hZG8gdXN1YXJpbywgdXN0ZWQgcHJvYmFibGVtZW50ZSBoYSBzaWRvIGVzdGFmYWRvIHBvciB1bmEgdmVyc2nDs24gaGFja2VhZGEgZGUgZXh0ZW5zacOzbiBkZSBHb29nbGUgQ2hyb21lICJXQSBXZWIgUGx1cyIuIFBhcmVjZSBxdWUgbG9zIHByb3BpZXRhcmlvcyBkZSBsYSBleHRlbnNpw7NuICJRU2VuZGVyIiBsZSBoYW4gZXN0YWZhZG8gYWwgY29tcHJhciB1bmEgdmVyc2nDs24gaWxlZ2FsIGhhY2tlYWRhL2Nsb25hZGEgZGUgbGEgZXh0ZW5zacOzbiBnZW51aW5hIENocm9tZSAiV0EgV2ViIFBsdXMiLgo8YnI+PGJyPgpDcmVlbW9zIHF1ZSBlc29zIGF0YWNhbnRlcyBoYW4gdmlvbGFkbyBsYSBpbmZvcm1hY2nDs24gcHJpdmFkYSBkZSBzdSBjdWVudGEuIFBhcmEgbGEgc2VndXJpZGFkIGRlIHN1IGN1ZW50YSB5IGRlIHN1IGluZm9ybWFjacOzbiwgaGVtb3MgZGVzYWN0aXZhZG8gc3UgYWNjZXNvIGEgV2hhdHNBcHAgV2ViLCB5IGNlcnJhZG8gbGEgc2VzacOzbiBkZSBzdSBjdWVudGEuIExlIHJlY29tZW5kYW1vcyBxdWUgZWxpbWluZSAiUVNlbmRlciIgaW5tZWRpYXRhbWVudGUgZGUgc3UgbGlzdGEgZGUgZXh0ZW5zaW9uZXMgZGUgR29vZ2xlIENocm9tZSwgeSB1dGlsaXphciBsYSB2ZXJzacOzbiBvZmljaWFsIGdlbnVpbmEgZGUgIldBIFdlYiBQbHVzIi4gVGFtYmnDqW4gYWNvbnNlamFtb3Mgc29saWNpdGFyIGEgbG9zIGVzdGFmYWRvcmVzIHF1ZSBsZSByZWVtYm9sc2VuIHN1IGRpbmVyby4gVmFtb3MgYSBhY3JlZGl0YXIgYSB0b2RhcyBsYXMgdsOtY3RpbWFzIGRlIGVzdGEgZXN0YWZhIGNvbiB1biBhY2Nlc28gZGUgcG9yIHZpZGEgYSB0b2RhcyBsYXMgY2FyYWN0ZXLDrXN0aWNhcyBkZSBXQSBXZWIgUGx1cywgc2kgbm9zIGF5dWRhbiBhIGluZm9ybWFyIGVsIHNpdGlvIHdlYiBkZSBsb3MgcGlyYXRhcyBpbmZvcm3DoXRpY29zIGEgR29vZ2xlLCBwYXJhIHF1ZSBubyBwdWVkYW4gbcOhcyBlc3RhZmFyIGEgbnVldm9zIHVzdWFyaW9zIGNvbW8gdXN0ZWQuCjxicj48YnI+CjxhIGhyZWY9Imh0dHBzOi8vc3VwcG9ydC5nb29nbGUuY29tL2Nocm9tZV93ZWJzdG9yZS9hbnN3ZXIvMjY2NDc2OSIgdGFyZ2V0PSJfYmxhbmsiPkhhZ2EgY2xpYzwvYT4gYXF1w60gcGFyYSBvYnRlbmVyIGluZm9ybWFjacOzbiBzb2JyZSBjw7NtbyBlbGltaW5hciB1bmEgZXh0ZW5zacOzbiBkZSBHb29nbGUgQ2hyb21lLjxicj4KPGEgaHJlZj0iaHR0cHM6Ly93YXdwbHVzLmNvbSIgdGFyZ2V0PSJfYmxhbmsiPkhhZ2EgY2xpYzwvYT4gYXF1w60gcGFyYSB2aXNpdGFyIGVsIHNpdGlvIHdlYiBvZmljaWFsIGRlIFdBIFdlYiBQbHVzLjxicj4KPGEgaHJlZj0iaHR0cHM6Ly9jaHJvbWUuZ29vZ2xlLmNvbS93ZWJzdG9yZS9kZXRhaWwvd2Etd2ViLXBsdXMtZm9yLXdoYXRzYXBwL2VrY2drZWpjamRjbW9uZnBtbmxqb2JlbWNicG5rYW1oIiB0YXJnZXQ9Il9ibGFuayI+SGFnYSBjbGljPC9hPiBhcXXDrSBwYXJhIHZpc2l0YXIgbGEgcMOhZ2luYSBvZmljaWFsIGRlIFdBIFdlYiBQbHVzIGVuIGxhIFRpZW5kYSBXZWIgZGUgR29vZ2xlIENocm9tZS48YnI+CjxhIGhyZWY9Imh0dHBzOi8vd2F3cGx1cy5jb20vcmVwb3J0LXNjYW0iIHRhcmdldD0iX2JsYW5rIj5IYWdhIGNsaWM8L2E+IGFxdcOtIHBhcmEgYXl1ZGFybm9zIGEgaW5mb3JtYXIgZGVsIHNpdGlvIHdlYiBkZSBlc3RhZmFkb3JlcywgeSBvYnRlbmVyIHVuIGFjY2VzbyBkZSBwb3IgdmlkYSBhIHRvZGFzIGxhcyBjYXJhY3RlcsOtc3RpY2FzIHkgYWN0dWFsaXphY2lvbmVzIGRlIFdBIFdlYiBQbHVzLg=="
+  },
+  "labeler_2": {
+    "message": "QURWRVJURU5DSUEgPHN2ZyBzdHlsZT0iaGVpZ2h0OjE1cHg7ZmxvYXQ6cmlnaHQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDQ5MS42OCA4Ni4yMSI+PGRlZnM+PHJhZGlhbEdyYWRpZW50IGlkPSJyYWRpYWwtZ3JhZGllbnQiIGN4PSI3NS41MyIgY3k9IjQzLjExIiByPSI2MS40OSIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPjxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iIzNlYjQ1NyIvPjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzExN2Q1MyIgc3RvcC1vcGFjaXR5PSIuNzUiLz48L3JhZGlhbEdyYWRpZW50PjwvZGVmcz48cGF0aCBmaWxsPSIjMmQyZDJkIiBkPSJNMTY4LjUzIDE3LjhhMy4xNyAzLjE3IDAgMDEuMzItMi42OCAzIDMgMCAwMTIuNTUtMWg0YTMuNDIgMy40MiAwIDAxMy42IDIuOTZsOC4yMSAzNi4yYy4xNi44LjI5IDEuNTYuNCAyLjI4cy4yMSAxLjM3LjMyIDEuOTVhMTAuMzYgMTAuMzYgMCAwMS4xNiAxLjc2aC4xNmMuMDUtLjU0LjEzLTEuMTIuMjQtMS43NmEzMS41MiAzMS41MiAwIDAxLjk1LTQuMjNsOS40LTM2LjI4YTMuNTQgMy41NCAwIDAxMy43NC0yLjg3aDIuNzJhMy4zMSAzLjMxIDAgMDEzLjU4IDIuODdsOS4zNCAzNi4yOGMuMjEuODYuMzkgMS42My41NSAyLjMycy4yOSAxLjMzLjQgMS45MS4xOSAxLjIyLjI0IDEuNzZoLjE2Yy4wNS0uNTQuMTMtMS4xMi4yNC0xLjc2cy4yLTEuMjMuMjgtMS45NWExNiAxNiAwIDAxLjQ0LTIuMjhsOC42OS0zNi4yYTMuMzMgMy4zMyAwIDAxMy42Ny0yLjk1aDMuNzVhMy4wNyAzLjA3IDAgMDEyLjU5IDEgMy4wOSAzLjA5IDAgMDEuMzYgMi42OGwtMTMgNTAuMTlhMy41NCAzLjU0IDAgMDEtMy43NSAyLjc5aC01LjY2YTMuNDQgMy40NCAwIDAxLTMuNjctMi44N2wtOC0zMC42M2MtLjQ4LTEuODYtLjg2LTMuNTYtMS4xMi01LjEtLjE2LS44LS4zLTEuNTctLjQtMi4zMWgtLjI0Yy0uMTEuNzQtLjI0IDEuNTEtLjQgMi4zMXMtLjI1IDEuNTYtLjQ0IDIuNDMtLjM4IDEuNzctLjU5IDIuNjdsLTguMTQgMzAuNjNhMy40NCAzLjQ0IDAgMDEtMy42NyAyLjg3aC01Ljc0YTMuNDQgMy40NCAwIDAxLTMuNjctMi44N3pNMjQwLjg2IDUwLjQxYTIzLjY3IDIzLjY3IDAgMDExLjUyLTguNjEgMjAuMiAyMC4yIDAgMDE0LjIzLTYuNzQgMTguNSAxOC41IDAgMDE2LjU0LTQuMzggMjIgMjIgMCAwMTguMzctMS41NiAxOS4wNiAxOS4wNiAwIDAxNy43IDEuNDggMTYuMDkgMTYuMDkgMCAwMTUuNjYgNCAxNy41NyAxNy41NyAwIDAxMy40NyA2LjE0IDI0LjYxIDI0LjYxIDAgMDExLjE5IDcuNzQgMy40NyAzLjQ3IDAgMDEtMy41NCAzLjQ1aC0yNC44YTEyLjc5IDEyLjc5IDAgMDAxLjMyIDQuODYgMTEuMTUgMTEuMTUgMCAwMDYuNDggNS41OSAxMy44MyAxMy44MyAwIDAwNC40Mi43MSAxNC4xMiAxNC4xMiAwIDAwNS4wNy0uODcgMjMuNjkgMjMuNjkgMCAwMDMuNzEtMS43NiA0LjA3IDQuMDcgMCAwMTIuNi0uNDYgMyAzIDAgMDExLjg3IDEuNmwxIDEuNTlxMS41MSAyLjg4LTEuMTIgNC40N2EzMy4zNyAzMy4zNyAwIDAxLTUuNSAyLjY3IDIyLjM4IDIyLjM4IDAgMDEtOC4yOSAxLjQgMjMuMTQgMjMuMTQgMCAwMS05LjEtMS43MiAyMC43MSAyMC43MSAwIDAxLTYuOS00LjYyIDIwLjI0IDIwLjI0IDAgMDEtNC4zNC02Ljc4IDIyLjI1IDIyLjI1IDAgMDEtMS41Ni04LjJ6bTI4LjY0LTQuNjJhOS43NSA5Ljc1IDAgMDAtMi40NC02LjY2IDcuNjcgNy42NyAwIDAwLTUuNzgtMi4zNSA5IDkgMCAwMC02LjUgMi40NyAxMS41MiAxMS41MiAwIDAwLTMuMzEgNi41NHpNMjg1LjM2IDE3LjQ4YzAtMi4yNCAxLjEyLTMuMzUgMy4zNS0zLjM1aDMuNDNjMi4yNCAwIDMuMzUgMS4xMSAzLjM1IDMuMzV2MTYuMTVhOC4xMiA4LjEyIDAgMDEtLjEyIDEuMDcgNy41NSA3LjU1IDAgMDAtLjA4IDFoLjE2YTEzIDEzIDAgMDEyLjg3LTMuMjcgMTggMTggMCAwMTMuODctMi4yMyAxNC4xMiAxNC4xMiAwIDAxNS43LTEgMTcuMDkgMTcuMDkgMCAwMTcuMzggMS41NiAxNi4yOCAxNi4yOCAwIDAxNS42MiA0LjI0IDE5LjgxIDE5LjgxIDAgMDEzLjYzIDYuNyAyNy42OCAyNy42OCAwIDAxMS4yOCA4LjYxIDI1LjYyIDI1LjYyIDAgMDEtMS40NCA4LjgyIDIwLjU3IDIwLjU3IDAgMDEtMy45MSA2Ljc0IDE2LjgxIDE2LjgxIDAgMDEtNS45IDQuMyAxNy45MiAxNy45MiAwIDAxLTcuMzMgMS41MiAxNC4yNiAxNC4yNiAwIDAxLTUuODItMSAxNC42OCAxNC42OCAwIDAxLTMuODMtMi4zOSAxMC44NyAxMC44NyAwIDAxLTIuNzktMy40M2gtLjE2YTEuOCAxLjggMCAwMC4wOC40OCA0LjA3IDQuMDcgMCAwMDAgLjU2djEuOTlhMi42OSAyLjY5IDAgMDEtLjg0IDIuMTEgMy42MiAzLjYyIDAgMDEtMi41MS43NmgtMi43MnEtMy4zNCAwLTMuMzUtMy4zNXptOS44MSAzM2ExNy45NCAxNy45NCAwIDAwLjY0IDQuNzcgMTIuNTkgMTIuNTkgMCAwMDEuOTIgNC4wNiA5Ljg5IDkuODkgMCAwMDMuMTUgMi44MiA4LjQ5IDguNDkgMCAwMDQuMzQgMS4wNyA5LjczIDkuNzMgMCAwMDQtLjgzIDkuMzMgOS4zMyAwIDAwMy4yNy0yLjQzIDExLjQ3IDExLjQ3IDAgMDAyLjIyLTMuOTQgMTYuMzkgMTYuMzkgMCAwMC44LTUuMzcgMTYuNyAxNi43IDAgMDAtLjc2LTUuMiAxMi42MiAxMi42MiAwIDAwLTIuMDctNCA5LjI5IDkuMjkgMCAwMC0zLjE1LTIuNTggOSA5IDAgMDAtNC4wNy0uOTIgMTAuMDYgMTAuMDYgMCAwMC0zLjgzLjc2IDkuMjQgOS4yNCAwIDAwLTMuMjcgMi4zIDEyIDEyIDAgMDAtMi4zMSAzLjkgMTYuMSAxNi4xIDAgMDAtLjg4IDUuNTZ6TTM1MS44OCAxNy40OGMwLTIuMjQgMS4wOS0zLjM1IDMuMjctMy4zNWgxOC41YTE5Ljc1IDE5Ljc1IDAgMDE3LjMgMS4zMSAxNi40NSAxNi40NSAwIDAxNS43IDMuNzUgMTYuODcgMTYuODcgMCAwMTMuNzEgNS44MSAyMC42NSAyMC42NSAwIDAxMS4zMSA3LjU0IDIwLjk0IDIwLjk0IDAgMDEtMS4zMSA3LjU4IDE3LjMxIDE3LjMxIDAgMDEtMy43MSA1LjkgMTYuNDggMTYuNDggMCAwMS01LjcgMy44MiAxOSAxOSAwIDAxLTcuMyAxLjM2aC0xMS41NnYxNi4ycTAgMy4zNC0zLjI3IDMuMzVoLTMuNjdxLTMuMjcgMC0zLjI3LTMuMzV6bTE5Ljg2IDI0LjhhOS4xMiA5LjEyIDAgMDA3LTIuNjQgMTAgMTAgMCAwMDIuNDgtNy4xMyA5Ljg3IDkuODcgMCAwMC0yLjQzLTcgOSA5IDAgMDAtNi45LTIuNmgtOS44MXYxOS4zN3pNMzk2Ljk0IDE3LjQ4YzAtMi4yNCAxLjA5LTMuMzUgMy4yNy0zLjM1aDMuNTFjMi4xNyAwIDMuMjcgMS4xMSAzLjI3IDMuMzV2MzkuNzlhOC40NCA4LjQ0IDAgMDAuMjggMi40MyAzLjQ5IDMuNDkgMCAwMC43NSAxLjQ0IDIuNTggMi41OCAwIDAwMSAuNzIgNS41NyA1LjU3IDAgMDAxLjEyLjI4QTMuMDkgMy4wOSAwIDAxNDEyIDYzYTIuODEgMi44MSAwIDAxLjY4IDJ2Mi43MWEzLjg2IDMuODYgMCAwMS0uNzYgMi41MSAzLjIxIDMuMjEgMCAwMS0yLjU5LjkyIDIyLjkxIDIyLjkxIDAgMDEtNC4yMy0uNCA5LjI0IDkuMjQgMCAwMS03LTUuNyAxNy40NyAxNy40NyAwIDAxLTEuMTUtN3pNNDE3LjE5IDMzLjQzYzAtMi4yNCAxLjEyLTMuMzUgMy4zNS0zLjM1SDQyNGMyLjI0IDAgMy4zNSAxLjExIDMuMzUgMy4zNXYyMC43M2ExMi4yNiAxMi4yNiAwIDAwMS4yOCA2cTEuMjcgMi4yOCA1IDIuMjhhMTAuMjcgMTAuMjcgMCAwMDguNDUtNC4xNSAxNC4yNSAxNC4yNSAwIDAwMi4yLTQuMzkgMTcuNjkgMTcuNjkgMCAwMC43Ni01LjE4VjMzLjQzYzAtMi4yNCAxLjExLTMuMzUgMy4zNS0zLjM1aDMuNDNjMi4yMyAwIDMuMzUgMS4xMSAzLjM1IDMuMzV2MzRxMCAzLjM0LTMuMzUgMy4zNWgtMy4xMmMtMi4xOCAwLTMuMjYtMS4xMi0zLjI2LTMuMzV2LTMuMTRhMS45MSAxLjkxIDAgMDEuMDctLjU2IDEuNiAxLjYgMCAwMS4wOS0uNTZoLS4xNmExMi42NSAxMi42NSAwIDAxLTIgMy4xMiAxNS4xNyAxNS4xNyAwIDAxLTMuMiAyLjcxIDE4LjQ1IDE4LjQ1IDAgMDEtNC4wNyAyIDE0Ljg3IDE0Ljg3IDAgMDEtNC44Ni43NnEtNi41NCAwLTEwLjMzLTMuNTl0LTMuNzktMTEuODh6TTQ2Mi42NSA2Ny41NmEyLjc1IDIuNzUgMCAwMS0xLjUxLTIgMy44IDMuOCAwIDAxLjcxLTIuNTZsMS0xLjQzYTMgMyAwIDAxMS45NS0xLjQ0IDQuNDUgNC40NSAwIDAxMi42LjY0Yy45NS41MyAyLjE5IDEuMTMgMy43IDEuOGExMy40NCAxMy40NCAwIDAwNS4zOSAxIDYuODcgNi44NyAwIDAwNC4xNC0xLjExIDMuNTkgMy41OSAwIDAwMS41Mi0zIDMuMDggMy4wOCAwIDAwLTEuNDgtMi42OCAxNy44NiAxNy44NiAwIDAwLTMuNzQtMS44M0w0NzIgNTMuMTNhMjUuNTUgMjUuNTUgMCAwMS00Ljg2LTIuNCAxMi4xNiAxMi4xNiAwIDAxLTMuNzUtMy42NyAxMC4xNSAxMC4xNSAwIDAxLTEuNDgtNS43NCAxMC44OCAxMC44OCAwIDAxNC41OS05LjA5IDE1Ljc0IDE1Ljc0IDAgMDE0Ljk0LTIuMzEgMjIuMjQgMjIuMjQgMCAwMTYtLjggMjAuMTUgMjAuMTUgMCAwMTYuODkgMSAzMy41OSAzMy41OSAwIDAxNC40MyAxLjkxQTIuNzggMi43OCAwIDAxNDkwLjQgMzRhNC4wOSA0LjA5IDAgMDEtLjM5IDIuNTVsLS44IDEuNDNhMi44IDIuOCAwIDAxLTEuODQgMS42OCA0LjQxIDQuNDEgMCAwMS0yLjYzLS40Yy0uOS0uNDMtMi0uODYtMy4yNy0xLjMyYTEzLjM2IDEzLjM2IDAgMDAtNC40Ni0uNjggNi44OCA2Ljg4IDAgMDAtNC4wNyAxIDMuNDIgMy40MiAwIDAwLTEuNDQgM0EzLjE2IDMuMTYgMCAwMDQ3MyA0NGExNC44OSAxNC44OSAwIDAwMy43NSAxLjg0bDQuODYgMS43MWEyNC41OSAyNC41OSAwIDAxNC44NyAyLjM1IDEyLjQ3IDEyLjQ3IDAgMDEzLjc0IDMuNjcgMTAgMTAgMCAwMTEuNDggNS42NyAxMS40NSAxMS40NSAwIDAxLTEuMDggNSAxMS4yNSAxMS4yNSAwIDAxLTMuMTEgNCAxNS4yOSAxNS4yOSAwIDAxLTQuOSAyLjYzIDIwIDIwIDAgMDEtNi4zOCAxIDIxLjM1IDIxLjM1IDAgMDEtOC4zNC0xLjQ0IDI5LjE2IDI5LjE2IDAgMDEtNS4yNC0yLjg3eiIvPjxwYXRoIGQ9Ik03Ny4xNiA4Ni4yMWgtLjFhNi43MSA2LjcxIDAgMDEtNi4yNS00LjUyTDU1LjQgMzcuMjggMzguNjcgODEuODVhNi43IDYuNyAwIDAxLTYuMjkgNC4zNiA2LjcyIDYuNzIgMCAwMS02LjI5LTQuMzhMLjQyIDEyLjYzQTYuNzMgNi43MyAwIDAxMTMgOGwxOS40MSA1Mi4yNiAxNi45NC00NS4xM2E2LjYyIDYuNjIgMCAwMTYuMzgtNC4zNkE2LjcxIDYuNzEgMCAwMTYyIDE1LjI4bDE1LjQ1IDQ0LjU2IDE5LTQ5Ljc1YTE1IDE1IDAgMDEyOC4zLjA1bDI1Ljg1IDY2LjkzYTYuNzIgNi43MiAwIDAxLTEwLjQ0IDcuNjlMMTExIDYxLjU4YTYuNzIgNi43MiAwIDAxOC4zNi0xMC41M2w5LjgzIDcuOC0xNy00NC0uMTItLjM1YTEuNTEgMS41MSAwIDAwLTIuODcgMGMwIC4wOS0uMDYuMTktLjEuMjhsLTI1LjY2IDY3LjFhNi43MyA2LjczIDAgMDEtNi4yOCA0LjMzeiIgZmlsbD0idXJsKCNyYWRpYWwtZ3JhZGllbnQpIi8+PC9zdmc+"
+  }
+
+
+
+,
+  "status_not_ready": {
+    "message": "Este estado no es compatible con la descarga o no se ha cargado todavía, por favor espere a que se cargue o vuelva a descargarlo más tarde."
+  },
+  "its_free_now": {
+    "message": "Ahora es gratis!"
+  },
+  "enable_status_download_button": {
+    "message": "Habilitar botón de descarga de estado"
+  },
+  "ai_toolkit": {
+    "message": "Kit de Herramientas de Inteligencia Artificial"
+  },
+  "click_to_chat_generator": {
+    "message": "Generador de Clic para Chatear"
+  },
+  "i_am_sure_some_numbers_are_correct_why_did_they_get_removed": {
+    "message": "Estoy seguro de que algunos números son correctos, ¿por qué se eliminaron?"
+  },
+  "message_saved": {
+    "message": "Mensaje guardado."
+  },
+  "token_saved": {
+    "message": "Token guardado."
+  },
+  "to_google_contacts": {
+    "message": "A contactos de Google"
+  },
+  "hello": {
+    "message": "Hola"
+  },
+  "allow_only_on_specific_days": {
+    "message": "Permitir solo en días específicos"
+  },
+  "sat": {
+    "message": "Sab"
+  },
+  "sun": {
+    "message": "Dom"
+  },
+  "mon": {
+    "message": "Lun"
+  },
+  "tue": {
+    "message": "Mar"
+  },
+  "wed": {
+    "message": "Mie"
+  },
+  "thu": {
+    "message": "Jue"
+  },
+  "fri": {
+    "message": "Vie"
+  },
+  "webhooks_list": {
+    "message": "Lista de Webhooks"
+  },
+  "add_new_webhook": {
+    "message": "Agregar nuevo Webhook"
+  },
+  "webhook_trigger": {
+    "message": "Webhook Trigger"
+  },
+  "webhook_method": {
+    "message": "Método Webhook"
+  },
+  "webhook_endpoint": {
+    "message": "Punto final de Webhook"
+  },
+  "request_payload": {
+    "message": "Variable a solicitar"
+  },
+  "response_action": {
+    "message": "Acción de Respuesta"
+  },
+  "message_content_text_only": {
+    "message": "Contenido del mensaje (solo texto)"
+  },
+  "message_timestamp": {
+    "message": "Marca de tiempo del mensaje"
+  },
+  "message_sender_phone_number": {
+    "message": "Número de teléfono del remitente del mensaje"
+  },
+  "message_sender_phone_book_name": {
+    "message": "Nombre del remitente del mensaje en la agenda"
+  },
+  "message_sender_whatsapp_account_name": {
+    "message": "Nombre de la cuenta de WhatsApp del remitente"
+  },
+  "message_type": {
+    "message": "Tipo de mensaje"
+  },
+  "message_group_name": {
+    "message": "Nombre del grupo de mensajes"
+  },
+  "how_to_setup_webhook": {
+    "message": "Cómo configurar mi Webhook?"
+  },
+  "smart_reply": {
+    "message": "Respuesta inteligente"
+  },
+  "when_a_new_message_is_received": {
+    "message": "Cuando se recibe un nuevo mensaje"
+  },
+  "when_a_smart_reply_is_sent": {
+    "message": "Cuando se envía una respuesta inteligente"
+  },
+  "webhook_saved": {
+    "message": "Webhook guardado."
+  },
+  "webhook_deleted": {
+    "message": "Webhook eliminado."
+  },
+  "you_have_no_webhooks": {
+    "message": "No tienes Webhooks."
+  },
+  "are_you_sure_you_want_to_delete_the_selected_webhook": {
+    "message": "¿Está seguro de que desea eliminar el Webhook seleccionado?"
+  },
+  "webhook": {
+    "message": "Webhook"
+  },
+  "your_prefilled_message": {
+    "message": "Su mensaje precargado"
+  },
+  "why_dont_you_setp_smart_reply": {
+    "message": "¿Por qué no <a href='javascript:;'>configura una respuesta inteligente</a> para su enlace?"
+  },
+  "pin_unread_chats_to_the_top": {
+    "message": "Anclar chats no leídos a la parte superior"
+  },
+  "repeat_this_action_for": {
+    "message": "Repita esta acción por"
+  },
+  "days": {
+    "message": "Días"
+  },
+  "automatically_label_chats_when_receiving_this_message": {
+    "message": "Etiquetar automáticamente los chats al recibir este mensaje"
+  },
+  "if_you_want_to_setup_a_smart_reply_with_this_message_do_not_use_commas": {
+    "message": "Si desea configurar una respuesta inteligente con este mensaje, no utilice comas."
+  },
+  "click_to_chat_description": {
+    "message": "Generar enlaces personalizados para ponerse en contacto directamente con usted a través de WhatsApp."
+  },
+  "webhooks_description": {
+    "message": "Mejora tu WhatsApp con API personalizadas, automatiza las respuestas y envía solicitudes personalizadas a tus enlaces."
+  },
+  "how_to_use": {
+    "message": "Cómo Usar"
+  },
+  "nart_3": {
+    "message": "Estamos celebrando el primer diente!"
+  },
+  "nart_4": {
+    "message": "¡Nuestro nuevo programador junior tiene su el primer diente! Decidimos acreditar a nuestros usuarios con un descuento del 10% en el paquete Principiante. ¡Si aún no has probado WA Web Plus, ahora es una buena oportunidad!"
+  },
+  "webhook_error": {
+    "message": "Error de Webhook"
+  },
+  "use_w_to_print_webhook_response": {
+    "message": "Utilice {W} para imprimir la respuesta de Webhook."
+  },
+  "click_to_chat_message": {
+    "message": "A continuación está su enlace de clic para chatear, puede compartirlo con sus amigos o clientes con un mensaje precargado que recibirá cuando hagan clic en su enlace:"
+  }
+
+
+  ,
+  "enable_full_screen_on_large_screens": {
+    "message": "Habilitar pantalla completa en pantallas grandes"
+  },
+  "image": {
+    "message": "Imagen"
+  },
+  "image_url": {
+    "message": "URL de imagen"
+  },
+  "import_targets_from_excel_sheet": {
+    "message": "Importar contactos desde una hoja de Excel"
+  },
+  "import_targets_text": {
+    "message": "Seleccione el archivo XLSX o CSV de sus contactos, su hoja debe contener los números de <code>teléfono</code> en formato internacional sin ceros a la izquierda, signos más o guiones. Puede utilizar columnas adicionales como <code>nombre</code> y valor de parámetro <code>extra</code> que se puede personalizar en la plantilla de mensaje, <a href='https://wawplus.com/manual/importing-targets-from-an-excel-sheet' target='_blank'>haga clic aquí para aprender cómo</a>."
+  },
+  "automatically_label_chat_after_replying": {
+    "message": "Etiquetar automáticamente el chat después de responder"
+  },
+  "dont_reply_in_active_chats": {
+    "message": "No respondas en chats activos"
+  },
+  "forgot_password": {
+    "message": "Olvidé la contraseña"
+  },
+  "are_you_sure_you_want_to_reset_the_password": {
+    "message": "¿Está seguro de que desea restablecer la contraseña? Se enviará una nueva contraseña a tu cuenta de WhatsApp."
+  },
+  "your_new_whatsapp_web_password_is": {
+    "message": "Tu nueva contraseña de WhatsApp web es:"
+  },
+  "password_reset_check_your_whatsapp": {
+    "message": "La contraseña se ha restablecido, compruebe su cuenta de WhatsApp para la nueva contraseña."
+  },
+  "block_the_sender_instead_of_replying": {
+    "message": "Bloquear al remitente en lugar de responder"
+  },
+  "randomly": {
+    "message": "Al azar"
+  },
+  "message_template": {
+    "message": "Plantilla de mensaje"
+  },
+  "webhook_direction": {
+    "message": "Dirección de Webhook"
+  },
+  "phone_number_field": {
+    "message": "Campo de número de teléfono"
+  },
+  "contact_name_field": {
+    "message": "Campo de nombre de contacto"
+  },
+  "extra_parameter_field": {
+    "message": "Campo de parámetros adicionales"
+  },
+  "verify_if_numbers_have_whatsapp": {
+    "message": "Antes de importar, verifica que todos los números tienen una cuenta de WhatsApp activa"
+  },
+  "template_image_validation": {
+    "message": "Debe ser un archivo de imagen válido (jpeg, jpg, png) y de menos de 1 MB"
+  },
+  "firebase_settings": {
+    "message": "Configuración de Firebase"
+  },
+  "settings_saved": {
+    "message": "Ajustes Guardados."
+  }
+
+
+
+  ,
+  "template_file_validation": {
+    "message": "El tamaño del archivo debe ser inferior a 60 MB"
+  },
+  "file": {
+    "message": "Archivo"
+  }
+
+
+  ,
+  "order_details_sent_to_email": {
+    "message": "La clave de licencia y los detalles del pedido se envían a su dirección de correo electrónico una vez se suscribe. Si no recibió un correo electrónico de nosotros, por favor espere hasta 10 minutos para que su pedido sea procesado. Si no encuentra el mensaje en su bandeja de entrada, compruebe la carpeta de correo no deseado."
+  },
+  "insert_your_license_key": {
+    "message": "Inserte su clave de licencia"
+  },
+  "call_logs": {
+    "message": "Registros de llamadas"
+  }
+
+
+  ,
+  "sticker_generator": {
+    "message": "Generador de etiquetas"
+  },
+  "sticker_image": {
+    "message": "Imagen de etiqueta"
+  },
+  "sticker_image_note": {
+    "message": "Su imagen de etiqueta debe ser cuadrada o se verá mal. Puede utilizar fácilmente <a href='https://remove.bg' target='_blank'>www.remove.bg</a> para borrar automáticamente el fondo de sus etiquetas y con un solo clic!<br><br>Haz clic en el botón Enviar para recibir la etiqueta en tu chat personal de WhatsApp."
+  },
+  "view_numbers_list": {
+    "message": "Ver lista de números"
+  },
+  "whatsapp_numbers": {
+    "message": "Números de WhatsApp"
+  },
+  "lifetime_deal_ends_in_few_days": {
+    "message": "Oferta de por vida<br>Termina en unos días!"
+  },
+  "delete_all": {
+    "message": "Eliminar Todos"
+  }
+
+
+
+  ,
+  "archive_the_conversation_after_replying": {
+    "message": "Archivar la conversación después de responder"
+  },
+  "mark_the_conversation_as_read_after_replying": {
+    "message": "Marque la conversación como leída después de responder"
+  },
+  "enable_contact_info_icon": {
+    "message": "Habilitar el icono de información de contacto"
+  },
+  "contact_info": {
+    "message": "Información de contacto"
+  },
+  "country": {
+    "message": "País"
+  },
+  "currency": {
+    "message": "Moneda"
+  },
+  "languages": {
+    "message": "Idiomas"
+  },
+  "population": {
+    "message": "Población"
+  },
+  "export_import_all_settings": {
+    "message": "Exportar/Importar Todas las Configuraciones"
+  },
+  "settings_data": {
+    "message": "Datos de Configuración"
+  },
+  "card": {
+    "message": "Card"
+  },
+  "card_link": {
+    "message": "Card Link"
+  }
+
+ 
+  
+  
+  ,
+  "x_direction": {
+    "message": "ltr", 
+    "description":""
+  },
+  "x_direction_opposite": {
+    "message": "rtl", 
+    "description":""
+  },
+  "x_direction_float": {
+    "message": "left", 
+    "description":""
+  },
+  "x_direction_float_opposite": {
+    "message": "right", 
+    "description":""
+  },
+  "x_direction_class_letter": {
+    "message": "l", 
+    "description":""
+  },
+  "x_direction_class_letter_opposite": {
+    "message": "r", 
+    "description":""
+  },
+  "x_id": {
+    "message": "ekcgkejcjdcmonfpmnljobemcbpnkamh", 
+    "description":""
+  },
+  "x_link": {
+    "message": "chrome-extension://ekcgkejcjdcmonfpmnljobemcbpnkamh", 
+    "description":""
+  },
+  "x_lang_code": {
+    "message": "es", 
+    "description":""
+  },
+  "x_lang_name": {
+    "message": "Español", 
+    "description":""
+  }
+  
+  
+
+
+
+
+  
+
+  
+}

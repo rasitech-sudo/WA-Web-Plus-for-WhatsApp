@@ -1,0 +1,1901 @@
+{
+  "appName": {
+    "message": "WA Web Plus for WhatsApp™"
+  },
+  "appDesc": {
+    "message": "Дополнительные инструменты для WhatsApp Web, с конфиденциальностью и надежностью."
+  },
+  "privacy": {
+    "message": "Конфиденциальность"
+  },
+  "customization": {
+    "message": "Настройки"
+  },
+  "automation": {
+    "message": "Автоматизация"
+  },
+  "export": {
+    "message": "Экспорт"
+  },
+  "blur_recent_messages": {
+    "message": "Размыть сообщения"
+  },
+  "blur_contacts_names": {
+    "message": "Размыть имена контактов"
+  },
+  "blur_contacts_photos": {
+    "message": "Размыть фото контактов"
+  },
+  "blur_conversation_messages": {
+    "message": "Размыть сообщения в диалогах"
+  },
+  "restore_deleted_messages": {
+    "message": "Восстановить удаленные сообщения"
+  },
+  "restore_deleted_messages_help": {
+    "message": "Наведите указатель мыши на удаленное сообщение, чтобы восстановить его, WhatsApp Web должен быть открыт при получении сообщения."
+  },
+  "features": {
+    "message": "Особенности"
+  },
+  "enable_like_button": {
+    "message": "Включить кнопку Like"
+  },
+  "enable_like_button_help": {
+    "message": "Влючит кнопку палец вверх как в Faceook"
+  },
+  "enable_contact_status": {
+    "message": "Влючить статус контакта"
+  },
+  "enable_contact_status_help": {
+    "message": "Показать статус контакта рядом с именем"
+  },
+  "keep_contact_info_open": {
+    "message": "Информация о контакте всегда открыта"
+  },
+  "keep_contact_info_open_help": {
+    "message": "Включит боковую панель с информацией о контакте"
+  },
+  "enable_start_conversation_with_non_contacts": {
+    "message": "Отправка сообщений без добавления в контакты"
+  },
+  "enable_start_conversation_with_non_contacts_help": {
+    "message": "Добавляет кнопку отправки сообщения, даже если номера нет в ваших контактах"
+  },
+  "custom_background_image": {
+    "message": "Изменить фон в чатах"
+  },
+  "custom_background_image_help": {
+    "message": "Не работает, если у вас включен цвет фона"
+  },
+  "background_image_url": {
+    "message": "URL изображения обоев"
+  },
+  "enable_night_mode": {
+    "message": "Включить ночной режим"
+  },
+  "enable_night_mode_help": {
+    "message": "Спасибо Vednoc @ 'onyx' проект"
+  },
+  "night_mode_colors": {
+    "message": "Цвета ночного режима <small>(Прокрутите вниз, чтобы увидеть больше)</small>"
+  },
+  "SAVE": {
+    "message": "Сохранить"
+  },
+  "RESET": {
+    "message": "Сброс"
+  },
+  "dark_color": {
+    "message": "Темный цвет"
+  },
+  "darker_color": {
+    "message": "Более темный цвет"
+  },
+  "light_color": {
+    "message": "Светлый цвет"
+  },
+  "lighter_color": {
+    "message": "Более светлый цвет"
+  },
+  "color_accent": {
+    "message": "Цветовой акцент"
+  },
+  "icons_color": {
+    "message": "Цвет иконок"
+  },
+  "redish_color": {
+    "message": "Красный цвет"
+  },
+  "greenish_color": {
+    "message": "Зеленый цвет"
+  },
+  "blueish_color": {
+    "message": "Голубоватый цвет"
+  },
+  "about": {
+    "message": "О нас"
+  },
+  "feedback": {
+    "message": "Обратная связь"
+  },
+  "premium": {
+    "message": "Премиум"
+  },
+  "quick_links": {
+    "message": "Быстрые ссылки"
+  },
+  "chrome_version": {
+    "message": "Версия Chrome"
+  },
+  "firefox_version": {
+    "message": "Версия Firefox"
+  },
+  "request_a_feature": {
+    "message": "Запросить функцию"
+  },
+  "report_a_bug": {
+    "message": "Сообщить об ошибке"
+  },
+  "about_us": {
+    "message": "О нас"
+  },
+  "contact_us": {
+    "message": "Конаткты"
+  },
+  "export_contacts_list": {
+    "message": "Экспорт списка контактов"
+  },
+  "only_people_with_a_conversation": {
+    "message": "Только контакты, с которыми вы общались"
+  },
+  "export_all_contacts_list": {
+    "message": "Экспортировать весь список контактов"
+  },
+  "export_only_personal_accounts": {
+    "message": "Экспортировать только личные номера"
+  },
+  "export_only_business_accounts": {
+    "message": "Экспорт только бизнес номера"
+  },
+  "export_only_phone_contacts": {
+    "message": "Экспорт только телефонных контактов"
+  },
+  "export_only_non_phone_contacts": {
+    "message": "Экспорт только номера в не телефонных контактов"
+  },
+  "export_contacts_from_a_specific_group": {
+    "message": "Экспорт контактов из определенной группы"
+  },
+  "export_contacts_from_a_specific_country": {
+    "message": "Экспортировать контакты из конкретной страны"
+  },
+  "check_this_link_to_know_more_about_this_feature": {
+    "message": "Перейдите по ссылке, чтобы узнать больше об этой функции"
+  },
+  "battery": {
+    "message": "Аккумулятор: "
+  },
+  "charging": {
+    "message": "(Зарядка)"
+  },
+  "thank_you_for_subscribing": {
+    "message": "Спасибо за подписку, наслаждайтесь новыми функциями!"
+  },
+  "something_went_wrong": {
+    "message": "Что-то пошло не так"
+  },
+  "connection_lost__do_you_mind_refreshing_whatsapp": {
+    "message": "Соединение с WhatsApp потеряно. Не хотите обновить вкладку WhatsApp Web?"
+  },
+  "dont_refresh": {
+    "message": "Не обновленно"
+  },
+  "its_ok_refresh": {
+    "message": "Отлично, обновлено"
+  },
+  "phone": {
+    "message": "Номер телефона"
+  },
+  "name": {
+    "message": "Имя"
+  },
+  "contacts": {
+    "message": "Контакты"
+  },
+  "groups": {
+    "message": "Группы"
+  },
+  "cancel": {
+    "message": "Отмена"
+  },
+  "select": {
+    "message": "Выбрать"
+  },
+  "canceled": {
+    "message": "Отменено"
+  },
+  "aborted": {
+    "message": "Прервано"
+  },
+  "you_have_not_selected_any_targets": {
+    "message": "Вы не выбрали номера!"
+  },
+  "you_have_selected_more_than_100_targets": {
+    "message": "Вы выбрали более 100 номеров!"
+  },
+  "OK": {
+    "message": "OK"
+  },
+  "disclaimer": {
+    "message": "Дисклеймер"
+  },
+  "disclaimer_text": {
+    "message": "Эта функция не предназначена для массовых рассылок или спама. Она предназначена для отпавки поздравлений и специальных приглашений клиентам или родным, друзьям и знакомым. Используйте осторожно. <P> Если вы решили использовать эту функцию не по назначению, вы может поставить вашу учетную запись WhatsApp под угрозу<b>блокировки</b>.</p>"
+  },
+  "i_understand_start": {
+    "message": "Я понимаю, начать"
+  },
+  "exported_successfully": {
+    "message": "Экспорт завершен."
+  },
+  "select_group": {
+    "message": "Выберите группу"
+  },
+  "select_country": {
+    "message": "Выберите страну"
+  },
+  "automated_messaging_premium": {
+    "message": "Автоматизированный обмен сообщениями(Premium)"
+  },
+  "automated_messaging_beta": {
+    "message": "Автоматические сообщения (Beta)"
+  },
+  "subscribe_now_9": {
+    "message": "Подпишитесь сейчас (&dollar;9.99/m)"
+  },
+  "to_start_using_open_wa_first": {
+    "message": "Чтобы начать использовать приложение, сначала откройте $ 1"
+  },
+  "welcome_to_wawp": {
+    "message": "Добро пожаловать в WA Web Plus"
+  },
+  "text_message": {
+    "message": "Text Message"
+  },
+  "dynamic_variables": {
+    "message": "Динамические переменные"
+  },
+  "use_c_to_print_contact_name_as_saved_on_your_phone": {
+    "message": "Введите {C} чтобы в сообщении отобразился номера из контактов."
+  },
+  "use_u_to_print_contact_name_as_saved_on_wa_account": {
+    "message": "Введите {U} чтобы показать контакт, как в учетной записи WhatsApp."
+  },
+  "select_target_contacts": {
+    "message": "Выерите контакты"
+  },
+  "maximum_100_at_a_time": {
+    "message": "максимум 100 одновременно"
+  },
+  "select_from_chats": {
+    "message": "Выбрать из чатов"
+  },
+  "upload_from_excel": {
+    "message": "Загрузить из Excel"
+  },
+  "random_separation_duration_between_messages_to_avoid_blocking": {
+    "message": "Время задержки между сообщениями (случайный диапозон, чтобы избежать блокировки)"
+  },
+  "input_is_not_number": {
+    "message": "Введите номер!"
+  },
+  "send": {
+    "message": "Отправить"
+  },
+  "from": {
+    "message": "От"
+  },
+  "to": {
+    "message": "До"
+  },
+  "seconds": {
+    "message": "секудны"
+  },
+  "select_target": {
+    "message": "Выберите цель"
+  },
+  "automated_messaging_description_1": {
+    "message": "Вещание: отправляйте неограниченное количество сообщений своим клиентам из списка контактов или листа Excel."
+  },
+  "automated_messaging_description_2": {
+    "message": "Подпишитесь на WA Web Plus Premium, чтобы разблокировать эту и другие потрясающие функции, <a href='https://wawplus.com' target='_blank'>здесь</a>."
+  },
+  "did_you_like_the_app": {
+    "message": "Понравилось ли вам приложение?"
+  },
+  "if_you_like_leave_review_and_share": {
+    "message": "Если вам нравятся новые функции, пожалуйста, сообщите об этом другим, оставив хороший обзор на странице расширения."
+  },
+  "i_didnt_like_it": {
+    "message": "Мне не понравилось"
+  },
+  "i_love_it": {
+    "message": "Я люблю это!"
+  },
+  "please_enter_phone_with_country_code": {
+    "message": "Пожалуйста, введите номер телефона (с кодом страны):"
+  },
+  "start_conversation_with_new_contact": {
+    "message": "Начать разговор с новым контактом"
+  },
+  "stop_automated_messaging": {
+    "message": "Остановить рассылку"
+  },
+  "are_you_sure_stop_automated_messaging": {
+    "message": "Вы уверены, что хотите остановить процесс автоматического обмена сообщениями?"
+  },
+  "this_message_was_deleted": {
+    "message": "Это сообщение удалено"
+  },
+  "automated_messaging_aborted_refresh_wa": {
+    "message": "Процесс автоматического обмена сообщениями прерван из-за неизвестной ошибки, обновите вкладку WhatsApp Web и повторите попытку."
+  },
+  "automated_messaging_done": {
+    "message": "Рассылка выполненна."
+  },
+  "new_version_installed": {
+    "message": "Новая версия успешно установлена!"
+  },
+  "no": {
+    "message": "Нет"
+  },
+  "yes_stop": {
+    "message": "Да, остановить"
+  },
+  "stop": {
+    "message": "Стоп"
+  },
+  "automation_in_progress": {
+    "message": "Автоматизация в процессе"
+  },
+  "completed": {
+    "message": "готово"
+  },
+  "warning": {
+    "message": "Предупреждение"
+  },
+  "highlight_online_contacts": {
+    "message": "Показать контакты тех кто онлайн"
+  },
+  "highlight_online_contacts_help": {
+    "message": "Показывать когда контакт онлайн"
+  },
+  "minimum": {
+    "message": "Минимум"
+  },
+  "all": {
+    "message": "Все"
+  },
+  "select_label": {
+    "message": "Выбрать метки"
+  },
+  "all_labels": {
+    "message": "Все метки"
+  },
+  "export_contacts_with_a_specific_label": {
+    "message": "Экспорт контактов с определенной меткой"
+  },
+  "whats_new_in_version": {
+    "message": "Что нового в версии $ 1?"
+  },
+  "fix_code_bugs_and_improve_stability": {
+    "message": "Исправили ошибки кода и улучшили стабильность"
+  },
+  "updated_night_mode_to_latest_version": {
+    "message": "Обновлен ночной режим до последней версии"
+  }
+
+
+
+
+  ,
+  "support": {
+    "message": "Поддержка"
+  },
+  "stats": {
+    "message": "Статистика"
+  },
+  "share_with_friends": {
+    "message": "Поделиться с друзьями"
+  },
+  "labels": {
+    "message": "Метки"
+  },
+  "countries": {
+    "message": "Страны"
+  },
+  "no_files_attached": {
+    "message": "Нет прикрепленных файлов"
+  },
+  "pick_labels": {
+    "message": "Выбрать метку"
+  },
+  "pick_countries": {
+    "message": "Выбрать страну"
+  },
+  "phone_contacts": {
+    "message": "Контакты с телефона"
+  },
+  "all_chats": {
+    "message": "Все чаты"
+  },
+  "personal_chats": {
+    "message": "Личный чат"
+  },
+  "group_chats": {
+    "message": "Группа чатов"
+  },
+  "device": {
+    "message": "Device"
+  },
+  "os": {
+    "message": "OS"
+  },
+  "unavailable": {
+    "message": "Недоступен"
+  },
+  "attach_file": {
+    "message": "ПРикрепить файл"
+  },
+  "remove_file": {
+    "message": "Удалить файл"
+  },
+  "add_template": {
+    "message": "Добавить шаблон"
+  },
+  "save_template": {
+    "message": "Сохранить шаблон"
+  },
+  "delete_template": {
+    "message": "Удалить шаблон"
+  },
+  "default_template": {
+    "message": "Шаблон по умолчанию"
+  },
+  "hi_there_iam_using_waw": {
+    "message": "Всем привет! Я использую WA Web Plus."
+  },
+  "what_template_name_you_want_to_use": {
+    "message": "Какое имя шаблона вы хотите использовать?"
+  },
+  "new_message_template": {
+    "message": "Новый шаблон сообщения"
+  },
+  "you_cannot_delete_the_default_template": {
+    "message": "Вы не можете удалить шаблон по умолчанию."
+  },
+  "are_you_sure_you_want_to_delete_the_selected_template": {
+    "message": "Вы уверены, что хотите удалить выбранный шаблон?"
+  },
+  "template_saved": {
+    "message": "Шаблон сохранен."
+  },
+  "template_deleted": {
+    "message": "Шаблон удален."
+  }
+
+
+
+
+  ,
+  "have_discount_coupon": {
+    "message": "У вас есть купон на скидку?"
+  },
+  "enter_discount_coupon_code": {
+    "message": "Введите код купона на скидку:"
+  },
+  "sorry_discount_invalid": {
+    "message": "Извините, введенный вами купон на скидку недействителен!"
+  },
+  "subscribe_now_8": {
+    "message": "Подпишитесь сейчас (&dollar;8.99/m)"
+  },
+
+  
+
+  "or": {
+    "message": "или"
+  },
+  "import_from_list": {
+    "message": "Импорт из списка"
+  },
+  "paste_the_list_of_targets": {
+    "message": "Вставить список номеров:"
+  },
+  "paste_targets_text": {
+    "message": "Вставьте номера в формате: <code>Имя:Телефон</code>,с новой строки. Используйте в номерах только цифрами, БЕЗ дополнительных знаков и +. Вы также можете скопировать 2 столбца из Excel."
+  },
+  "valid": {
+    "message": "действительный"
+  },
+  "invalid_and_removed": {
+    "message": "Ошибка удаления"
+  },
+  "use_uf_to_print_contact_first_name_only_as_saved_on_wa_account": {
+    "message": "Введите {UF}, чтобы вывести имя контакта только как сохраненное в его учетной записи WhatsApp."
+  },
+  "use_cf_to_print_contact_first_name_only_as_saved_on_your_phone": {
+    "message": "Введите {CF}, чтобы вывести имя контакта как сохраненное на вашем телефоне."
+  }
+
+
+
+
+
+
+  ,
+  "enhancements": {
+    "message": "Приложения файлов"
+  },
+  "bulk_messaging": {
+    "message": "Рассылка сообщений"
+  },
+  "type_the_message": {
+    "message": "Тип сообщения"
+  },
+  "select_target_groups": {
+    "message": "Выбрать целевую групу"
+  },
+  "select_target_labels": {
+    "message": "Выбрать целевую метку"
+  },
+  "select_target_countries": {
+    "message": "Выбрать целевую страну"
+  },
+  "start_messaging": {
+    "message": "Начать обмен сообщениями"
+  },
+  "notify_online_contacts": {
+    "message": "Уведомлять об онлайн контактах"
+  },
+  "donate": {
+    "message": "Поддержать"
+  },
+  "contact": {
+    "message": "Контакт"
+  },
+  "automated_replies": {
+    "message": "Автоматические ответы"
+  },
+  "status_message": {
+    "message": "Статус сообщения"
+  },
+  "status_image": {
+    "message": "Статус изображения"
+  },
+  "phone_number": {
+    "message": "Номер телефона"
+  },
+  "contact_name": {
+    "message": "Имя контакта"
+  },
+  "exclude_saved_contacts": {
+    "message": "Исключить сохраненные контакты"
+  },
+  "file_format": {
+    "message": "Формат файла"
+  },
+  "group_name": {
+    "message": "Имя группы"
+  },
+  "admin_status": {
+    "message": "Админ статус"
+  },
+  "label_name": {
+    "message": "Название метки"
+  },
+  "export_now": {
+    "message": "Экспортировать сейчас"
+  },
+  "export_all_chats_contacts_list": {
+    "message": "Экспортировать все диалоги"
+  },
+  "export_contacts_from_specific_groups": {
+    "message": "Экспортировать контакты из групп"
+  },
+  "export_contacts_from_specific_labels": {
+    "message": "Экспортировать контакты по меткам"
+  },
+  "export_contacts_from_specific_countries": {
+    "message": "Экспортировать контакты по странам"
+  },
+  "add_reply": {
+    "message": "Добавить ответ"
+  },
+  "statistics": {
+    "message": "Статистика"
+  },
+  "loading": {
+    "message": "Загрузка.."
+  },
+  "deleted_messages": {
+    "message": "Удалить сообщения"
+  },
+  "automated_messaging_description_3": {
+    "message": "Интеллектуальные ответы: присвойте ключевые слова или прогнозируемые вопросы, на которые вы получите автоматический ответ."
+  },
+  "automated_messaging_description_4": {
+    "message": "Подпишитесь сейчас, чтобы разблокировать эти функции. Безопасная покупка обрабатывается через Google Pay, вы можете отменить свою подписку в любое время <a href='https://pay.google.com' target='_blank'>pay.google.com</a>."
+  },
+  "automated_messaging_description_5": {
+    "message": "Эта функция позволяет экспортировать телефонные номера из ваших чатов или телефонов по группам, с метками и странам в Excel или текстовый файл."
+  },
+  "reply_title": {
+    "message": "Название автоответа"
+  },
+  "new_reply_template": {
+    "message": "Новый шаблон автоответа"
+  },
+  "expected_keywords": {
+    "message": "Специальные символы"
+  },
+  "comma_separated": {
+    "message": "Разделенные запятой"
+  },
+  "reply_to_send": {
+    "message": "Отправить ответ"
+  },
+  "save_reply": {
+    "message": "Сохранить ответ"
+  },
+  "the_reply_to_be_sent_automatically_to_users": {
+    "message": "Ответ будет автоматически отправлен пользователям"
+  },
+  "all_fields_are_required": {
+    "message": "Все поля обязательны к заполнению"
+  },
+  "import": {
+    "message": "Импорт"
+  },
+  "leave_a_review": {
+    "message": "Оставить отзыв"
+  },
+  "deleted_messages_limit_reached": {
+    "message": "Достигнут предел удаленных сообщений."
+  },
+  "do_you_want_more": {
+    "message": "Хотите больше?"
+  },
+  "all_contacts": {
+    "message": "Все контакты"
+  },
+  "selected_contacts": {
+    "message": "Выберите контакты"
+  },
+  "all_groups": {
+    "message": "Все группы"
+  },
+  "selected_groups": {
+    "message": "Выберите группы"
+  },
+  "all_labels": {
+    "message": "Все метки"
+  },
+  "selected_labels": {
+    "message": "Выберите метку"
+  },
+  "status_posted": {
+    "message": "Статус опубликован"
+  },
+  "maximum_auto_replies_reached": {
+    "message": "Достигнуто максимальное количество автоматических ответов"
+  },
+  "you_cannot_delete_the_default_reply": {
+    "message": "Вы не можете удалить ответ по умолчанию"
+  },
+  "are_you_sure_you_want_to_delete_the_selected_reply_template": {
+    "message": "Вы уверены, что хотите удалить выбранный шаблон ответа?"
+  },
+  "reply_template_deleted": {
+    "message": "Удалить шаблон ответа"
+  },
+  "reply_added": {
+    "message": "Добавить ответ"
+  },
+  "deleted_messages_restored": {
+    "message": "Удаленные сообщения восстановлены"
+  },
+  "is_now_online": {
+    "message": "Сейчас на сайте!"
+  },
+  "you_already_restored_maximum_messages": {
+    "message": "Вы уже восстановили максимальное количество удаленных сообщений. Чтобы восстановить больше, рассмотрите возможность подписки, это всего лишь № 1 для неограниченного восстановления удаленных сообщений."
+  },
+  "your_order_id": {
+    "message": "Ваш ордер ID"
+  },
+  "default_reply": {
+    "message": "Ответ по учмолчанию"
+  },
+  "use_g_to_print_group_name": {
+    "message": "Используйте {G} чтобы вывести название группы."
+  }
+
+
+
+
+
+
+
+,
+  "all_broadcasts": {
+    "message": "Все тансляции"
+  },
+  "selected_broadcasts": {
+    "message": "Выберите трансляцию"
+  },
+  "broadcasts": {
+    "message": "трансляции"
+  },
+  "select_target_broadcasts": {
+    "message": "Выберите целевые трансляции"
+  },
+  "allow_to_auto_reply_in_groups": {
+    "message": "Разрешить автоответчик в группах"
+  },
+  "message_must_match_the_whole_keyword": {
+    "message": "Сообщение должно соответствовать всему ключевому слову"
+  },
+  "quote_the_senders_message_with_the_reply": {
+    "message": "Цитировать сообщение отправителя с ответом"
+  },
+  "choose_messages_you_want_to_send": {
+    "message": "Выберите сообщения, которые вы хотите отправить"
+  },
+  "settings": {
+    "message": "Настройки"
+  },
+  "reply_delay": {
+    "message": "Задержка ответа"
+  },
+  "immediately": {
+    "message": "Немедленно"
+  },
+  "enable_message_reactions": {
+    "message": "Включить реакции на сообщения"
+  },
+  "freeze_chats_list_on_message_submission": {
+    "message": "Заморозить список чатов при отправке сообщения"
+  },
+  "click_to_save_private_notes": {
+    "message": "Нажмите, чтобы сохранить личные заметки"
+  },
+  "new": {
+    "message": "Новое"
+  },
+  "disabled": {
+    "message": "Запретить"
+  },
+  "automation_disabled_message": {
+    "message": "Уважаемые пользователи, мы приносим свои извинения за то, что Инструменты автоматизации в настоящее время находятся на обслуживании, мы скоро выпустим инструменты снова, пожалуйста, подождите!"
+  },
+  "play_audio_messages_without_informing_the_sender": {
+    "message": "Воспроизведение аудио сообщений без уведомления отправителя"
+  },
+  "beta": {
+    "message": "Вета"
+  }
+
+
+
+
+,
+  "message_templates": {
+    "message": "Шаблоны сообщений"
+  },
+  "template_title": {
+    "message": "Название шаблона"
+  },
+  "template_message": {
+    "message": "Шаблон сообщения"
+  },
+  "sorry_payment_failed": {
+    "message": "К сожалению, платеж не прошел из-за проблемы с вашим методом оплаты или учетной записью Google. Пожалуйста, проверьте следующие решения"
+  },
+  "try_to_fix_the_problem": {
+    "message": "Попробуй исправить проблему"
+  },
+  "contact_google_to_fix_it": {
+    "message": "Свяжитесь с Google, чтобы исправить это"
+  },
+  "accepted_payment_methods": {
+    "message": "Принимаемые способы оплаты"
+  },
+  "maximum_message_templates_reached": {
+    "message": "Достигнуто максимальное количество шаблонов сообщений"
+  },
+  "business_tools": {
+    "message": "Бизнес Инструменты"
+  },
+  "broadcasting": {
+    "message": "Рассылки"
+  },
+  "smart_replies": {
+    "message": "Умные Ответы"
+  },
+  "share": {
+    "message": "Поделиться"
+  },
+  "automatic_replies_list": {
+    "message": "Список автоматических ответов"
+  },
+  "enable_lock_screen": {
+    "message": "Включить экран блокировки"
+  },
+  "checkout_this_extension": {
+    "message": "Оформить заказ на расширение для WhatsApp"
+  },
+  "your_new_password": {
+    "message": "Ваш новый пароль"
+  },
+  "set_lock_password": {
+    "message": "Установить пароль блокировки"
+  },
+  "change": {
+    "message": "Изменить"
+  },
+  "send_typing_status_before_replying": {
+    "message": "Отправить статус ввода перед ответом"
+  },
+  "you_didnt_set_a_password_yet": {
+    "message": "Вы еще не установили пароль!"
+  },
+  "template_type": {
+    "message": "Тип шаблона"
+  },
+  "reply_type": {
+    "message": "Тип ответа"
+  },
+  "scheduled_messaging": {
+    "message": "Запланированные сообщения"
+  },
+  "crm_integration": {
+    "message": "Интеграция с CRM"
+  },
+  "coming_soon": {
+    "message": "Скоро появится"
+  },
+  "if_you_have_any_suggestions_please_send_it_to": {
+    "message": "Если у вас есть предложения, отправьте их по адресу"
+  },
+  "contacts_activity_tracker": {
+    "message": "Трекер активности контактов"
+  },
+  "status": {
+    "message": "Статус"
+  },
+  "date_time": {
+    "message": "Дата/Время"
+  },
+  "status_media": {
+    "message": "Сатус медиа"
+  },
+  "chat": {
+    "message": "Чат"
+  },
+  "dont_know_the_code": {
+    "message": "Не знаете код?"
+  },
+  "chats_statistics": {
+    "message": "Статистика чатов"
+  },
+  "groups_tools": {
+    "message": "Инструменты групп"
+  },
+  "nart_1": {
+    "message": "Мы празднуем нового ребенка программиста в нашей команде!"
+  },
+  "nart_2": {
+    "message": "Поэтому новым клиентам дарим купон на скидку 10%! Скопируйте и используйте этот код при подписке."
+  },
+  "set_password": {
+    "message": "Установить пароль"
+  },
+  "contact_name": {
+    "message": "Имя"
+  },
+  "text": {
+    "message": "Текст"
+  },
+  "link_video": {
+    "message": "Ссылки/Видео"
+  },
+  "edit_reply": {
+    "message": "Изменить ответ"
+  },
+  "edit_template": {
+    "message": "Редактировать шаблон"
+  },
+  "delete_reply": {
+    "message": "Удалить ответ"
+  },
+  "delete_template": {
+    "message": "Удалить шаблон"
+  },
+  "start_conversation_with_new_contact": {
+    "message": "Начать разговор с новым контактом"
+  },
+  "lock_whatsapp_web": {
+    "message": "Заблокировать WhatsApp Web"
+  }
+
+
+  ,
+  "need_more_users": {
+    "message": "Нужно больше пользователей?"
+  },
+  "compare_packages": {
+    "message": "Сравнить пакеты"
+  },
+  "user": {
+    "message": "Пользователь"
+  },
+  "users": {
+    "message": "Пользователи"
+  },
+  "maximum_allowed_users_reached": {
+    "message": "ДОстигнуто максимальное количество пользователей, <a href='https://wawplus.com#packages' target='_blank'>нажмите здесь</a> узнать больше о наших бизнес-пакетах."
+  },
+  "automated_messaging_description_6": {
+    "message": "Групповые инструменты: массовые операции для легкого управления группами."
+  },
+  "automated_messaging_description_7": {
+    "message": "Интеграция с CRM. Синхронизируйте WhatsApp с вашей CRM."
+  },
+  "automated_messaging_description_1": {
+    "message": "Рассылка: отправляйте неограниченное количество сообщений своим клиентам из списка контактов или листа Excel."
+  },
+  "automated_messaging_description_3": {
+    "message": "Интеллектуальные ответы: присвойте ключевые слова или прогнозируемые вопросы, ответы на которые будут автоматически."
+  },
+  "export_contacts_from_specific_broadcasts": {
+    "message": "Экспорт контактов из определенных отправок"
+  },
+  "broadcast_name": {
+    "message": "Название трансляции"
+  },
+  "action_scheduled_successfully": {
+    "message": "Действие запланировано успешно!"
+  },
+  "schedule_messaging_action": {
+    "message": "Расписание обмена сообщениями"
+  },
+  "set": {
+    "message": "Набор"
+  },
+  "action_name": {
+    "message": "Название действия"
+  },
+  "scheduled_messages_list": {
+    "message": "Список запланированных сообщений"
+  },
+  "new_scheduled_action": {
+    "message": "Новое залпанированное действие"
+  },
+  "add_scheduled_action": {
+    "message": "Добавить запланированное действие"
+  },
+  "run_action": {
+    "message": "Запусктиь действие"
+  },
+  "delete_action": {
+    "message": "Удалить действие"
+  },
+  "are_you_sure_you_want_to_delete_the_selected_scheduled_action": {
+    "message": "Вы уверены, что хотите удалить выбранное запланированное действие?"
+  },
+  "are_you_sure_you_want_to_run_the_selected_scheduled_action": {
+    "message": "Вы уверены, что хотите запустить выбранное запланированное действие?"
+  },
+  "scheduled_action_deleted": {
+    "message": "Запланированное действие удалено"
+  },
+  "please_choose_future_date": {
+    "message": "Пожалуйста, выберите дату в будущее!"
+  },
+  "schedule_for_later": {
+    "message": "Расписание рассылок"
+  },
+  "important_notes": {
+    "message": "Важные заметки"
+  },
+  "scheduled_messages_note1": {
+    "message": "Запланированные сообщения в настоящее время не поддерживают вложения файлов."
+  },
+  "scheduled_messages_note2": {
+    "message": "Не закрывайте вкладку WhatsApp Web."
+  },
+  "scheduled_messages_note3": {
+    "message": "Держите телефон и компьютер подключенными к Интернету и к электросети."
+  },
+  "automated_messaging_aborted_did_you_delete_template": {
+    "message": "Автоматизированный обмен сообщениями прерван! Вы уверенны?! Вы удалили шаблон сообщения во время работы автоответов?!"
+  },
+  "clone_group": {
+    "message": "Клонировать группу"
+  },
+  "destroy_group": {
+    "message": "Уничтожить группу"
+  },
+  "are_you_sure_destroy_group": {
+    "message": "Вы уверены, что хотите уничтожить выбранную группу? Все участники будут удалены."
+  },
+  "this_option_will_remove_all_participants": {
+    "message": "Эта опция удалит всех выбранных участников группы"
+  },
+  "this_option_will_make_another_copy_of_group": {
+    "message": "Эта опция сделает еще одну копию группы с теми же участниками"
+  },
+  "enter_new_group_name": {
+    "message": "Введите название новой группы"
+  },
+  "new_group_name": {
+    "message": "Имя новой группе"
+  },
+  "clone": {
+    "message": "Клон"
+  },
+  "group_cloned_successfully": {
+    "message": "Группа успешно клонирована!"
+  },
+  "group_destroyed_successfully": {
+    "message": "Группа успешно уничтожена!"
+  },
+  "our_packages": {
+    "message": "Наши пакеты"
+  },
+  "feature_requires_upgrading": {
+    "message": "Функция требует обновления"
+  },
+  "feature_not_available_consider_upgrading": {
+    "message": "Эта функция недоступна для вашей подписки, рассмотрите возможность обновления."
+  },
+  "read_the_tips": {
+    "message": "Читать Советы"
+  },
+  "please_help_stopping_corona": {
+    "message": "Пожалуйста, помогите остановить вспышку коронавируса во всем мире, оставайтесь дома!"
+  },
+  "stay_home": {
+    "message": "Оставайтесь дома"
+  },
+  "hide_typing_status": {
+    "message": "Скрыть статус набора сообщения"
+  },
+  "pin_unlimited_chats_web_only": {
+    "message": "Закрепить неограниченное количество чатов (Только для веб версии)"
+  },
+  "select_target_chats": {
+    "message": "Выберите целевые чаты"
+  }
+
+
+
+  ,
+  "STARTER": {
+    "message": "STARTER"
+  },
+  "PROFESSIONAL": {
+    "message": "PROFESSIONAL"
+  },
+  "EXPERT": {
+    "message": "EXPERT"
+  },
+  "Subscribe": {
+    "message": "Подписывайся"
+  },
+  "secure_payments_are_processed_through_paddle": {
+    "message": "Безопасные платежи обрабатываются через Paddle"
+  },
+  "subscribe_to_unlock_these_features_click_here_to_see_a_demo": {
+    "message": "Подпишитесь, чтобы разблокировать эти функции, <a href='https://wawplus.com' target='_blank'>нажми здесь</a> попрбовать демо."
+  },
+  "exporting_tools": {
+    "message": "Инструменты экспорта"
+  },
+  "automated_messaging_description_8": {
+    "message": "Количество учетных записей WhatsApp, которым разрешено использовать инструмент на одну лицензию."
+  },
+  "automated_messaging_description_9": {
+    "message": "Запланированный обмен сообщениями: запланировать события автоматического обмена сообщениями на определенную дату и время."
+  },
+  "affiliates": {
+    "message": "Партнерская программа"
+  },
+  "error_please_refresh_the_page": {
+    "message": "ОШИБКА, ПОЖАЛУЙСТА ОБНОВИТЕ СТРАНИЦУ"
+  },
+  "last_message_date": {
+    "message": "Дата последнего сообщение"
+  },
+  "country": {
+    "message": "Страна"
+  },
+  "select_contact_card": {
+    "message": "Выберите карточку контакта"
+  },
+  "hide_online_status_invisible_mode": {
+    "message": "Скрыть онлайн статус (Невидимый режим)"
+  },
+  "automatic_labeling": {
+    "message": "Автоматическая маркировка"
+  }
+
+
+
+  ,
+  "export_import_note": {
+    "message": "Примечание. При импорте новых элементов будут удалены существующие."
+  },
+  "message_templates_data": {
+    "message": "Данные шаблонов сообщений"
+  },
+  "smart_replies_data": {
+    "message": "Умные Ответы"
+  },
+  "items_imported_successfully": {
+    "message": "Элементы успешно импортированы"
+  },
+  "items_exported_successfully": {
+    "message": "Элементы успешно экспортированы"
+  },
+  "import_export": {
+    "message": "Импорт/Экспорт"
+  },
+  "view_statuses_without_informing_the_poster": {
+    "message": "Просмотр статусов без информирования автора"
+  },
+  "disable_read_receipts_blue_ticks": {
+    "message": "Отключить чтение чеков (Синие тикеты)"
+  },
+  "export_all_groups_list": {
+    "message": "Экспортировать список всех групп"
+  },
+  "group_name": {
+    "message": "Название группы"
+  },
+  "group_description": {
+    "message": "Описание группы"
+  },
+  "invite_link": {
+    "message": "Пригласительная ссылка"
+  },
+  "owner": {
+    "message": "Владелец"
+  },
+  "webhooks": {
+    "message": "Вебхук"
+  },
+  "import_from_crm": {
+    "message": "Импорт из CRM"
+  },
+  "contacts_synchronizing": {
+    "message": "Синхронизация контактов"
+  },
+  "crm_integrations_list": {
+    "message": "Список CRM для интеграции"
+  },
+  "integrate_new_crm": {
+    "message": "Интеграция с новой CRM"
+  },
+  "crm_software": {
+    "message": "CRM"
+  },
+  "api_key": {
+    "message": "API ключ"
+  },
+  "how_to_get_key": {
+    "message": "Как получить ключ?"
+  },
+  "edit": {
+    "message": "Редактировать"
+  },
+  "delete": {
+    "message": "Удалить"
+  },
+  "are_you_sure_you_want_to_delete_the_selected_crm_integration": {
+    "message": "Вы уверены, что хотите удалить выбранную интеграцию CRM?"
+  },
+  "crm_integration_deleted": {
+    "message": "Интеграция CRM удалена"
+  },
+  "select": {
+    "message": "Выбрать..."
+  },
+  "select_target_lists": {
+    "message": "Выберите целевые списки"
+  },
+  "contacts_list": {
+    "message": "Список контактов"
+  },
+  "could_not_import_crm_lists": {
+    "message": "Не удалось импортировать списки CRM!"
+  },
+  "your_api_key": {
+    "message": "Ваш API ключ"
+  },
+  "send_to_my_phone": {
+    "message": "Отправить на мой телефон"
+  },
+  "api_key_message": {
+    "message": "Эта функция позволяет сохранять новые контакты прямо из WhatsApp Web на телефон. Отсканируйте QR-код для загрузки 'WA Web Plus Mobile Partner' to your phone, or <a href='https://wawplus.com/manual/contacts-synchronizing' target='_blank'>нажмите здесь</a> скачать его прямо с нашего сайта."
+  },
+  "add_custom_actions_when_people_join_or_leave_your_group": {
+    "message": "Добавляйте настраиваемые действия, когда люди присоединяются или покидают вашу группу"
+  },
+  "new_group_action": {
+    "message": "Новая действие с группой"
+  },
+  "action_type": {
+    "message": "Тип действия"
+  },
+  "reaction_type": {
+    "message": "Тип реакции"
+  },
+  "group_joining": {
+    "message": "Присоединение к группе"
+  },
+  "group_leaving": {
+    "message": "Групповой выход"
+  },
+  "leaving": {
+    "message": "Выйти"
+  },
+  "joining": {
+    "message": "Присоедениться"
+  },
+  "send_message_to_group": {
+    "message": "Отправить сообщение группе"
+  },
+  "send_message_to_user_privately": {
+    "message": "Отправить сообщение пользователю"
+  },
+  "the_message_to_be_sent_automatically": {
+    "message": "Сообщение для автоматической отправки"
+  },
+  "groups_actions_list": {
+    "message": "Список действий групп"
+  },
+  "you_have_no_groups_actions_set": {
+    "message": "У вас нет групповых действий."
+  },
+  "are_you_sure_you_want_to_delete_the_selected_group_action": {
+    "message": "Вы уверены, что хотите удалить выбранное групповое действие?"
+  },
+  "group_action_deleted": {
+    "message": "Групповое действие удалено"
+  },
+  "save_contact": {
+    "message": "Сохранить контакт"
+  },
+  "save_request_sent_open_mobile_app": {
+    "message": "Сохраните отправленный запрос, откройте мобильное приложение WA Web Plus для синхронизации."
+  },
+  "you_cant_export_wawp_groups": {
+    "message": "Вы не можете экспортировать группы WA Web Plus!"
+  },
+  "bulk_join_groups": {
+    "message": "Массовое объединение групп"
+  },
+  "my_own_contact_card": {
+    "message": "Моя карточка контакта"
+  },
+  "my_card": {
+    "message": "Мои контакты"
+  },
+  "other_contacts_cards": {
+    "message": "Другие контакты"
+  },
+  "paste_the_list_of_groups_links": {
+    "message": "Вставить список ссылок на группы:"
+  },
+  "paste_groups_links_text_1": {
+    "message": "Скопируйте и вставьте ниже ссылки групп, к которым вы хотите присоединиться, вставьте одну ссылку в каждой строке."
+  },
+  "paste_groups_links_text_2": {
+    "message": "Время пауз между процессами объединения, чтобы избежать блокировки:"
+  },
+  "join": {
+    "message": "Добавить"
+  },
+  "stop_bulk_joining": {
+    "message": "Остановить добавление в группу"
+  },
+  "successfully_joined_groups": {
+    "message": "Успешно добавленна в группу"
+  },
+  "failed_to_join_groups": {
+    "message": "Ошибка добавления к группе"
+  },
+  "automatically_join_a_list_of_groups_in_bulk": {
+    "message": "Автоматически подключить к группе для рассылки"
+  },
+  "close": {
+    "message": "Закрыть"
+  },
+  "failed_to_connect_to_whatsapp_title": {
+    "message": "WA Web Plus уведомления"
+  },
+  "failed_to_connect_to_whatsapp_text": {
+    "message": "Ой! Похоже, что на этот раз WA Web Plus не мог правильно обмениваться данными с WhatsApp Web, и некоторые функции могли работать неправильно. Нажмите «Обновить», чтобы обновить страницу и повторите попытку, или «Отмена», чтобы использовать WhatsApp Web без WA Web Plus. Если проблема не устранена, <a href='mailto:contact@elbruz.net?subject=WA Web Plus не может связаться с WhatsApp Web' target='_blank'>обратиться к разрабочикам</a> чтобы исправить ошибку."
+  },
+  "reload": {
+    "message": "Перезагрузка"
+  },
+  "click_to_check_subscription_status": {
+    "message": "Нажмите чтобы проверить статус подписчика"
+  },
+  "subscriptions_list": {
+    "message": "Список подписок"
+  },
+  "manage": {
+    "message": "Управление"
+  },
+  "you_have_no_available_subscriptions": {
+    "message": "У вас нет доступных подписок."
+  },
+  "package": {
+    "message": "Пакет"
+  },
+  "order_id": {
+    "message": "Ордер ID"
+  },
+  "please_contact_us_to_remove_limitation": {
+    "message": "Пожалуйста, свяжитесь с нами, чтобы снять это ограничение."
+  },
+  "i_have_a_license_key": {
+    "message": "У меня есть лицензионный ключ."
+  },
+  "enter_license_key_text": {
+    "message": "Введите свой лицензионный ключ ниже, лицензионные ключи отличаются от номеров заказов Google."
+  },
+  "validate": {
+    "message": "Проверить"
+  },
+  "validate_license_key": {
+    "message": "Ввести ключ лицензии"
+  },
+  "paste_key_here": {
+    "message": "Вставьте ключ сюда"
+  },
+  "ACTIVE": {
+    "message": "Активно"
+  },
+  "PAYMENT_DECLINED": {
+    "message": "Платеж отклонен"
+  },
+  "EXPIRED": {
+    "message": "Истекло"
+  },
+  "CANCELLED": {
+    "message": "Отмена"
+  },
+  "REJECTED": {
+    "message": "Отклонено"
+  },
+  "PENDING": {
+    "message": "Ожидание отправки"
+  },
+  "CANCELLED_BY_DEVELOPER": {
+    "message": "Отменено разработчиком"
+  },
+  "DISABLED": {
+    "message": "Запретить"
+  },
+  "speedup_audio_messages": {
+    "message": "Скорость аудио сообщений"
+  },
+  "no_crm_api_key_found": {
+    "message": "Ключ API не найден для вашей CRM."
+  },
+  "get_the_offer": {
+    "message": "Получить предложение"
+  },
+  "contacts_sync_description": {
+    "message": "Синхронизация контактов: эта функция позволяет сохранять новые контакты прямо из WhatsApp Web на телефон."
+  },
+  "error_connecting_to_crm_wrong_api_key": {
+    "message": "Ошибка подключения к программному обеспечению CRM, возможно, вы используете неправильный ключ API."
+  },
+  "to_my_phone": {
+    "message": "Мой номер телефона"
+  },
+  "save_request_sent_check_crm": {
+    "message": "Запрос на сохранение отправлен, проверьте вашу CRM"
+  },
+
+
+
+  "successfully_connected_to_whatsapp_web": {
+    "message": "Успешно соеденнено с WhatsApp Web."
+  },
+  "last_message_text": {
+    "message": "Текст последнего сообщения"
+  },
+  "last_message_type": {
+    "message": "Тип посленего сообщения"
+  },
+  "last_message_status": {
+    "message": "Статус последнего сообщения"
+  },
+  "read": {
+    "message": "Прочитано"
+  },
+  "unread": {
+    "message": "Непрочитано"
+  },
+  "incoming": {
+    "message": "Входящее"
+  },
+  "outgoing": {
+    "message": "Исходяшие"
+  },
+  "logout": {
+    "message": "Выйти", 
+    "description":""
+  }
+
+
+ 
+
+  ,
+  "night_mode_background_image": {
+    "message": "Фоновое изображение  ночного режима", 
+    "description":""
+  },
+  "something_is_wrong_with_your_license_key": {
+    "message": "Что-то не так с вашим лицензионным ключом. Проверьте статус подписки с помощью значка ключа в нижней части окна WA Web Plus.", 
+    "description":""
+  },
+  "select_messages": {
+    "message": "Выберите сообщения"
+  },
+  "license_key": {
+    "message": "Лицензионный ключ"
+  },
+  "crm_integration_saved": {
+    "message": "Интеграция с CRM сохранена"
+  },
+  "group_action_saved": {
+    "message": "Групповое действие сохранено"
+  },
+  "you_have_no_scheduled_actions": {
+    "message": "У вас нет запланированных действий"
+  },
+  "you_have_no_crm_integrations": {
+    "message": "Нет CRM для интеграции."
+  },
+  "show_this_message_in_quick_replies_list": {
+    "message": "Добавить это сообщение в список быстрых ответов"
+  },
+  "disable_read_receipts": {
+    "message": "Отключить чтение чеков"
+  },
+  "disable_read_receipts_description": {
+    "message": "Эта функция позволяет отключить уведомление ​​о прочтении сообщения (двойные синие галочки)."
+  },
+  "expiration": {
+    "message": "Срок действия"
+  },
+  "never": {
+    "message": "Никогда"
+  },
+  "lifetime_license": {
+    "message": "Пожизненная лицензия"
+  },
+  "1_license_user": {
+    "message": "Лицензия на 1 пользователя"
+  },
+  "5_license_users": {
+    "message": "Лицензия на 5 пользователей"
+  },
+  "20_license_users": {
+    "message": "Лицензия на 20 пользователей"
+  },
+  "10_license_users": {
+    "message": "Лицензия на 10 пользователей"
+  },
+  "disabled_reply": {
+    "message": "Отключено"
+  },
+  "duplicates_finder": {
+    "message": "Поиск дублей"
+  },
+  "find_duplicated_users_across_all_the_groups": {
+    "message": "Найти дубликаты во всех группах"
+  },
+  "remove": {
+    "message": "Удалить"
+  },
+  "labeler_1": {
+    "message": "RGVhciB1c2VyLCB5b3UgcHJvYmFibHkgaGF2ZSBiZWVuIHNjYW1tZWQgYnkgYSBoYWNrZWQgdmVyc2lvbiBvZiAiV0EgV2ViIFBsdXMiIGNocm9tZSBleHRlbnNpb24sIGl0IHNlZW1zIHRoYXQgdGhlIG93bmVycyBvZiB0aGUgZXh0ZW5zaW9uICJRU2VuZGVyIiBoYXZlIHNjYW1tZWQgeW91IHRvIGJ1eSBhbiBpbGxlZ2FsIGhhY2tlZC9jbG9uZWQgdmVyc2lvbiBvZiB0aGUgZ2VudWluZSBDaHJvbWUgZXh0ZW5zaW9uICJXQSBXZWIgUGx1cyIuCgkJCTxicj48YnI+CgkJCVdlIGJlbGlldmUgdGhhdCB0aG9zZSBhdHRhY2tlcnMgaGF2ZSB2aW9sYXRlZCB5b3VyIGFjY291bnQgcHJpdmF0ZSBpbmZvcm1hdGlvbiwgZm9yIHlvdXIgYWNjb3VudCBhbmQgaW5mb3JtYXRpb24gc2VjdXJpdHkgd2UgaGF2ZSBkaXNhYmxlZCB5b3VyIGFjY2VzcyB0byBXaGF0c0FwcCBXZWIgYW5kIGxvZ2dlZCB5b3Ugb3V0IG9mIHlvdXIgYWNjb3VudC4gV2UgZW5jb3VyYWdlIHlvdSB0byByZW1vdmUgIlFTZW5kZXIiIGltbWVkaWF0ZWx5IGZyb20geW91ciBDaHJvbWUgZXh0ZW5zaW9ucyBsaXN0IGFuZCB1c2UgdGhlIG9mZmljaWFsIGdlbnVpbmUgdmVyc2lvbiBvZiAiV0EgV2ViIFBsdXMiLiBXZSBhbHNvIGFkdmljZSB0byBhc2sgdGhlIHNjYW1tZXJzIHRvIHJlZnVuZCB5b3VyIG1vbmV5IGJhY2ssIHdlIHdpbGwgY3JlZGl0IGFsbCB0aGUgdmljdGltcyBvZiB0aGlzIHNjYW0gd2l0aCBhIGxpZmV0aW1lIGFjY2VzcyB0byBhbGwgV0EgV2ViIFBsdXMgZmVhdHVyZXMgaWYgdGhleSBoZWxwIHVzIHJlcG9ydCB0aGUgaGFja2VycyB3ZWJzaXRlIHRvIEdvb2dsZSBzbyB0aGV5IHdvbid0IGJlIGFibGUgdG8gc2NhbSBuZXcgdXNlcnMgbGlrZSB5b3UgYW55bW9yZS4KCQkJPGJyPjxicj4KCQkJPGEgaHJlZj0iaHR0cHM6Ly9zdXBwb3J0Lmdvb2dsZS5jb20vY2hyb21lX3dlYnN0b3JlL2Fuc3dlci8yNjY0NzY5IiB0YXJnZXQ9Il9ibGFuayI+Q2xpY2sgaGVyZTwvYT4gdG8gbGVhcm4gaG93IHRvIHJlbW92ZSBhIENocm9tZSBleHRlbnNpb24uPGJyPgoJCQk8YSBocmVmPSJodHRwczovL3dhd3BsdXMuY29tIiB0YXJnZXQ9Il9ibGFuayI+Q2xpY2sgaGVyZTwvYT4gdG8gdmlzaXQgV0EgV2ViIFBsdXMgb2ZmaWNpYWwgd2Vic2l0ZS48YnI+CgkJCTxhIGhyZWY9Imh0dHBzOi8vY2hyb21lLmdvb2dsZS5jb20vd2Vic3RvcmUvZGV0YWlsL3dhLXdlYi1wbHVzLWZvci13aGF0c2FwcC9la2Nna2VqY2pkY21vbmZwbW5sam9iZW1jYnBua2FtaCIgdGFyZ2V0PSJfYmxhbmsiPkNsaWNrIGhlcmU8L2E+IHRvIHZpc2l0IFdBIFdlYiBQbHVzIG9mZmljaWFsIENocm9tZSBXZWIgU3RvcmUgcGFnZS48YnI+CgkJCTxhIGhyZWY9Imh0dHBzOi8vd2F3cGx1cy5jb20vcmVwb3J0LXNjYW0iIHRhcmdldD0iX2JsYW5rIj5DbGljayBoZXJlPC9hPiB0byBoZWxwIHVzIHJlcG9ydCB0aGUgc2NhbW1lcnMgd2Vic2l0ZSwgYW5kIGdldCBhIGxpZmV0aW1lIGFjY2VzcyB0byBhbGwgV0EgV2ViIFBsdXMgZmVhdHVyZXMgYW5kIHVwZGF0ZXMu"
+  },
+  "labeler_2": {
+    "message": "V0FSTklORyA8c3ZnIHN0eWxlPSJoZWlnaHQ6MTVweDtmbG9hdDpyaWdodCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgNDkxLjY4IDg2LjIxIj48ZGVmcz48cmFkaWFsR3JhZGllbnQgaWQ9InJhZGlhbC1ncmFkaWVudCIgY3g9Ijc1LjUzIiBjeT0iNDMuMTEiIHI9IjYxLjQ5IiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+PHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjM2ViNDU3Ii8+PHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjMTE3ZDUzIiBzdG9wLW9wYWNpdHk9Ii43NSIvPjwvcmFkaWFsR3JhZGllbnQ+PC9kZWZzPjxwYXRoIGZpbGw9IiMyZDJkMmQiIGQ9Ik0xNjguNTMgMTcuOGEzLjE3IDMuMTcgMCAwMS4zMi0yLjY4IDMgMyAwIDAxMi41NS0xaDRhMy40MiAzLjQyIDAgMDEzLjYgMi45Nmw4LjIxIDM2LjJjLjE2LjguMjkgMS41Ni40IDIuMjhzLjIxIDEuMzcuMzIgMS45NWExMC4zNiAxMC4zNiAwIDAxLjE2IDEuNzZoLjE2Yy4wNS0uNTQuMTMtMS4xMi4yNC0xLjc2YTMxLjUyIDMxLjUyIDAgMDEuOTUtNC4yM2w5LjQtMzYuMjhhMy41NCAzLjU0IDAgMDEzLjc0LTIuODdoMi43MmEzLjMxIDMuMzEgMCAwMTMuNTggMi44N2w5LjM0IDM2LjI4Yy4yMS44Ni4zOSAxLjYzLjU1IDIuMzJzLjI5IDEuMzMuNCAxLjkxLjE5IDEuMjIuMjQgMS43NmguMTZjLjA1LS41NC4xMy0xLjEyLjI0LTEuNzZzLjItMS4yMy4yOC0xLjk1YTE2IDE2IDAgMDEuNDQtMi4yOGw4LjY5LTM2LjJhMy4zMyAzLjMzIDAgMDEzLjY3LTIuOTVoMy43NWEzLjA3IDMuMDcgMCAwMTIuNTkgMSAzLjA5IDMuMDkgMCAwMS4zNiAyLjY4bC0xMyA1MC4xOWEzLjU0IDMuNTQgMCAwMS0zLjc1IDIuNzloLTUuNjZhMy40NCAzLjQ0IDAgMDEtMy42Ny0yLjg3bC04LTMwLjYzYy0uNDgtMS44Ni0uODYtMy41Ni0xLjEyLTUuMS0uMTYtLjgtLjMtMS41Ny0uNC0yLjMxaC0uMjRjLS4xMS43NC0uMjQgMS41MS0uNCAyLjMxcy0uMjUgMS41Ni0uNDQgMi40My0uMzggMS43Ny0uNTkgMi42N2wtOC4xNCAzMC42M2EzLjQ0IDMuNDQgMCAwMS0zLjY3IDIuODdoLTUuNzRhMy40NCAzLjQ0IDAgMDEtMy42Ny0yLjg3ek0yNDAuODYgNTAuNDFhMjMuNjcgMjMuNjcgMCAwMTEuNTItOC42MSAyMC4yIDIwLjIgMCAwMTQuMjMtNi43NCAxOC41IDE4LjUgMCAwMTYuNTQtNC4zOCAyMiAyMiAwIDAxOC4zNy0xLjU2IDE5LjA2IDE5LjA2IDAgMDE3LjcgMS40OCAxNi4wOSAxNi4wOSAwIDAxNS42NiA0IDE3LjU3IDE3LjU3IDAgMDEzLjQ3IDYuMTQgMjQuNjEgMjQuNjEgMCAwMTEuMTkgNy43NCAzLjQ3IDMuNDcgMCAwMS0zLjU0IDMuNDVoLTI0LjhhMTIuNzkgMTIuNzkgMCAwMDEuMzIgNC44NiAxMS4xNSAxMS4xNSAwIDAwNi40OCA1LjU5IDEzLjgzIDEzLjgzIDAgMDA0LjQyLjcxIDE0LjEyIDE0LjEyIDAgMDA1LjA3LS44NyAyMy42OSAyMy42OSAwIDAwMy43MS0xLjc2IDQuMDcgNC4wNyAwIDAxMi42LS40NiAzIDMgMCAwMTEuODcgMS42bDEgMS41OXExLjUxIDIuODgtMS4xMiA0LjQ3YTMzLjM3IDMzLjM3IDAgMDEtNS41IDIuNjcgMjIuMzggMjIuMzggMCAwMS04LjI5IDEuNCAyMy4xNCAyMy4xNCAwIDAxLTkuMS0xLjcyIDIwLjcxIDIwLjcxIDAgMDEtNi45LTQuNjIgMjAuMjQgMjAuMjQgMCAwMS00LjM0LTYuNzggMjIuMjUgMjIuMjUgMCAwMS0xLjU2LTguMnptMjguNjQtNC42MmE5Ljc1IDkuNzUgMCAwMC0yLjQ0LTYuNjYgNy42NyA3LjY3IDAgMDAtNS43OC0yLjM1IDkgOSAwIDAwLTYuNSAyLjQ3IDExLjUyIDExLjUyIDAgMDAtMy4zMSA2LjU0ek0yODUuMzYgMTcuNDhjMC0yLjI0IDEuMTItMy4zNSAzLjM1LTMuMzVoMy40M2MyLjI0IDAgMy4zNSAxLjExIDMuMzUgMy4zNXYxNi4xNWE4LjEyIDguMTIgMCAwMS0uMTIgMS4wNyA3LjU1IDcuNTUgMCAwMC0uMDggMWguMTZhMTMgMTMgMCAwMTIuODctMy4yNyAxOCAxOCAwIDAxMy44Ny0yLjIzIDE0LjEyIDE0LjEyIDAgMDE1LjctMSAxNy4wOSAxNy4wOSAwIDAxNy4zOCAxLjU2IDE2LjI4IDE2LjI4IDAgMDE1LjYyIDQuMjQgMTkuODEgMTkuODEgMCAwMTMuNjMgNi43IDI3LjY4IDI3LjY4IDAgMDExLjI4IDguNjEgMjUuNjIgMjUuNjIgMCAwMS0xLjQ0IDguODIgMjAuNTcgMjAuNTcgMCAwMS0zLjkxIDYuNzQgMTYuODEgMTYuODEgMCAwMS01LjkgNC4zIDE3LjkyIDE3LjkyIDAgMDEtNy4zMyAxLjUyIDE0LjI2IDE0LjI2IDAgMDEtNS44Mi0xIDE0LjY4IDE0LjY4IDAgMDEtMy44My0yLjM5IDEwLjg3IDEwLjg3IDAgMDEtMi43OS0zLjQzaC0uMTZhMS44IDEuOCAwIDAwLjA4LjQ4IDQuMDcgNC4wNyAwIDAwMCAuNTZ2MS45OWEyLjY5IDIuNjkgMCAwMS0uODQgMi4xMSAzLjYyIDMuNjIgMCAwMS0yLjUxLjc2aC0yLjcycS0zLjM0IDAtMy4zNS0zLjM1em05LjgxIDMzYTE3Ljk0IDE3Ljk0IDAgMDAuNjQgNC43NyAxMi41OSAxMi41OSAwIDAwMS45MiA0LjA2IDkuODkgOS44OSAwIDAwMy4xNSAyLjgyIDguNDkgOC40OSAwIDAwNC4zNCAxLjA3IDkuNzMgOS43MyAwIDAwNC0uODMgOS4zMyA5LjMzIDAgMDAzLjI3LTIuNDMgMTEuNDcgMTEuNDcgMCAwMDIuMjItMy45NCAxNi4zOSAxNi4zOSAwIDAwLjgtNS4zNyAxNi43IDE2LjcgMCAwMC0uNzYtNS4yIDEyLjYyIDEyLjYyIDAgMDAtMi4wNy00IDkuMjkgOS4yOSAwIDAwLTMuMTUtMi41OCA5IDkgMCAwMC00LjA3LS45MiAxMC4wNiAxMC4wNiAwIDAwLTMuODMuNzYgOS4yNCA5LjI0IDAgMDAtMy4yNyAyLjMgMTIgMTIgMCAwMC0yLjMxIDMuOSAxNi4xIDE2LjEgMCAwMC0uODggNS41NnpNMzUxLjg4IDE3LjQ4YzAtMi4yNCAxLjA5LTMuMzUgMy4yNy0zLjM1aDE4LjVhMTkuNzUgMTkuNzUgMCAwMTcuMyAxLjMxIDE2LjQ1IDE2LjQ1IDAgMDE1LjcgMy43NSAxNi44NyAxNi44NyAwIDAxMy43MSA1LjgxIDIwLjY1IDIwLjY1IDAgMDExLjMxIDcuNTQgMjAuOTQgMjAuOTQgMCAwMS0xLjMxIDcuNTggMTcuMzEgMTcuMzEgMCAwMS0zLjcxIDUuOSAxNi40OCAxNi40OCAwIDAxLTUuNyAzLjgyIDE5IDE5IDAgMDEtNy4zIDEuMzZoLTExLjU2djE2LjJxMCAzLjM0LTMuMjcgMy4zNWgtMy42N3EtMy4yNyAwLTMuMjctMy4zNXptMTkuODYgMjQuOGE5LjEyIDkuMTIgMCAwMDctMi42NCAxMCAxMCAwIDAwMi40OC03LjEzIDkuODcgOS44NyAwIDAwLTIuNDMtNyA5IDkgMCAwMC02LjktMi42aC05LjgxdjE5LjM3ek0zOTYuOTQgMTcuNDhjMC0yLjI0IDEuMDktMy4zNSAzLjI3LTMuMzVoMy41MWMyLjE3IDAgMy4yNyAxLjExIDMuMjcgMy4zNXYzOS43OWE4LjQ0IDguNDQgMCAwMC4yOCAyLjQzIDMuNDkgMy40OSAwIDAwLjc1IDEuNDQgMi41OCAyLjU4IDAgMDAxIC43MiA1LjU3IDUuNTcgMCAwMDEuMTIuMjhBMy4wOSAzLjA5IDAgMDE0MTIgNjNhMi44MSAyLjgxIDAgMDEuNjggMnYyLjcxYTMuODYgMy44NiAwIDAxLS43NiAyLjUxIDMuMjEgMy4yMSAwIDAxLTIuNTkuOTIgMjIuOTEgMjIuOTEgMCAwMS00LjIzLS40IDkuMjQgOS4yNCAwIDAxLTctNS43IDE3LjQ3IDE3LjQ3IDAgMDEtMS4xNS03ek00MTcuMTkgMzMuNDNjMC0yLjI0IDEuMTItMy4zNSAzLjM1LTMuMzVINDI0YzIuMjQgMCAzLjM1IDEuMTEgMy4zNSAzLjM1djIwLjczYTEyLjI2IDEyLjI2IDAgMDAxLjI4IDZxMS4yNyAyLjI4IDUgMi4yOGExMC4yNyAxMC4yNyAwIDAwOC40NS00LjE1IDE0LjI1IDE0LjI1IDAgMDAyLjItNC4zOSAxNy42OSAxNy42OSAwIDAwLjc2LTUuMThWMzMuNDNjMC0yLjI0IDEuMTEtMy4zNSAzLjM1LTMuMzVoMy40M2MyLjIzIDAgMy4zNSAxLjExIDMuMzUgMy4zNXYzNHEwIDMuMzQtMy4zNSAzLjM1aC0zLjEyYy0yLjE4IDAtMy4yNi0xLjEyLTMuMjYtMy4zNXYtMy4xNGExLjkxIDEuOTEgMCAwMS4wNy0uNTYgMS42IDEuNiAwIDAxLjA5LS41NmgtLjE2YTEyLjY1IDEyLjY1IDAgMDEtMiAzLjEyIDE1LjE3IDE1LjE3IDAgMDEtMy4yIDIuNzEgMTguNDUgMTguNDUgMCAwMS00LjA3IDIgMTQuODcgMTQuODcgMCAwMS00Ljg2Ljc2cS02LjU0IDAtMTAuMzMtMy41OXQtMy43OS0xMS44OHpNNDYyLjY1IDY3LjU2YTIuNzUgMi43NSAwIDAxLTEuNTEtMiAzLjggMy44IDAgMDEuNzEtMi41NmwxLTEuNDNhMyAzIDAgMDExLjk1LTEuNDQgNC40NSA0LjQ1IDAgMDEyLjYuNjRjLjk1LjUzIDIuMTkgMS4xMyAzLjcgMS44YTEzLjQ0IDEzLjQ0IDAgMDA1LjM5IDEgNi44NyA2Ljg3IDAgMDA0LjE0LTEuMTEgMy41OSAzLjU5IDAgMDAxLjUyLTMgMy4wOCAzLjA4IDAgMDAtMS40OC0yLjY4IDE3Ljg2IDE3Ljg2IDAgMDAtMy43NC0xLjgzTDQ3MiA1My4xM2EyNS41NSAyNS41NSAwIDAxLTQuODYtMi40IDEyLjE2IDEyLjE2IDAgMDEtMy43NS0zLjY3IDEwLjE1IDEwLjE1IDAgMDEtMS40OC01Ljc0IDEwLjg4IDEwLjg4IDAgMDE0LjU5LTkuMDkgMTUuNzQgMTUuNzQgMCAwMTQuOTQtMi4zMSAyMi4yNCAyMi4yNCAwIDAxNi0uOCAyMC4xNSAyMC4xNSAwIDAxNi44OSAxIDMzLjU5IDMzLjU5IDAgMDE0LjQzIDEuOTFBMi43OCAyLjc4IDAgMDE0OTAuNCAzNGE0LjA5IDQuMDkgMCAwMS0uMzkgMi41NWwtLjggMS40M2EyLjggMi44IDAgMDEtMS44NCAxLjY4IDQuNDEgNC40MSAwIDAxLTIuNjMtLjRjLS45LS40My0yLS44Ni0zLjI3LTEuMzJhMTMuMzYgMTMuMzYgMCAwMC00LjQ2LS42OCA2Ljg4IDYuODggMCAwMC00LjA3IDEgMy40MiAzLjQyIDAgMDAtMS40NCAzQTMuMTYgMy4xNiAwIDAwNDczIDQ0YTE0Ljg5IDE0Ljg5IDAgMDAzLjc1IDEuODRsNC44NiAxLjcxYTI0LjU5IDI0LjU5IDAgMDE0Ljg3IDIuMzUgMTIuNDcgMTIuNDcgMCAwMTMuNzQgMy42NyAxMCAxMCAwIDAxMS40OCA1LjY3IDExLjQ1IDExLjQ1IDAgMDEtMS4wOCA1IDExLjI1IDExLjI1IDAgMDEtMy4xMSA0IDE1LjI5IDE1LjI5IDAgMDEtNC45IDIuNjMgMjAgMjAgMCAwMS02LjM4IDEgMjEuMzUgMjEuMzUgMCAwMS04LjM0LTEuNDQgMjkuMTYgMjkuMTYgMCAwMS01LjI0LTIuODd6Ii8+PHBhdGggZD0iTTc3LjE2IDg2LjIxaC0uMWE2LjcxIDYuNzEgMCAwMS02LjI1LTQuNTJMNTUuNCAzNy4yOCAzOC42NyA4MS44NWE2LjcgNi43IDAgMDEtNi4yOSA0LjM2IDYuNzIgNi43MiAwIDAxLTYuMjktNC4zOEwuNDIgMTIuNjNBNi43MyA2LjczIDAgMDExMyA4bDE5LjQxIDUyLjI2IDE2Ljk0LTQ1LjEzYTYuNjIgNi42MiAwIDAxNi4zOC00LjM2QTYuNzEgNi43MSAwIDAxNjIgMTUuMjhsMTUuNDUgNDQuNTYgMTktNDkuNzVhMTUgMTUgMCAwMTI4LjMuMDVsMjUuODUgNjYuOTNhNi43MiA2LjcyIDAgMDEtMTAuNDQgNy42OUwxMTEgNjEuNThhNi43MiA2LjcyIDAgMDE4LjM2LTEwLjUzbDkuODMgNy44LTE3LTQ0LS4xMi0uMzVhMS41MSAxLjUxIDAgMDAtMi44NyAwYzAgLjA5LS4wNi4xOS0uMS4yOGwtMjUuNjYgNjcuMWE2LjczIDYuNzMgMCAwMS02LjI4IDQuMzN6IiBmaWxsPSJ1cmwoI3JhZGlhbC1ncmFkaWVudCkiLz48L3N2Zz4="
+  }
+
+
+
+,
+  "status_not_ready": {
+    "message": "Этот статус либо не поддерживает загрузку, либо еще не загружен, подождите, пока он загрузится. Или вернитесь, чтобы загрузить его позже."
+  },
+  "its_free_now": {
+    "message": "Сейчас это бесплатно!"
+  },
+  "enable_status_download_button": {
+    "message": "Включить кнопку загрузки статуса"
+  },
+  "ai_toolkit": {
+    "message": "Набор инструментов искусственного интеллекта"
+  },
+  "click_to_chat_generator": {
+    "message": "Щелкните для генератора чата"
+  },
+  "i_am_sure_some_numbers_are_correct_why_did_they_get_removed": {
+    "message": "Я уверен, что некоторые цифры верны, почему их убрали?"
+  },
+  "message_saved": {
+    "message": "Сообщение сохранено."
+  },
+  "token_saved": {
+    "message": "Token сохранен."
+  },
+  "to_google_contacts": {
+    "message": "Перейти в Google Contacts"
+  },
+  "hello": {
+    "message": "Привет"
+  },
+  "allow_only_on_specific_days": {
+    "message": "Разрешить только в определенные дни"
+  },
+  "sat": {
+    "message": "Сб"
+  },
+  "sun": {
+    "message": "Вс"
+  },
+  "mon": {
+    "message": "Пн"
+  },
+  "tue": {
+    "message": "Вт"
+  },
+  "wed": {
+    "message": "Ср"
+  },
+  "thu": {
+    "message": "Чт"
+  },
+  "fri": {
+    "message": "Пт"
+  },
+  "webhooks_list": {
+    "message": "Webhooks список"
+  },
+  "add_new_webhook": {
+    "message": "Добавить новый Webhook"
+  },
+  "webhook_trigger": {
+    "message": "Webhook триггер"
+  },
+  "webhook_method": {
+    "message": "Webhook метод"
+  },
+  "webhook_endpoint": {
+    "message": "Webhook Конечная точка"
+  },
+  "request_payload": {
+    "message": "Запросить данные"
+  },
+  "response_action": {
+    "message": "Ответное действие"
+  },
+  "message_content_text_only": {
+    "message": "Содержание сообщения (только текст)"
+  },
+  "message_timestamp": {
+    "message": "Время сообщения"
+  },
+  "message_sender_phone_number": {
+    "message": "Номер телефона отправителя сообщения"
+  },
+  "message_sender_phone_book_name": {
+    "message": "Имя в телефонной книге отправителя сообщения"
+  },
+  "message_sender_whatsapp_account_name": {
+    "message": "Имя учетной записи WhatsApp отправителя сообщения"
+  },
+  "message_type": {
+    "message": "Тип сообщения"
+  },
+  "message_group_name": {
+    "message": "Название группы сообщений"
+  },
+  "how_to_setup_webhook": {
+    "message": "Как настроить мой Webhook?"
+  },
+  "smart_reply": {
+    "message": "Умный ответ"
+  },
+  "when_a_new_message_is_received": {
+    "message": "Когда получено новое сообщение"
+  },
+  "when_a_smart_reply_is_sent": {
+    "message": "Когда отправляется умный ответ"
+  },
+  "webhook_saved": {
+    "message": "Webhook сохранить."
+  },
+  "webhook_deleted": {
+    "message": "Webhook удален."
+  },
+  "you_have_no_webhooks": {
+    "message": "У вас нет Webhooks."
+  },
+  "are_you_sure_you_want_to_delete_the_selected_webhook": {
+    "message": "Вы действительно хотите удалить выбранный Webhook?"
+  },
+  "webhook": {
+    "message": "Webhook"
+  },
+  "your_prefilled_message": {
+    "message": "Ваше предварительно заполненное сообщение"
+  },
+  "why_dont_you_setp_smart_reply": {
+    "message": "Почему бы вам не <a href='javascript:;'>настроить умный ответ</a>  для своей ссылки??"
+  },
+  "pin_unread_chats_to_the_top": {
+    "message": "Закрепить непрочитанные чаты вверху"
+  },
+  "repeat_this_action_for": {
+    "message": "Повторите это действие для"
+  },
+  "days": {
+    "message": "Дней"
+  },
+  "automatically_label_chats_when_receiving_this_message": {
+    "message": "Автоматически отмечать чаты при получении этого сообщения"
+  },
+  "if_you_want_to_setup_a_smart_reply_with_this_message_do_not_use_commas": {
+    "message": "Если вы хотите настроить умный ответ с этим сообщением, не используйте запятые."
+  },
+  "click_to_chat_description": {
+    "message": "Создавайте собственные ссылки, чтобы напрямую связаться с вами через WhatsApp."
+  },
+  "webhooks_description": {
+    "message": "Включите в WhatsApp пользовательские API, автоматизируйте ответы и отправляйте пользовательские запросы."
+  },
+  "how_to_use": {
+    "message": "Как использовать"
+  },
+  "nart_3": {
+    "message": "Празднуем первый зуб!"
+  },
+  "nart_4": {
+    "message": "У нребенка одного из наших программистов прорезался первый зуб! Мы решили предоставить нашим пользователям скидку 10% на стартовый пакет, если вы еще не пробовали WA Web Plus, сейчас это хороший шанс!"
+  },
+  "webhook_error": {
+    "message": "Webhook ошибка"
+  },
+  "use_w_to_print_webhook_response": {
+    "message": "Используйте {W} чтобы увидеть Webhook ответ."
+  },
+  "click_to_chat_message": {
+    "message": "Вот ваша ссылка для общения в чате ниже, вы можете поделиться ею со своими друзьями или клиентами с помощью предварительно заполненного сообщения, которое вы получите, когда они нажмут на вашу ссылку:"
+  }
+
+
+
+ 
+
+  ,
+  "enable_full_screen_on_large_screens": {
+    "message": "Включить полноэкранный режим на больших экранах"
+  },
+  "image": {
+    "message": "Изображение"
+  },
+  "image_url": {
+    "message": "Изображение URL"
+  },
+  "import_targets_from_excel_sheet": {
+    "message": "Параметры импорта из листа Excel"
+  },
+  "import_targets_text": {
+    "message": "Выберите файл XLSX или CSV с вашими контактами, ваш лист должен содержать <code> номера </code> в международном формате без каких-либо ведущих нулей, плюс или тире. Вы можете использовать дополнительные столбцы, такие как <code> name </code> и <code> extra </code> значение параметра, которые можно персонализировать в вашем шаблоне сообщения, <a href='https://wawplus.com/manual/importing-targets-from-an-excel-sheet' target='_blank'>нажмите здесь, чтобы узнать, как это сделать</a>."
+  },
+  "automatically_label_chat_after_replying": {
+    "message": "Автоматически помечать чат после ответа"
+  },
+  "dont_reply_in_active_chats": {
+    "message": "Не отвечать в активных чатах"
+  },
+  "forgot_password": {
+    "message": "Забыть пароль"
+  },
+  "are_you_sure_you_want_to_reset_the_password": {
+    "message": "Вы уверены, что хотите сбросить пароль? Новый пароль будет отправлен на ваш аккаунт WhatsApp."
+  },
+  "your_new_whatsapp_web_password_is": {
+    "message": "Новое веб-приложение WhatsApp пароль:"
+  },
+  "password_reset_check_your_whatsapp": {
+    "message": "Пароль был сброшен, пожалуйста, проверьте свой аккаунт WhatsApp на наличие нового пароля."
+  },
+  "block_the_sender_instead_of_replying": {
+    "message": "Заблокируйте отправителя Вместо ответа"
+  },
+  "randomly": {
+    "message": "Случчайное"
+  },
+  "message_template": {
+    "message": "Шаблон сообщения"
+  },
+  "webhook_direction": {
+    "message": "Webhook Направление"
+  },
+  "phone_number_field": {
+    "message": "Поле номер телефона"
+  },
+  "contact_name_field": {
+    "message": "Поле имя контакта"
+  },
+  "extra_parameter_field": {
+    "message": "Дополнительное поле"
+  },
+  "verify_if_numbers_have_whatsapp": {
+    "message": "Перед импортом проверьте, есть ли у номеров учетные записи WhatsApp"
+  },
+  "template_image_validation": {
+    "message": "Должен быть допустимый файл изображения (jpeg, jpg, png) и размером менее 1 МБ"
+  },
+  "firebase_settings": {
+    "message": "Настройки Firebase"
+  },
+  "settings_saved": {
+    "message": "Настройки Cохранены."
+  }
+
+
+
+  ,
+  "template_file_validation": {
+    "message": "Размер файла не должен превышать 60 МБ"
+  },
+  "file": {
+    "message": "файл"
+  }
+
+ 
+,
+  "order_details_sent_to_email": {
+    "message": "Ваш лицензионный ключ и детали заказа будут отправлены на ваш адрес электронной почты при подписке. Если вы не получили от нас письмо по электронной почте, подождите до 10 минут, пока ваш заказ будет обработан.  Если вы не нашли сообщение в своем почтовом ящике, проверьте папку со спамом."
+  },
+  "insert_your_license_key": {
+    "message": "Вставьте ключ лицензии"
+  },
+  "call_logs": {
+    "message": "Лог звонков"
+  }
+
+  ,
+  "sticker_generator": {
+    "message": "Генератор стикеров"
+  },
+  "sticker_image": {
+    "message": "Изображение стикера"
+  },
+  "sticker_image_note": {
+    "message": "Изображение вашего стикера должно быть квадратным, иначе оно будет выглядеть некрасиво. Вы можете легко использовать <a href='https://remove.bg' target='_blank'>www.remove.bg</a> для автоматической очистки фона ваших наклеек одним щелчком мыши!<br><br>Нажмите кнопку отправки, чтобы получить стикер в личном чате WhatsApp."
+  },
+  "view_numbers_list": {
+    "message": "Просмотр списка номеров"
+  },
+  "whatsapp_numbers": {
+    "message": "WhatsApp номера"
+  },
+  "lifetime_deal_ends_in_few_days": {
+    "message": "Пожизненная сделка<br>Заканчивается через несколько дней!"
+  },
+  "delete_all": {
+    "message": "Удалить все"
+  }
+
+
+
+  ,
+  "archive_the_conversation_after_replying": {
+    "message": "Архивировать диалог после ответа"
+  },
+  "mark_the_conversation_as_read_after_replying": {
+    "message": "Пометить как прочитано после ответа"
+  },
+  "enable_contact_info_icon": {
+    "message": "Подробная информация о контакте (Валюта, Население, Часовые пояса)"
+  },
+  "contact_info": {
+    "message": "Информация о контакте"
+  },
+  "country": {
+    "message": "Страна"
+  },
+  "currency": {
+    "message": "Валюта"
+  },
+  "languages": {
+    "message": "Язык"
+  },
+  "population": {
+    "message": "Население"
+  },
+  "export_import_all_settings": {
+    "message": "Экспорт/импорт всех настроек"
+  },
+  "settings_data": {
+    "message": "Данные настроек"
+  },
+  "card": {
+    "message": "Card"
+  },
+  "card_link": {
+    "message": "Card Link"
+  }
+
+
+
+
+
+    
+  ,
+  "x_direction": {
+    "message": "ltr"
+  },
+  "x_direction_opposite": {
+    "message": "rtl"
+  },
+  "x_direction_float": {
+    "message": "left"
+  },
+  "x_direction_float_opposite": {
+    "message": "right"
+  },
+  "x_direction_class_letter": {
+    "message": "l"
+  },
+  "x_direction_class_letter_opposite": {
+    "message": "r"
+  },
+  "x_id": {
+    "message": "ekcgkejcjdcmonfpmnljobemcbpnkamh"
+  },
+  "x_link": {
+    "message": "chrome-extension://ekcgkejcjdcmonfpmnljobemcbpnkamh"
+  },
+  "x_lang_code": {
+    "message": "ru"
+  },
+  "x_lang_name": {
+    "message": "Русский"
+  }
+
+
+
+
+
+  
+
+  
+}
